@@ -1,5 +1,5 @@
 {
- "bijgewerkt": "2026-10-07T17:20:00+00:00",
+ "bijgewerkt": "2026-10-07T18:04:03+00:00",
  "export": "2026-09-30",
  "boeken": [
   {
@@ -19,7 +19,7 @@
     }
    ],
    "nieuw_sinds": null,
-   "gecontroleerd": "2026-10-07T17:20:00+00:00"
+   "gecontroleerd": "2026-10-07T17:50:08+00:00"
   },
   {
    "id": "18194507",
@@ -34,7 +34,7 @@
      "titel": "Veelvuldig en alleen",
      "type": "Boek",
      "info": "Nederlands | juni 2023",
-     "omslag": null,
+     "omslag": "https://www.sambis.nl/iguana/KB.AZB.cls?ppn=438845889&ExternalProfile=InforAll!!!###!!!MATTYPE=BKVF!!!###!!!PUBTYPE=1",
      "vertaling_van": null,
      "exemplaren": [
       {
@@ -56,7 +56,7 @@
     }
    ],
    "nieuw_sinds": null,
-   "gecontroleerd": "2026-10-07T17:20:00+00:00"
+   "gecontroleerd": "2026-10-07T17:50:10+00:00"
   },
   {
    "id": "244991366",
@@ -71,7 +71,7 @@
      "titel": "Corpus Britney",
      "type": "Boek",
      "info": "Nederlands | [2026]",
-     "omslag": null,
+     "omslag": "https://www.sambis.nl/iguana/KB.AZB.cls?ppn=459605585&ExternalProfile=InforAll!!!###!!!MATTYPE=BKVF!!!###!!!PUBTYPE=1",
      "vertaling_van": null,
      "exemplaren": [
       {
@@ -93,7 +93,7 @@
     }
    ],
    "nieuw_sinds": null,
-   "gecontroleerd": "2026-10-07T17:20:00+00:00"
+   "gecontroleerd": "2026-10-07T17:50:11+00:00"
   },
   {
    "id": "213870083",
@@ -112,7 +112,7 @@
     }
    ],
    "nieuw_sinds": null,
-   "gecontroleerd": "2026-10-07T17:20:00+00:00"
+   "gecontroleerd": "2026-10-07T17:50:24+00:00"
   },
   {
    "id": "247970449",
@@ -131,7 +131,7 @@
     }
    ],
    "nieuw_sinds": null,
-   "gecontroleerd": "2026-10-07T17:20:00+00:00"
+   "gecontroleerd": "2026-10-07T17:50:58+00:00"
   },
   {
    "id": "54870256",
@@ -150,7 +150,7 @@
     }
    ],
    "nieuw_sinds": null,
-   "gecontroleerd": "2026-10-07T17:20:00+00:00"
+   "gecontroleerd": "2026-10-07T17:51:04+00:00"
   },
   {
    "id": "252544111",
@@ -169,7 +169,7 @@
     }
    ],
    "nieuw_sinds": null,
-   "gecontroleerd": "2026-10-07T17:20:00+00:00"
+   "gecontroleerd": "2026-10-07T17:51:24+00:00"
   },
   {
    "id": "246655250",
@@ -188,7 +188,7 @@
     }
    ],
    "nieuw_sinds": null,
-   "gecontroleerd": "2026-10-07T17:20:00+00:00"
+   "gecontroleerd": "2026-10-07T17:51:40+00:00"
   },
   {
    "id": "251286424",
@@ -203,7 +203,7 @@
      "titel": "Biografie van X",
      "type": "Boek",
      "info": "Nederlands | [2026]",
-     "omslag": null,
+     "omslag": "https://www.sambis.nl/iguana/KB.AZB.cls?ppn=456001018&ExternalProfile=InforAll!!!###!!!MATTYPE=BKVF!!!###!!!PUBTYPE=1",
      "vertaling_van": null,
      "exemplaren": [
       {
@@ -225,7 +225,7 @@
     }
    ],
    "nieuw_sinds": null,
-   "gecontroleerd": "2026-10-07T17:20:00+00:00"
+   "gecontroleerd": "2026-10-07T17:51:42+00:00"
   },
   {
    "id": "251437359",
@@ -240,7 +240,7 @@
      "titel": "Wij vinden dat fijn",
      "type": "Boek",
      "info": "Nederlands | 2026",
-     "omslag": null,
+     "omslag": "https://www.sambis.nl/iguana/KB.AZB.cls?ppn=456122818&ExternalProfile=InforAll!!!###!!!MATTYPE=SPR!!!###!!!PUBTYPE=1",
      "vertaling_van": null,
      "exemplaren": [
       {
@@ -270,7 +270,7 @@
     }
    ],
    "nieuw_sinds": null,
-   "gecontroleerd": "2026-10-07T17:20:00+00:00"
+   "gecontroleerd": "2026-10-07T17:51:43+00:00"
   },
   {
    "id": "248237688",
@@ -285,7 +285,7 @@
      "titel": "De Reichenbachs",
      "type": "Boek",
      "info": "Nederlands | 2026",
-     "omslag": null,
+     "omslag": "https://www.sambis.nl/iguana/KB.AZB.cls?ppn=450326330&ExternalProfile=InforAll!!!###!!!MATTYPE=BKVF!!!###!!!PUBTYPE=1",
      "vertaling_van": null,
      "exemplaren": [
       {
@@ -307,7 +307,7 @@
     }
    ],
    "nieuw_sinds": null,
-   "gecontroleerd": "2026-10-07T17:20:00+00:00"
+   "gecontroleerd": "2026-10-07T17:51:45+00:00"
   },
   {
    "id": "231183649",
@@ -326,7 +326,7 @@
     }
    ],
    "nieuw_sinds": null,
-   "gecontroleerd": "2026-10-07T17:20:00+00:00"
+   "gecontroleerd": "2026-10-07T17:52:08+00:00"
   },
   {
    "id": "9744267",
@@ -341,7 +341,7 @@
      "titel": "Affiniteit",
      "type": "Boek",
      "info": "Nederlands | 2015",
-     "omslag": null,
+     "omslag": "https://www.sambis.nl/iguana/KB.AZB.cls?ppn=383853028&ExternalProfile=InforAll!!!###!!!MATTYPE=BKVF!!!###!!!PUBTYPE=1",
      "vertaling_van": null,
      "exemplaren": [
       {
@@ -363,7 +363,7 @@
     }
    ],
    "nieuw_sinds": null,
-   "gecontroleerd": "2026-10-07T17:20:00+00:00"
+   "gecontroleerd": "2026-10-07T17:52:09+00:00"
   },
   {
    "id": "248312672",
@@ -378,7 +378,7 @@
      "titel": "Een woord voor",
      "type": "Boek",
      "info": "Nederlands | [2026]",
-     "omslag": null,
+     "omslag": "https://www.sambis.nl/iguana/KB.AZB.cls?ppn=456063331&ExternalProfile=InforAll!!!###!!!MATTYPE=SPR!!!###!!!PUBTYPE=1",
      "vertaling_van": null,
      "exemplaren": [
       {
@@ -400,7 +400,7 @@
     }
    ],
    "nieuw_sinds": null,
-   "gecontroleerd": "2026-10-07T17:20:00+00:00"
+   "gecontroleerd": "2026-10-07T17:52:10+00:00"
   },
   {
    "id": "236762685",
@@ -415,7 +415,7 @@
      "titel": "Het gore lef",
      "type": "Boek",
      "info": "Nederlands | augustus 2025",
-     "omslag": null,
+     "omslag": "https://www.sambis.nl/iguana/KB.AZB.cls?ppn=45307278X&ExternalProfile=InforAll!!!###!!!MATTYPE=BKVF!!!###!!!PUBTYPE=1",
      "vertaling_van": null,
      "exemplaren": [
       {
@@ -445,7 +445,7 @@
     }
    ],
    "nieuw_sinds": null,
-   "gecontroleerd": "2026-10-07T17:20:00+00:00"
+   "gecontroleerd": "2026-10-07T17:52:12+00:00"
   },
   {
    "id": "12338137",
@@ -460,7 +460,7 @@
      "titel": "De tranen van Kuif den Dolder",
      "type": "Boek",
      "info": "Nederlands | september 2014",
-     "omslag": null,
+     "omslag": "https://www.sambis.nl/iguana/KB.AZB.cls?ppn=382865839&ExternalProfile=InforAll!!!###!!!MATTYPE=BKVF!!!###!!!PUBTYPE=1",
      "vertaling_van": null,
      "exemplaren": [
       {
@@ -477,7 +477,7 @@
      "titel": "De tranen van Kuif den Dolder",
      "type": "Boek",
      "info": "Nederlands | 2017",
-     "omslag": null,
+     "omslag": "https://www.sambis.nl/iguana/KB.AZB.cls?ppn=409070440&ExternalProfile=InforAll!!!###!!!MATTYPE=BKVF!!!###!!!PUBTYPE=1",
      "vertaling_van": null,
      "exemplaren": [
       {
@@ -499,7 +499,7 @@
     }
    ],
    "nieuw_sinds": null,
-   "gecontroleerd": "2026-10-07T17:20:00+00:00"
+   "gecontroleerd": "2026-10-07T17:52:14+00:00"
   },
   {
    "id": "236863665",
@@ -518,7 +518,7 @@
     }
    ],
    "nieuw_sinds": null,
-   "gecontroleerd": "2026-10-07T17:20:00+00:00"
+   "gecontroleerd": "2026-10-07T17:52:53+00:00"
   },
   {
    "id": "61675059",
@@ -533,7 +533,7 @@
      "titel": "V13",
      "type": "Boek",
      "info": "Nederlands | [2023]",
-     "omslag": null,
+     "omslag": "https://www.sambis.nl/iguana/KB.AZB.cls?ppn=439091969&ExternalProfile=InforAll!!!###!!!MATTYPE=BKVN!!!###!!!PUBTYPE=1",
      "vertaling_van": null,
      "exemplaren": [
       {
@@ -555,7 +555,7 @@
     }
    ],
    "nieuw_sinds": null,
-   "gecontroleerd": "2026-10-07T17:20:00+00:00"
+   "gecontroleerd": "2026-10-07T17:52:55+00:00"
   },
   {
    "id": "238214677",
@@ -574,7 +574,7 @@
     }
    ],
    "nieuw_sinds": null,
-   "gecontroleerd": "2026-10-07T17:20:00+00:00"
+   "gecontroleerd": "2026-10-07T17:53:16+00:00"
   },
   {
    "id": "229071922",
@@ -593,7 +593,7 @@
     }
    ],
    "nieuw_sinds": null,
-   "gecontroleerd": "2026-10-07T17:20:00+00:00"
+   "gecontroleerd": "2026-10-07T17:53:45+00:00"
   },
   {
    "id": "59947696",
@@ -608,7 +608,7 @@
      "titel": "Verkeerde plaats, verkeerde moment",
      "type": "Boek",
      "info": "Nederlands | 2022",
-     "omslag": null,
+     "omslag": "https://www.sambis.nl/iguana/KB.AZB.cls?ppn=436752190&ExternalProfile=InforAll!!!###!!!MATTYPE=BKVF!!!###!!!PUBTYPE=1",
      "vertaling_van": "Wrong place, wrong time",
      "exemplaren": [
       {
@@ -630,7 +630,7 @@
     }
    ],
    "nieuw_sinds": null,
-   "gecontroleerd": "2026-10-07T17:20:00+00:00"
+   "gecontroleerd": "2026-10-07T17:53:48+00:00"
   },
   {
    "id": "231862231",
@@ -645,7 +645,7 @@
      "titel": "Verkeerd verbonden",
      "type": "Boek",
      "info": "Nederlands | mei 2025",
-     "omslag": null,
+     "omslag": "https://www.sambis.nl/iguana/KB.AZB.cls?ppn=444243186&ExternalProfile=InforAll!!!###!!!MATTYPE=BKVF!!!###!!!PUBTYPE=1",
      "vertaling_van": null,
      "exemplaren": [
       {
@@ -675,7 +675,7 @@
     }
    ],
    "nieuw_sinds": null,
-   "gecontroleerd": "2026-10-07T17:20:00+00:00"
+   "gecontroleerd": "2026-10-07T17:53:49+00:00"
   },
   {
    "id": "222077951",
@@ -690,7 +690,7 @@
      "titel": "De laatste dag van de veerman",
      "type": "Boek",
      "info": "Nederlands | [2024]",
-     "omslag": null,
+     "omslag": "https://www.sambis.nl/iguana/KB.AZB.cls?ppn=443087784&ExternalProfile=InforAll!!!###!!!MATTYPE=BKVF!!!###!!!PUBTYPE=1",
      "vertaling_van": null,
      "exemplaren": [
       {
@@ -712,7 +712,7 @@
     }
    ],
    "nieuw_sinds": null,
-   "gecontroleerd": "2026-10-07T17:20:00+00:00"
+   "gecontroleerd": "2026-10-07T17:53:50+00:00"
   },
   {
    "id": "214906792",
@@ -727,7 +727,7 @@
      "titel": "Tandenjager",
      "type": "Boek",
      "info": "Nederlands | [2025]",
-     "omslag": null,
+     "omslag": "https://www.sambis.nl/iguana/KB.AZB.cls?ppn=443096767&ExternalProfile=InforAll!!!###!!!MATTYPE=BKVF!!!###!!!PUBTYPE=1",
      "vertaling_van": null,
      "exemplaren": [
       {
@@ -749,7 +749,7 @@
     }
    ],
    "nieuw_sinds": null,
-   "gecontroleerd": "2026-10-07T17:20:00+00:00"
+   "gecontroleerd": "2026-10-07T17:53:52+00:00"
   },
   {
    "id": "15710299",
@@ -768,7 +768,7 @@
     }
    ],
    "nieuw_sinds": null,
-   "gecontroleerd": "2026-10-07T17:20:00+00:00"
+   "gecontroleerd": "2026-10-07T17:54:06+00:00"
   },
   {
    "id": "70897",
@@ -783,7 +783,7 @@
      "titel": "De verborgen geschiedenis",
      "type": "Boek",
      "info": "Nederlands | 2018",
-     "omslag": null,
+     "omslag": "https://www.sambis.nl/iguana/KB.AZB.cls?ppn=411248871&ExternalProfile=InforAll!!!###!!!MATTYPE=BKVF!!!###!!!PUBTYPE=1",
      "vertaling_van": "The secret history",
      "exemplaren": [
       {
@@ -813,7 +813,7 @@
     }
    ],
    "nieuw_sinds": null,
-   "gecontroleerd": "2026-10-07T17:20:00+00:00"
+   "gecontroleerd": "2026-10-07T17:54:09+00:00"
   },
   {
    "id": "215511692",
@@ -828,7 +828,7 @@
      "titel": "Een kern van waarheid",
      "type": "Boek",
      "info": "Nederlands | juni 2024",
-     "omslag": null,
+     "omslag": "https://www.sambis.nl/iguana/KB.AZB.cls?ppn=443323690&ExternalProfile=InforAll!!!###!!!MATTYPE=BKVF!!!###!!!PUBTYPE=1",
      "vertaling_van": null,
      "exemplaren": [
       {
@@ -850,7 +850,7 @@
     }
    ],
    "nieuw_sinds": null,
-   "gecontroleerd": "2026-10-07T17:20:00+00:00"
+   "gecontroleerd": "2026-10-07T17:54:11+00:00"
   },
   {
    "id": "26101",
@@ -865,7 +865,7 @@
      "titel": "Lachwekkende liefdes",
      "type": "Boek",
      "info": "Nederlands | 2004",
-     "omslag": null,
+     "omslag": "https://www.sambis.nl/iguana/KB.AZB.cls?ppn=087927187&ExternalProfile=InforAll!!!###!!!MATTYPE=BKVF!!!###!!!PUBTYPE=1",
      "vertaling_van": "Laughable Loves",
      "exemplaren": [
       {
@@ -887,7 +887,7 @@
     }
    ],
    "nieuw_sinds": null,
-   "gecontroleerd": "2026-10-07T17:20:00+00:00"
+   "gecontroleerd": "2026-10-07T17:54:33+00:00"
   },
   {
    "id": "28634",
@@ -902,7 +902,7 @@
      "titel": "Onsterfelijkheid",
      "type": "Boek",
      "info": "Nederlands | 2017",
-     "omslag": null,
+     "omslag": "https://www.sambis.nl/iguana/KB.AZB.cls?ppn=411121162&ExternalProfile=InforAll!!!###!!!MATTYPE=BKVF!!!###!!!PUBTYPE=1",
      "vertaling_van": "Immortality",
      "exemplaren": [
       {
@@ -919,7 +919,7 @@
      "titel": "Onsterfelijkheid",
      "type": "Boek",
      "info": "Nederlands | 1990",
-     "omslag": null,
+     "omslag": "https://www.sambis.nl/iguana/KB.AZB.cls?ppn=067415849&ExternalProfile=InforAll!!!###!!!MATTYPE=BKVF!!!###!!!PUBTYPE=1",
      "vertaling_van": "Immortality",
      "exemplaren": [
       {
@@ -941,7 +941,7 @@
     }
    ],
    "nieuw_sinds": null,
-   "gecontroleerd": "2026-10-07T17:20:00+00:00"
+   "gecontroleerd": "2026-10-07T17:54:52+00:00"
   },
   {
    "id": "123136728",
@@ -956,7 +956,7 @@
      "titel": "In orbit",
      "type": "Boek",
      "info": "Nederlands | 2024",
-     "omslag": null,
+     "omslag": "https://www.sambis.nl/iguana/KB.AZB.cls?ppn=444242848&ExternalProfile=InforAll!!!###!!!MATTYPE=BKVF!!!###!!!PUBTYPE=1",
      "vertaling_van": "Orbital",
      "exemplaren": [
       {
@@ -978,7 +978,7 @@
     }
    ],
    "nieuw_sinds": null,
-   "gecontroleerd": "2026-10-07T17:20:00+00:00"
+   "gecontroleerd": "2026-10-07T17:54:55+00:00"
   },
   {
    "id": "59412935",
@@ -993,7 +993,7 @@
      "titel": "Miniapolis",
      "type": "Boek",
      "info": "Nederlands | [2021]",
-     "omslag": null,
+     "omslag": "https://www.sambis.nl/iguana/KB.AZB.cls?ppn=433345926&ExternalProfile=InforAll!!!###!!!MATTYPE=BKVF!!!###!!!PUBTYPE=1",
      "vertaling_van": null,
      "exemplaren": [
       {
@@ -1015,7 +1015,7 @@
     }
    ],
    "nieuw_sinds": null,
-   "gecontroleerd": "2026-10-07T17:20:00+00:00"
+   "gecontroleerd": "2026-10-07T17:54:55+00:00"
   },
   {
    "id": "231797240",
@@ -1034,7 +1034,7 @@
     }
    ],
    "nieuw_sinds": null,
-   "gecontroleerd": "2026-10-07T17:20:00+00:00"
+   "gecontroleerd": "2026-10-07T17:55:32+00:00"
   },
   {
    "id": "3679",
@@ -1053,7 +1053,7 @@
     }
    ],
    "nieuw_sinds": null,
-   "gecontroleerd": "2026-10-07T17:20:00+00:00"
+   "gecontroleerd": "2026-10-07T17:56:05+00:00"
   },
   {
    "id": "3170060",
@@ -1072,7 +1072,7 @@
     }
    ],
    "nieuw_sinds": null,
-   "gecontroleerd": "2026-10-07T17:20:00+00:00"
+   "gecontroleerd": "2026-10-07T17:56:25+00:00"
   },
   {
    "id": "229039552",
@@ -1087,7 +1087,7 @@
      "titel": "De bandagist",
      "type": "Boek",
      "info": "Nederlands | 2025",
-     "omslag": null,
+     "omslag": "https://www.sambis.nl/iguana/KB.AZB.cls?ppn=444290931&ExternalProfile=InforAll!!!###!!!MATTYPE=BKVF!!!###!!!PUBTYPE=1",
      "vertaling_van": null,
      "exemplaren": [
       {
@@ -1109,7 +1109,7 @@
     }
    ],
    "nieuw_sinds": null,
-   "gecontroleerd": "2026-10-07T17:20:00+00:00"
+   "gecontroleerd": "2026-10-07T17:56:27+00:00"
   },
   {
    "id": "227857492",
@@ -1128,7 +1128,7 @@
     }
    ],
    "nieuw_sinds": null,
-   "gecontroleerd": "2026-10-07T17:20:00+00:00"
+   "gecontroleerd": "2026-10-07T17:57:02+00:00"
   },
   {
    "id": "5107",
@@ -1147,7 +1147,7 @@
     }
    ],
    "nieuw_sinds": null,
-   "gecontroleerd": "2026-10-07T17:20:00+00:00"
+   "gecontroleerd": "2026-10-07T17:57:16+00:00"
   },
   {
    "id": "44468805",
@@ -1162,7 +1162,7 @@
      "titel": "Vallen is als vliegen",
      "type": "Boek",
      "info": "Nederlands | 2020",
-     "omslag": null,
+     "omslag": "https://www.sambis.nl/iguana/KB.AZB.cls?ppn=426339282&ExternalProfile=InforAll!!!###!!!MATTYPE=BKVF!!!###!!!PUBTYPE=1",
      "vertaling_van": null,
      "exemplaren": [
       {
@@ -1200,7 +1200,7 @@
     }
    ],
    "nieuw_sinds": null,
-   "gecontroleerd": "2026-10-07T17:20:00+00:00"
+   "gecontroleerd": "2026-10-07T17:57:18+00:00"
   },
   {
    "id": "209761993",
@@ -1219,7 +1219,7 @@
     }
    ],
    "nieuw_sinds": null,
-   "gecontroleerd": "2026-10-07T17:20:00+00:00"
+   "gecontroleerd": "2026-10-07T17:57:38+00:00"
   },
   {
    "id": "209017293",
@@ -1234,7 +1234,7 @@
      "titel": "Schuilhuisje",
      "type": "Boek",
      "info": "Nederlands | [2024]",
-     "omslag": null,
+     "omslag": "https://www.sambis.nl/iguana/KB.AZB.cls?ppn=44050418X&ExternalProfile=InforAll!!!###!!!MATTYPE=BKVF!!!###!!!PUBTYPE=1",
      "vertaling_van": null,
      "exemplaren": [
       {
@@ -1256,7 +1256,7 @@
     }
    ],
    "nieuw_sinds": null,
-   "gecontroleerd": "2026-10-07T17:20:00+00:00"
+   "gecontroleerd": "2026-10-07T17:57:39+00:00"
   },
   {
    "id": "219299241",
@@ -1271,7 +1271,7 @@
      "titel": "Waar",
      "type": "Boek",
      "info": "Nederlands | [2024]",
-     "omslag": null,
+     "omslag": "https://www.sambis.nl/iguana/KB.AZB.cls?ppn=442301626&ExternalProfile=InforAll!!!###!!!MATTYPE=BKVN!!!###!!!PUBTYPE=1",
      "vertaling_van": null,
      "exemplaren": [
       {
@@ -1293,7 +1293,7 @@
     }
    ],
    "nieuw_sinds": null,
-   "gecontroleerd": "2026-10-07T17:20:00+00:00"
+   "gecontroleerd": "2026-10-07T17:57:42+00:00"
   },
   {
    "id": "63891719",
@@ -1308,7 +1308,7 @@
      "titel": "Het woud van Birnam",
      "type": "Boek",
      "info": "Nederlands | [2023]",
-     "omslag": null,
+     "omslag": "https://www.sambis.nl/iguana/KB.AZB.cls?ppn=437490297&ExternalProfile=InforAll!!!###!!!MATTYPE=BKVF!!!###!!!PUBTYPE=1",
      "vertaling_van": null,
      "exemplaren": [
       {
@@ -1330,7 +1330,7 @@
     }
    ],
    "nieuw_sinds": null,
-   "gecontroleerd": "2026-10-07T17:20:00+00:00"
+   "gecontroleerd": "2026-10-07T17:57:44+00:00"
   },
   {
    "id": "28396549",
@@ -1349,7 +1349,7 @@
     }
    ],
    "nieuw_sinds": null,
-   "gecontroleerd": "2026-10-07T17:20:00+00:00"
+   "gecontroleerd": "2026-10-07T17:58:05+00:00"
   },
   {
    "id": "206828258",
@@ -1368,7 +1368,7 @@
     }
    ],
    "nieuw_sinds": null,
-   "gecontroleerd": "2026-10-07T17:20:00+00:00"
+   "gecontroleerd": "2026-10-07T17:58:26+00:00"
   },
   {
    "id": "215800969",
@@ -1387,7 +1387,7 @@
     }
    ],
    "nieuw_sinds": null,
-   "gecontroleerd": "2026-10-07T17:20:00+00:00"
+   "gecontroleerd": "2026-10-07T17:58:37+00:00"
   },
   {
    "id": "199333629",
@@ -1406,7 +1406,7 @@
     }
    ],
    "nieuw_sinds": null,
-   "gecontroleerd": "2026-10-07T17:20:00+00:00"
+   "gecontroleerd": "2026-10-07T17:58:47+00:00"
   },
   {
    "id": "9658390",
@@ -1421,7 +1421,7 @@
      "titel": "De dood van Ivan Iljitsj",
      "type": "Boek",
      "info": "Nederlands | februari 2020",
-     "omslag": null,
+     "omslag": "https://www.sambis.nl/iguana/KB.AZB.cls?ppn=425177793&ExternalProfile=InforAll!!!###!!!MATTYPE=BKVF!!!###!!!PUBTYPE=1",
      "vertaling_van": null,
      "exemplaren": [
       {
@@ -1438,7 +1438,7 @@
      "titel": "De dood van Ivan Iljitsj",
      "type": "Boek",
      "info": "Nederlands | [2013]",
-     "omslag": null,
+     "omslag": "https://www.sambis.nl/iguana/KB.AZB.cls?ppn=355552582&ExternalProfile=InforAll!!!###!!!MATTYPE=BKVF!!!###!!!PUBTYPE=1",
      "vertaling_van": null,
      "exemplaren": [
       {
@@ -1460,7 +1460,7 @@
     }
    ],
    "nieuw_sinds": null,
-   "gecontroleerd": "2026-10-07T17:20:00+00:00"
+   "gecontroleerd": "2026-10-07T17:58:51+00:00"
   },
   {
    "id": "770754",
@@ -1475,7 +1475,7 @@
      "titel": "De pest",
      "type": "Boek",
      "info": "Nederlands | 2019",
-     "omslag": null,
+     "omslag": "https://www.sambis.nl/iguana/KB.AZB.cls?ppn=420997318&ExternalProfile=InforAll!!!###!!!MATTYPE=BKVF!!!###!!!PUBTYPE=1",
      "vertaling_van": "La peste",
      "exemplaren": [
       {
@@ -1505,7 +1505,7 @@
     }
    ],
    "nieuw_sinds": null,
-   "gecontroleerd": "2026-10-07T17:20:00+00:00"
+   "gecontroleerd": "2026-10-07T17:58:53+00:00"
   },
   {
    "id": "211052285",
@@ -1520,7 +1520,7 @@
      "titel": "De mensheid zal nog van mij horen",
      "type": "Boek",
      "info": "Nederlands | september 2024",
-     "omslag": null,
+     "omslag": "https://www.sambis.nl/iguana/KB.AZB.cls?ppn=442293275&ExternalProfile=InforAll!!!###!!!MATTYPE=BKVN!!!###!!!PUBTYPE=1",
      "vertaling_van": null,
      "exemplaren": [
       {
@@ -1542,7 +1542,7 @@
     }
    ],
    "nieuw_sinds": null,
-   "gecontroleerd": "2026-10-07T17:20:00+00:00"
+   "gecontroleerd": "2026-10-07T17:58:55+00:00"
   },
   {
    "id": "49249766",
@@ -1557,7 +1557,7 @@
      "titel": "Traumasporen",
      "type": "Boek",
      "info": "Nederlands | 2021",
-     "omslag": null,
+     "omslag": "https://www.sambis.nl/iguana/KB.AZB.cls?ppn=402101707&ExternalProfile=InforAll!!!###!!!MATTYPE=BKVN!!!###!!!PUBTYPE=1",
      "vertaling_van": null,
      "exemplaren": [
       {
@@ -1579,7 +1579,7 @@
     }
    ],
    "nieuw_sinds": null,
-   "gecontroleerd": "2026-10-07T17:20:00+00:00"
+   "gecontroleerd": "2026-10-07T17:58:56+00:00"
   },
   {
    "id": "59808603",
@@ -1598,7 +1598,7 @@
     }
    ],
    "nieuw_sinds": null,
-   "gecontroleerd": "2026-10-07T17:20:00+00:00"
+   "gecontroleerd": "2026-10-07T17:59:06+00:00"
   },
   {
    "id": "33253215",
@@ -1613,7 +1613,7 @@
      "titel": "Wat het hart verwoest",
      "type": "Boek",
      "info": "Nederlands | 2019",
-     "omslag": null,
+     "omslag": "https://www.sambis.nl/iguana/KB.AZB.cls?ppn=420879684&ExternalProfile=InforAll!!!###!!!MATTYPE=BKVF!!!###!!!PUBTYPE=1",
      "vertaling_van": "The heart's invisible furies",
      "exemplaren": [
       {
@@ -1651,7 +1651,7 @@
     }
    ],
    "nieuw_sinds": null,
-   "gecontroleerd": "2026-10-07T17:20:00+00:00"
+   "gecontroleerd": "2026-10-07T17:59:07+00:00"
   },
   {
    "id": "18378023",
@@ -1666,7 +1666,7 @@
      "titel": "Het leven, een handleiding",
      "type": "Boek",
      "info": "Nederlands | cop. 2013",
-     "omslag": null,
+     "omslag": "https://www.sambis.nl/iguana/KB.AZB.cls?ppn=352200340&ExternalProfile=InforAll!!!###!!!MATTYPE=BKVN!!!###!!!PUBTYPE=1",
      "vertaling_van": "The Examined Life",
      "exemplaren": [
       {
@@ -1688,7 +1688,7 @@
     }
    ],
    "nieuw_sinds": null,
-   "gecontroleerd": "2026-10-07T17:20:00+00:00"
+   "gecontroleerd": "2026-10-07T17:59:14+00:00"
   },
   {
    "id": "13002528",
@@ -1703,7 +1703,7 @@
      "titel": "Vaslav",
      "type": "Boek",
      "info": "Nederlands | 2011",
-     "omslag": null,
+     "omslag": "https://www.sambis.nl/iguana/KB.AZB.cls?ppn=326084967&ExternalProfile=InforAll!!!###!!!MATTYPE=BKVF!!!###!!!PUBTYPE=1",
      "vertaling_van": null,
      "exemplaren": [
       {
@@ -1733,7 +1733,7 @@
     }
    ],
    "nieuw_sinds": null,
-   "gecontroleerd": "2026-10-07T17:20:00+00:00"
+   "gecontroleerd": "2026-10-07T17:59:14+00:00"
   },
   {
    "id": "63269510",
@@ -1748,7 +1748,7 @@
      "titel": "Op zoek naar de verstrooide tijd",
      "type": "Boek",
      "info": "Nederlands | [2023]",
-     "omslag": null,
+     "omslag": "https://www.sambis.nl/iguana/KB.AZB.cls?ppn=437779157&ExternalProfile=InforAll!!!###!!!MATTYPE=BKVN!!!###!!!PUBTYPE=1",
      "vertaling_van": null,
      "exemplaren": [
       {
@@ -1770,7 +1770,7 @@
     }
    ],
    "nieuw_sinds": null,
-   "gecontroleerd": "2026-10-07T17:20:00+00:00"
+   "gecontroleerd": "2026-10-07T17:59:15+00:00"
   },
   {
    "id": "32620332",
@@ -1785,7 +1785,7 @@
      "titel": "De zeven echtgenoten van Evelyn Hugo",
      "type": "Boek",
      "info": "Nederlands | 2022",
-     "omslag": null,
+     "omslag": "https://www.sambis.nl/iguana/KB.AZB.cls?ppn=435362003&ExternalProfile=InforAll!!!###!!!MATTYPE=BKVF!!!###!!!PUBTYPE=1",
      "vertaling_van": "The seven husbands of Evelyn Hugo",
      "exemplaren": [
       {
@@ -1807,7 +1807,7 @@
     }
    ],
    "nieuw_sinds": null,
-   "gecontroleerd": "2026-10-07T17:20:00+00:00"
+   "gecontroleerd": "2026-10-07T17:59:18+00:00"
   },
   {
    "id": "36587351",
@@ -1822,7 +1822,7 @@
      "titel": "De keuze",
      "type": "Boek",
      "info": "Nederlands | oktober 2020",
-     "omslag": null,
+     "omslag": "https://www.sambis.nl/iguana/KB.AZB.cls?ppn=430162804&ExternalProfile=InforAll!!!###!!!MATTYPE=BKVN!!!###!!!PUBTYPE=1",
      "vertaling_van": null,
      "exemplaren": [
       {
@@ -1860,7 +1860,7 @@
     }
    ],
    "nieuw_sinds": null,
-   "gecontroleerd": "2026-10-07T17:20:00+00:00"
+   "gecontroleerd": "2026-10-07T17:59:21+00:00"
   },
   {
    "id": "175194515",
@@ -1875,7 +1875,7 @@
      "titel": "Gebied 19",
      "type": "Boek",
      "info": "Nederlands | [2023]",
-     "omslag": null,
+     "omslag": "https://www.sambis.nl/iguana/KB.AZB.cls?ppn=438474988&ExternalProfile=InforAll!!!###!!!MATTYPE=BKVF!!!###!!!PUBTYPE=1",
      "vertaling_van": null,
      "exemplaren": [
       {
@@ -1905,7 +1905,7 @@
     }
    ],
    "nieuw_sinds": null,
-   "gecontroleerd": "2026-10-07T17:20:00+00:00"
+   "gecontroleerd": "2026-10-07T17:59:23+00:00"
   },
   {
    "id": "96177629",
@@ -1920,7 +1920,7 @@
      "titel": "Good material [Nederlands]",
      "type": "Boek",
      "info": "Nederlands | [2024]",
-     "omslag": null,
+     "omslag": "https://www.sambis.nl/iguana/KB.AZB.cls?ppn=443047405&ExternalProfile=InforAll!!!###!!!MATTYPE=BKVF!!!###!!!PUBTYPE=1",
      "vertaling_van": null,
      "exemplaren": [
       {
@@ -1942,7 +1942,7 @@
     }
    ],
    "nieuw_sinds": null,
-   "gecontroleerd": "2026-10-07T17:20:00+00:00"
+   "gecontroleerd": "2026-10-07T17:59:25+00:00"
   },
   {
    "id": "52191015",
@@ -1957,7 +1957,7 @@
      "titel": "Liefde, als dat het is",
      "type": "Boek",
      "info": "Nederlands | juni 2019",
-     "omslag": null,
+     "omslag": "https://www.sambis.nl/iguana/KB.AZB.cls?ppn=42239386X&ExternalProfile=InforAll!!!###!!!MATTYPE=BKVF!!!###!!!PUBTYPE=1",
      "vertaling_van": null,
      "exemplaren": [
       {
@@ -1995,7 +1995,7 @@
     }
    ],
    "nieuw_sinds": null,
-   "gecontroleerd": "2026-10-07T17:20:00+00:00"
+   "gecontroleerd": "2026-10-07T17:59:26+00:00"
   },
   {
    "id": "63192053",
@@ -2010,7 +2010,7 @@
      "titel": "Alleen en duizend mensen",
      "type": "Boek",
      "info": "Nederlands | [2023]",
-     "omslag": null,
+     "omslag": "https://www.sambis.nl/iguana/KB.AZB.cls?ppn=43751692X&ExternalProfile=InforAll!!!###!!!MATTYPE=BKVF!!!###!!!PUBTYPE=1",
      "vertaling_van": null,
      "exemplaren": [
       {
@@ -2032,7 +2032,7 @@
     }
    ],
    "nieuw_sinds": null,
-   "gecontroleerd": "2026-10-07T17:20:00+00:00"
+   "gecontroleerd": "2026-10-07T17:59:27+00:00"
   },
   {
    "id": "61314161",
@@ -2047,7 +2047,7 @@
      "titel": "Weerlicht",
      "type": "Boek",
      "info": "Nederlands | juli 2022",
-     "omslag": null,
+     "omslag": "https://www.sambis.nl/iguana/KB.AZB.cls?ppn=436699184&ExternalProfile=InforAll!!!###!!!MATTYPE=BKVF!!!###!!!PUBTYPE=1",
      "vertaling_van": null,
      "exemplaren": [
       {
@@ -2069,7 +2069,7 @@
     }
    ],
    "nieuw_sinds": null,
-   "gecontroleerd": "2026-10-07T17:20:00+00:00"
+   "gecontroleerd": "2026-10-07T17:59:27+00:00"
   },
   {
    "id": "36180421",
@@ -2084,7 +2084,7 @@
      "titel": "De zweetvoetenman",
      "type": "Boek",
      "info": "Nederlands | [2017]",
-     "omslag": null,
+     "omslag": "https://www.sambis.nl/iguana/KB.AZB.cls?ppn=412593602&ExternalProfile=InforAll!!!###!!!MATTYPE=BKJF!!!###!!!PUBTYPE=1",
      "vertaling_van": null,
      "exemplaren": [
       {
@@ -2114,7 +2114,7 @@
     }
    ],
    "nieuw_sinds": null,
-   "gecontroleerd": "2026-10-07T17:20:00+00:00"
+   "gecontroleerd": "2026-10-07T17:59:28+00:00"
   },
   {
    "id": "39723057",
@@ -2129,7 +2129,7 @@
      "titel": "Jij bent van mij",
      "type": "Boek",
      "info": "Nederlands | 2018",
-     "omslag": null,
+     "omslag": "https://www.sambis.nl/iguana/KB.AZB.cls?ppn=413538540&ExternalProfile=InforAll!!!###!!!MATTYPE=BKVF!!!###!!!PUBTYPE=1",
      "vertaling_van": null,
      "exemplaren": [
       {
@@ -2175,7 +2175,7 @@
     }
    ],
    "nieuw_sinds": null,
-   "gecontroleerd": "2026-10-07T17:20:00+00:00"
+   "gecontroleerd": "2026-10-07T17:59:29+00:00"
   },
   {
    "id": "3316995",
@@ -2190,7 +2190,7 @@
      "titel": "De broncode",
      "type": "Boek",
      "info": "Nederlands | 2004",
-     "omslag": null,
+     "omslag": "https://www.sambis.nl/iguana/KB.AZB.cls?ppn=267773226&ExternalProfile=InforAll!!!###!!!MATTYPE=BKVN!!!###!!!PUBTYPE=1",
      "vertaling_van": null,
      "exemplaren": [
       {
@@ -2212,7 +2212,7 @@
     }
    ],
    "nieuw_sinds": null,
-   "gecontroleerd": "2026-10-07T17:20:00+00:00"
+   "gecontroleerd": "2026-10-07T17:59:30+00:00"
   },
   {
    "id": "7848758",
@@ -2227,7 +2227,7 @@
      "titel": "Nina",
      "type": "Boek",
      "info": "Nederlands | 2010",
-     "omslag": null,
+     "omslag": "https://www.sambis.nl/iguana/KB.AZB.cls?ppn=32286397X&ExternalProfile=InforAll!!!###!!!MATTYPE=BKVN!!!###!!!PUBTYPE=1",
      "vertaling_van": null,
      "exemplaren": [
       {
@@ -2249,7 +2249,7 @@
     }
    ],
    "nieuw_sinds": null,
-   "gecontroleerd": "2026-10-07T17:20:00+00:00"
+   "gecontroleerd": "2026-10-07T17:59:31+00:00"
   },
   {
    "id": "123996873",
@@ -2264,7 +2264,7 @@
      "titel": "De man met duizend gezichten",
      "type": "Boek",
      "info": "Nederlands | [2023]",
-     "omslag": null,
+     "omslag": "https://www.sambis.nl/iguana/KB.AZB.cls?ppn=437778967&ExternalProfile=InforAll!!!###!!!MATTYPE=BKVF!!!###!!!PUBTYPE=1",
      "vertaling_van": null,
      "exemplaren": [
       {
@@ -2302,7 +2302,7 @@
     }
    ],
    "nieuw_sinds": null,
-   "gecontroleerd": "2026-10-07T17:20:00+00:00"
+   "gecontroleerd": "2026-10-07T17:59:33+00:00"
   },
   {
    "id": "122988667",
@@ -2317,7 +2317,7 @@
      "titel": "De gast",
      "type": "Boek",
      "info": "Nederlands | 2023",
-     "omslag": null,
+     "omslag": "https://www.sambis.nl/iguana/KB.AZB.cls?ppn=438297873&ExternalProfile=InforAll!!!###!!!MATTYPE=BKVF!!!###!!!PUBTYPE=1",
      "vertaling_van": null,
      "exemplaren": [
       {
@@ -2339,7 +2339,7 @@
     }
    ],
    "nieuw_sinds": null,
-   "gecontroleerd": "2026-10-07T17:20:00+00:00"
+   "gecontroleerd": "2026-10-07T17:59:35+00:00"
   },
   {
    "id": "61157639",
@@ -2358,7 +2358,7 @@
     }
    ],
    "nieuw_sinds": null,
-   "gecontroleerd": "2026-10-07T17:20:00+00:00"
+   "gecontroleerd": "2026-10-07T17:59:52+00:00"
   },
   {
    "id": "63105991",
@@ -2377,7 +2377,7 @@
     }
    ],
    "nieuw_sinds": null,
-   "gecontroleerd": "2026-10-07T17:20:00+00:00"
+   "gecontroleerd": "2026-10-07T18:00:21+00:00"
   },
   {
    "id": "61174603",
@@ -2392,7 +2392,7 @@
      "titel": "Heidelberg",
      "type": "Boek",
      "info": "Nederlands | 2022",
-     "omslag": null,
+     "omslag": "https://www.sambis.nl/iguana/KB.AZB.cls?ppn=436030144&ExternalProfile=InforAll!!!###!!!MATTYPE=BKVF!!!###!!!PUBTYPE=1",
      "vertaling_van": null,
      "exemplaren": [
       {
@@ -2414,7 +2414,7 @@
     }
    ],
    "nieuw_sinds": null,
-   "gecontroleerd": "2026-10-07T17:20:00+00:00"
+   "gecontroleerd": "2026-10-07T18:00:22+00:00"
   },
   {
    "id": "63096631",
@@ -2433,7 +2433,7 @@
     }
    ],
    "nieuw_sinds": null,
-   "gecontroleerd": "2026-10-07T17:20:00+00:00"
+   "gecontroleerd": "2026-10-07T18:00:30+00:00"
   },
   {
    "id": "62207301",
@@ -2448,7 +2448,7 @@
      "titel": "De gebeurtenis",
      "type": "Boek",
      "info": "Nederlands | 2022",
-     "omslag": null,
+     "omslag": "https://www.sambis.nl/iguana/KB.AZB.cls?ppn=436019825&ExternalProfile=InforAll!!!###!!!MATTYPE=BKVF!!!###!!!PUBTYPE=1",
      "vertaling_van": null,
      "exemplaren": [
       {
@@ -2470,7 +2470,7 @@
     }
    ],
    "nieuw_sinds": null,
-   "gecontroleerd": "2026-10-07T17:20:00+00:00"
+   "gecontroleerd": "2026-10-07T18:00:31+00:00"
   },
   {
    "id": "223380",
@@ -2489,7 +2489,7 @@
     }
    ],
    "nieuw_sinds": null,
-   "gecontroleerd": "2026-10-07T17:20:00+00:00"
+   "gecontroleerd": "2026-10-07T18:00:54+00:00"
   },
   {
    "id": "12164300",
@@ -2508,7 +2508,7 @@
     }
    ],
    "nieuw_sinds": null,
-   "gecontroleerd": "2026-10-07T17:20:00+00:00"
+   "gecontroleerd": "2026-10-07T18:01:11+00:00"
   },
   {
    "id": "466518",
@@ -2523,7 +2523,7 @@
      "titel": "Nooit meer slapen",
      "type": "Boek",
      "info": "Nederlands | 2014 2014",
-     "omslag": null,
+     "omslag": "https://www.sambis.nl/iguana/KB.AZB.cls?ppn=322079454&ExternalProfile=InforAll!!!###!!!MATTYPE=BKVF!!!###!!!PUBTYPE=1",
      "vertaling_van": null,
      "exemplaren": [
       {
@@ -2540,7 +2540,7 @@
      "titel": "Nooit meer slapen",
      "type": "Boek",
      "info": "Nederlands | 2025",
-     "omslag": null,
+     "omslag": "https://www.sambis.nl/iguana/KB.AZB.cls?ppn=460238868&ExternalProfile=InforAll!!!###!!!MATTYPE=BKVF!!!###!!!PUBTYPE=1",
      "vertaling_van": null,
      "exemplaren": [
       {
@@ -2573,7 +2573,7 @@
      "titel": "Nooit meer slapen",
      "type": "Luisterboek",
      "info": "Nederlands | cop. 2010",
-     "omslag": null,
+     "omslag": "https://www.sambis.nl/iguana/KB.AZB.cls?ppn=325812551&ExternalProfile=InforAll!!!###!!!MATTYPE=VLUI!!!###!!!PUBTYPE=1",
      "vertaling_van": null,
      "exemplaren": [
       {
@@ -2595,7 +2595,7 @@
     }
    ],
    "nieuw_sinds": null,
-   "gecontroleerd": "2026-10-07T17:20:00+00:00"
+   "gecontroleerd": "2026-10-07T18:01:13+00:00"
   },
   {
    "id": "50998056",
@@ -2614,7 +2614,7 @@
     }
    ],
    "nieuw_sinds": null,
-   "gecontroleerd": "2026-10-07T17:20:00+00:00"
+   "gecontroleerd": "2026-10-07T18:01:46+00:00"
   },
   {
    "id": "50625669",
@@ -2629,7 +2629,7 @@
      "titel": "Daar waar de rivierkreeften zingen",
      "type": "Boek",
      "info": "Nederlands | augustus 2024",
-     "omslag": null,
+     "omslag": "https://www.sambis.nl/iguana/KB.AZB.cls?ppn=443434182&ExternalProfile=InforAll!!!###!!!MATTYPE=BKVF!!!###!!!PUBTYPE=1",
      "vertaling_van": null,
      "exemplaren": [
       {
@@ -2662,7 +2662,7 @@
      "titel": "Daar waar de rivierkreeften zingen",
      "type": "Boek",
      "info": "Nederlands | november 2023",
-     "omslag": null,
+     "omslag": "https://www.sambis.nl/iguana/KB.AZB.cls?ppn=440310490&ExternalProfile=InforAll!!!###!!!MATTYPE=BKVF!!!###!!!PUBTYPE=1",
      "vertaling_van": null,
      "exemplaren": [
       {
@@ -2700,7 +2700,7 @@
     }
    ],
    "nieuw_sinds": null,
-   "gecontroleerd": "2026-10-07T17:20:00+00:00"
+   "gecontroleerd": "2026-10-07T18:01:48+00:00"
   },
   {
    "id": "9530",
@@ -2719,7 +2719,7 @@
     }
    ],
    "nieuw_sinds": null,
-   "gecontroleerd": "2026-10-07T17:20:00+00:00"
+   "gecontroleerd": "2026-10-07T18:02:00+00:00"
   },
   {
    "id": "50911074",
@@ -2734,7 +2734,7 @@
      "titel": "Het moois dat we delen",
      "type": "Boek",
      "info": "Nederlands | oktober 2019",
-     "omslag": null,
+     "omslag": "https://www.sambis.nl/iguana/KB.AZB.cls?ppn=424143119&ExternalProfile=InforAll!!!###!!!MATTYPE=BKVF!!!###!!!PUBTYPE=1",
      "vertaling_van": null,
      "exemplaren": [
       {
@@ -2780,7 +2780,7 @@
     }
    ],
    "nieuw_sinds": null,
-   "gecontroleerd": "2026-10-07T17:20:00+00:00"
+   "gecontroleerd": "2026-10-07T18:02:01+00:00"
   },
   {
    "id": "59484492",
@@ -2799,7 +2799,7 @@
     }
    ],
    "nieuw_sinds": null,
-   "gecontroleerd": "2026-10-07T17:20:00+00:00"
+   "gecontroleerd": "2026-10-07T18:02:13+00:00"
   },
   {
    "id": "57328903",
@@ -2814,7 +2814,7 @@
      "titel": "Klara en de zon",
      "type": "Boek",
      "info": "Nederlands | [2021]",
-     "omslag": null,
+     "omslag": "https://www.sambis.nl/iguana/KB.AZB.cls?ppn=430304544&ExternalProfile=InforAll!!!###!!!MATTYPE=BKVF!!!###!!!PUBTYPE=1",
      "vertaling_van": null,
      "exemplaren": [
       {
@@ -2836,7 +2836,7 @@
     }
    ],
    "nieuw_sinds": null,
-   "gecontroleerd": "2026-10-07T17:20:00+00:00"
+   "gecontroleerd": "2026-10-07T18:02:15+00:00"
   },
   {
    "id": "29435715",
@@ -2851,7 +2851,7 @@
      "titel": "Poubelle",
      "type": "Boek",
      "info": "Nederlands | 2018",
-     "omslag": null,
+     "omslag": "https://www.sambis.nl/iguana/KB.AZB.cls?ppn=418840741&ExternalProfile=InforAll!!!###!!!MATTYPE=BKVF!!!###!!!PUBTYPE=1",
      "vertaling_van": null,
      "exemplaren": [
       {
@@ -2873,7 +2873,7 @@
     }
    ],
    "nieuw_sinds": null,
-   "gecontroleerd": "2026-10-07T17:20:00+00:00"
+   "gecontroleerd": "2026-10-07T18:02:17+00:00"
   },
   {
    "id": "27422401",
@@ -2888,7 +2888,7 @@
      "titel": "Doorgang",
      "type": "Boek",
      "info": "Nederlands | [2015]",
-     "omslag": null,
+     "omslag": "https://www.sambis.nl/iguana/KB.AZB.cls?ppn=393762971&ExternalProfile=InforAll!!!###!!!MATTYPE=BKVF!!!###!!!PUBTYPE=1",
      "vertaling_van": null,
      "exemplaren": [
       {
@@ -2926,7 +2926,7 @@
     }
    ],
    "nieuw_sinds": null,
-   "gecontroleerd": "2026-10-07T17:20:00+00:00"
+   "gecontroleerd": "2026-10-07T18:02:18+00:00"
   },
   {
    "id": "54985743",
@@ -2941,7 +2941,7 @@
      "titel": "People we meet on vacation [Nederlands]",
      "type": "Boek",
      "info": "Nederlands | [2023]",
-     "omslag": null,
+     "omslag": "https://www.sambis.nl/iguana/KB.AZB.cls?ppn=438309065&ExternalProfile=InforAll!!!###!!!MATTYPE=BKVF!!!###!!!PUBTYPE=1",
      "vertaling_van": null,
      "exemplaren": [
       {
@@ -2963,7 +2963,7 @@
     }
    ],
    "nieuw_sinds": null,
-   "gecontroleerd": "2026-10-07T17:20:00+00:00"
+   "gecontroleerd": "2026-10-07T18:02:20+00:00"
   },
   {
    "id": "56597885",
@@ -2978,7 +2978,7 @@
      "titel": "Prachtige wereld, waar ben je",
      "type": "Boek",
      "info": "Nederlands | [2021]",
-     "omslag": null,
+     "omslag": "https://www.sambis.nl/iguana/KB.AZB.cls?ppn=433098163&ExternalProfile=InforAll!!!###!!!MATTYPE=BKVF!!!###!!!PUBTYPE=1",
      "vertaling_van": "Beautiful world, where are you",
      "exemplaren": [
       {
@@ -3008,7 +3008,7 @@
     }
    ],
    "nieuw_sinds": null,
-   "gecontroleerd": "2026-10-07T17:20:00+00:00"
+   "gecontroleerd": "2026-10-07T18:02:23+00:00"
   },
   {
    "id": "58274159",
@@ -3023,7 +3023,7 @@
      "titel": "Twee weken weg",
      "type": "Boek",
      "info": "Nederlands | mei 2025",
-     "omslag": null,
+     "omslag": "https://www.sambis.nl/iguana/KB.AZB.cls?ppn=444706550&ExternalProfile=InforAll!!!###!!!MATTYPE=BKVF!!!###!!!PUBTYPE=1",
      "vertaling_van": null,
      "exemplaren": [
       {
@@ -3040,7 +3040,7 @@
      "titel": "Twee weken weg",
      "type": "Grote Letter Boek",
      "info": "Nederlands | 2022",
-     "omslag": null,
+     "omslag": "https://www.sambis.nl/iguana/KB.AZB.cls?ppn=435741489&ExternalProfile=InforAll!!!###!!!MATTYPE=BKG!!!###!!!PUBTYPE=1",
      "vertaling_van": null,
      "exemplaren": [
       {
@@ -3062,7 +3062,7 @@
     }
    ],
    "nieuw_sinds": null,
-   "gecontroleerd": "2026-10-07T17:20:00+00:00"
+   "gecontroleerd": "2026-10-07T18:02:25+00:00"
   },
   {
    "id": "36217837",
@@ -3077,7 +3077,7 @@
      "titel": "De kennismaking",
      "type": "Boek",
      "info": "Nederlands | september 2019",
-     "omslag": null,
+     "omslag": "https://www.sambis.nl/iguana/KB.AZB.cls?ppn=423349465&ExternalProfile=InforAll!!!###!!!MATTYPE=BKVN!!!###!!!PUBTYPE=1",
      "vertaling_van": null,
      "exemplaren": [
       {
@@ -3107,7 +3107,7 @@
     }
    ],
    "nieuw_sinds": null,
-   "gecontroleerd": "2026-10-07T17:20:00+00:00"
+   "gecontroleerd": "2026-10-07T18:02:27+00:00"
   },
   {
    "id": "59120150",
@@ -3122,7 +3122,7 @@
      "titel": "Verzamelde werken",
      "type": "Boek",
      "info": "Nederlands | 2021",
-     "omslag": null,
+     "omslag": "https://www.sambis.nl/iguana/KB.AZB.cls?ppn=433098171&ExternalProfile=InforAll!!!###!!!MATTYPE=BKVF!!!###!!!PUBTYPE=1",
      "vertaling_van": null,
      "exemplaren": [
       {
@@ -3144,7 +3144,7 @@
     }
    ],
    "nieuw_sinds": null,
-   "gecontroleerd": "2026-10-07T17:20:00+00:00"
+   "gecontroleerd": "2026-10-07T18:02:27+00:00"
   },
   {
    "id": "29630960",
@@ -3159,7 +3159,7 @@
      "titel": "Een klein leven",
      "type": "Boek",
      "info": "Nederlands | 2023",
-     "omslag": null,
+     "omslag": "https://www.sambis.nl/iguana/KB.AZB.cls?ppn=440646081&ExternalProfile=InforAll!!!###!!!MATTYPE=BKVF!!!###!!!PUBTYPE=1",
      "vertaling_van": null,
      "exemplaren": [
       {
@@ -3200,7 +3200,7 @@
      "titel": "Een klein leven",
      "type": "Dwarsligger",
      "info": "Nederlands | juni 2017",
-     "omslag": null,
+     "omslag": "https://www.sambis.nl/iguana/KB.AZB.cls?ppn=411128361&ExternalProfile=InforAll!!!###!!!MATTYPE=BKVF!!!###!!!PUBTYPE=1",
      "vertaling_van": null,
      "exemplaren": [
       {
@@ -3230,7 +3230,7 @@
     }
    ],
    "nieuw_sinds": null,
-   "gecontroleerd": "2026-10-07T17:20:00+00:00"
+   "gecontroleerd": "2026-10-07T18:02:29+00:00"
   },
   {
    "id": "41456850",
@@ -3245,7 +3245,7 @@
      "titel": "Grand Hotel Europa",
      "type": "Boek",
      "info": "Nederlands | [2018]",
-     "omslag": null,
+     "omslag": "https://www.sambis.nl/iguana/KB.AZB.cls?ppn=418840474&ExternalProfile=InforAll!!!###!!!MATTYPE=BKVF!!!###!!!PUBTYPE=1",
      "vertaling_van": null,
      "exemplaren": [
       {
@@ -3299,7 +3299,7 @@
     }
    ],
    "nieuw_sinds": null,
-   "gecontroleerd": "2026-10-07T17:20:00+00:00"
+   "gecontroleerd": "2026-10-07T18:02:30+00:00"
   },
   {
    "id": "55042186",
@@ -3314,7 +3314,7 @@
      "titel": "De vrouw en de weduwe",
      "type": "Boek",
      "info": "Nederlands | [2020]",
-     "omslag": null,
+     "omslag": "https://www.sambis.nl/iguana/KB.AZB.cls?ppn=425814319&ExternalProfile=InforAll!!!###!!!MATTYPE=BKVF!!!###!!!PUBTYPE=1",
      "vertaling_van": null,
      "exemplaren": [
       {
@@ -3336,7 +3336,7 @@
     }
    ],
    "nieuw_sinds": null,
-   "gecontroleerd": "2026-10-07T17:20:00+00:00"
+   "gecontroleerd": "2026-10-07T18:02:32+00:00"
   },
   {
    "id": "54441362",
@@ -3351,7 +3351,7 @@
      "titel": "Geworteld in het kwaad",
      "type": "Boek",
      "info": "Nederlands | september 2020",
-     "omslag": null,
+     "omslag": "https://www.sambis.nl/iguana/KB.AZB.cls?ppn=427782279&ExternalProfile=InforAll!!!###!!!MATTYPE=BKVF!!!###!!!PUBTYPE=1",
      "vertaling_van": null,
      "exemplaren": [
       {
@@ -3381,7 +3381,7 @@
     }
    ],
    "nieuw_sinds": null,
-   "gecontroleerd": "2026-10-07T17:20:00+00:00"
+   "gecontroleerd": "2026-10-07T18:02:34+00:00"
   },
   {
    "id": "55202144",
@@ -3396,7 +3396,7 @@
      "titel": "Ruimte",
      "type": "Boek",
      "info": "Nederlands | 2020",
-     "omslag": null,
+     "omslag": "https://www.sambis.nl/iguana/KB.AZB.cls?ppn=42658063X&ExternalProfile=InforAll!!!###!!!MATTYPE=BKVF!!!###!!!PUBTYPE=1",
      "vertaling_van": null,
      "exemplaren": [
       {
@@ -3418,7 +3418,7 @@
     }
    ],
    "nieuw_sinds": null,
-   "gecontroleerd": "2026-10-07T17:20:00+00:00"
+   "gecontroleerd": "2026-10-07T18:02:35+00:00"
   },
   {
    "id": "60318890",
@@ -3437,7 +3437,7 @@
     }
    ],
    "nieuw_sinds": null,
-   "gecontroleerd": "2026-10-07T17:20:00+00:00"
+   "gecontroleerd": "2026-10-07T18:02:52+00:00"
   },
   {
    "id": "41136614",
@@ -3456,7 +3456,7 @@
     }
    ],
    "nieuw_sinds": null,
-   "gecontroleerd": "2026-10-07T17:20:00+00:00"
+   "gecontroleerd": "2026-10-07T18:03:16+00:00"
   },
   {
    "id": "13413970",
@@ -3471,7 +3471,7 @@
      "titel": "Op weg",
      "type": "Boek",
      "info": "Nederlands | 1978",
-     "omslag": null,
+     "omslag": "https://www.sambis.nl/iguana/KB.AZB.cls?ppn=801816629&ExternalProfile=InforAll!!!###!!!MATTYPE=BKVF!!!###!!!PUBTYPE=1",
      "vertaling_van": null,
      "exemplaren": [
       {
@@ -3493,7 +3493,7 @@
     }
    ],
    "nieuw_sinds": null,
-   "gecontroleerd": "2026-10-07T17:20:00+00:00"
+   "gecontroleerd": "2026-10-07T18:03:17+00:00"
   },
   {
    "id": "23690388",
@@ -3508,7 +3508,7 @@
      "titel": "Hard-boiled wonderland en het einde van de wereld",
      "type": "Boek",
      "info": "Nederlands | juli 2017",
-     "omslag": null,
+     "omslag": "https://www.sambis.nl/iguana/KB.AZB.cls?ppn=41253701X&ExternalProfile=InforAll!!!###!!!MATTYPE=BKVF!!!###!!!PUBTYPE=1",
      "vertaling_van": null,
      "exemplaren": [
       {
@@ -3530,7 +3530,7 @@
     }
    ],
    "nieuw_sinds": null,
-   "gecontroleerd": "2026-10-07T17:20:00+00:00"
+   "gecontroleerd": "2026-10-07T18:03:18+00:00"
   },
   {
    "id": "21413662",
@@ -3549,7 +3549,7 @@
     }
    ],
    "nieuw_sinds": null,
-   "gecontroleerd": "2026-10-07T17:20:00+00:00"
+   "gecontroleerd": "2026-10-07T18:03:35+00:00"
   },
   {
    "id": "33380938",
@@ -3564,7 +3564,7 @@
      "titel": "Een jongen met de naam Kerstmis",
      "type": "Boek",
      "info": "Nederlands | 2021",
-     "omslag": null,
+     "omslag": "https://www.sambis.nl/iguana/KB.AZB.cls?ppn=434203440&ExternalProfile=InforAll!!!###!!!MATTYPE=BKJF!!!###!!!PUBTYPE=1",
      "vertaling_van": null,
      "exemplaren": [
       {
@@ -3586,7 +3586,7 @@
     }
    ],
    "nieuw_sinds": null,
-   "gecontroleerd": "2026-10-07T17:20:00+00:00"
+   "gecontroleerd": "2026-10-07T18:03:37+00:00"
   },
   {
    "id": "49127718",
@@ -3605,7 +3605,7 @@
     }
    ],
    "nieuw_sinds": null,
-   "gecontroleerd": "2026-10-07T17:20:00+00:00"
+   "gecontroleerd": "2026-10-07T18:03:58+00:00"
   },
   {
    "id": "56028895",
@@ -3620,7 +3620,7 @@
      "titel": "Ik ben er niet",
      "type": "Boek",
      "info": "Nederlands | december 2020",
-     "omslag": null,
+     "omslag": "https://www.sambis.nl/iguana/KB.AZB.cls?ppn=43060954X&ExternalProfile=InforAll!!!###!!!MATTYPE=BKVF!!!###!!!PUBTYPE=1",
      "vertaling_van": null,
      "exemplaren": [
       {
@@ -3642,7 +3642,7 @@
     }
    ],
    "nieuw_sinds": null,
-   "gecontroleerd": "2026-10-07T17:20:00+00:00"
+   "gecontroleerd": "2026-10-07T18:03:59+00:00"
   },
   {
    "id": "51653194",
@@ -3657,7 +3657,7 @@
      "titel": "Confettiregen",
      "type": "Boek",
      "info": "Nederlands | 2020",
-     "omslag": null,
+     "omslag": "https://www.sambis.nl/iguana/KB.AZB.cls?ppn=424510758&ExternalProfile=InforAll!!!###!!!MATTYPE=BKVF!!!###!!!PUBTYPE=1",
      "vertaling_van": null,
      "exemplaren": [
       {
@@ -3687,7 +3687,7 @@
     }
    ],
    "nieuw_sinds": null,
-   "gecontroleerd": "2026-10-07T17:20:00+00:00"
+   "gecontroleerd": "2026-10-07T18:04:00+00:00"
   },
   {
    "id": "43625681",
@@ -3702,7 +3702,7 @@
      "titel": "Façade",
      "type": "Boek",
      "info": "Nederlands | 2019",
-     "omslag": null,
+     "omslag": "https://www.sambis.nl/iguana/KB.AZB.cls?ppn=422421189&ExternalProfile=InforAll!!!###!!!MATTYPE=BKVF!!!###!!!PUBTYPE=1",
      "vertaling_van": null,
      "exemplaren": [
       {
@@ -3764,7 +3764,7 @@
     }
    ],
    "nieuw_sinds": null,
-   "gecontroleerd": "2026-10-07T17:20:00+00:00"
+   "gecontroleerd": "2026-10-07T18:04:01+00:00"
   },
   {
    "id": "30194212",
@@ -3779,7 +3779,7 @@
      "titel": "Ufo's bestaan gewoon",
      "type": "Boek",
      "info": "Nederlands | cop. 2013",
-     "omslag": null,
+     "omslag": "https://www.sambis.nl/iguana/KB.AZB.cls?ppn=352795573&ExternalProfile=InforAll!!!###!!!MATTYPE=BKVN!!!###!!!PUBTYPE=1",
      "vertaling_van": null,
      "exemplaren": [
       {
@@ -3801,7 +3801,7 @@
     }
    ],
    "nieuw_sinds": null,
-   "gecontroleerd": "2026-10-07T17:20:00+00:00"
+   "gecontroleerd": "2026-10-07T18:04:03+00:00"
   }
  ]
 }
