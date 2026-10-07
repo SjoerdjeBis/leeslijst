@@ -1,0 +1,123 @@
+<!doctype html>
+<html lang="nl">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Leeslijst Westervoort</title>
+<meta name="description" content="Mijn Goodreads-leeslijst naast de collectie van Bibliotheek Liemers, vestiging Westervoort.">
+<meta name="color-scheme" content="light dark">
+<link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'%3E%3Crect x='5' y='6' width='6' height='21' rx='1' fill='%232F5D50'/%3E%3Crect x='12' y='3' width='5' height='24' rx='1' fill='%237A2E2E'/%3E%3Crect x='18' y='8' width='8' height='19' rx='1' fill='%23C49A3A'/%3E%3Crect x='3' y='27' width='26' height='3' fill='%2318212B'/%3E%3C/svg%3E">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Atkinson+Hyperlegible:ital,wght@0,400;0,700;1,400&family=Bricolage+Grotesque:opsz,wdth,wght@12..96,75..100,400..800&family=Courier+Prime:wght@400;700&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+<header class="kop">
+  <div class="kop-rij">
+    <p class="eyebrow">Bibliotheek Liemers · vestiging Westervoort</p>
+    <div class="vernieuw">
+      <span id="gecontroleerd" class="klein"></span>
+      <button id="vernieuw-knop" class="knop" type="button">
+        <svg aria-hidden="true" viewBox="0 0 24 24" width="16" height="16"><path d="M20 11A8 8 0 0 0 5.6 6.6L4 8M4 4v4h4M4 13a8 8 0 0 0 14.4 4.4L20 16m0 4v-4h-4" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></svg>
+        <span>Vernieuw beschikbaarheid</span>
+      </button>
+    </div>
+  </div>
+  <div class="held">
+  <h1 id="kop-titel" class="kop-titel"><span class="getal">…</span> boeken van je leeslijst staan nu in&nbsp;Westervoort</h1>
+  <div class="plank-wrap">
+    <div id="plank" class="plank" role="list" aria-label="Boeken die nu in Westervoort aanwezig zijn"></div>
+    <div class="plankrand" aria-hidden="true"></div>
+  </div>
+  </div>
+</header>
+
+<div class="balk" id="balk">
+  <div class="balk-binnen">
+    <div class="zoekrij">
+      <label class="zoek">
+        <svg aria-hidden="true" viewBox="0 0 24 24" width="18" height="18"><circle cx="11" cy="11" r="7" fill="none" stroke="currentColor" stroke-width="2"/><path d="m20 20-3.5-3.5" stroke="currentColor" stroke-width="2" stroke-linecap="round"/></svg>
+        <input id="zoek" type="search" placeholder="Zoek op titel of auteur" autocomplete="off" aria-label="Zoek op titel of auteur">
+        <kbd aria-hidden="true">/</kbd>
+      </label>
+      <label class="sorteer">
+        <span class="klein">Sorteer</span>
+        <select id="sorteer" aria-label="Sorteer">
+          <option value="toegevoegd">Laatst op je lijst gezet</option>
+          <option value="toegevoegd-oud">Langst op je lijst</option>
+          <option value="beschikbaar">Beschikbaarheid</option>
+          <option value="dun">Dunste eerst</option>
+          <option value="dik">Dikste eerst</option>
+          <option value="titel">Titel</option>
+          <option value="auteur">Auteur (achternaam)</option>
+          <option value="jaar">Nieuwst verschenen</option>
+        </select>
+      </label>
+      <button id="filter-knop" class="knop knop-stil" type="button" aria-expanded="false" aria-controls="filters">
+        Filters <span id="filter-aantal" class="teller" hidden></span>
+      </button>
+    </div>
+    <div id="status" class="status" role="radiogroup" aria-label="Beschikbaarheid"></div>
+  </div>
+</div>
+
+<main>
+  <div id="filters" class="filters">
+      <fieldset class="filter">
+        <legend>Bladzijdes <output id="blz-uit" class="klein"></output></legend>
+        <div class="histo" id="histo" aria-hidden="true"></div>
+        <div class="dubbel">
+          <input id="blz-min" type="range" min="0" max="800" step="10" value="0" aria-label="Minimaal aantal bladzijdes">
+          <input id="blz-max" type="range" min="0" max="800" step="10" value="800" aria-label="Maximaal aantal bladzijdes">
+        </div>
+      </fieldset>
+      <fieldset class="filter">
+        <legend>Op je lijst gezet</legend>
+        <div class="chips" id="periode">
+          <button type="button" data-v="">Altijd</button>
+          <button type="button" data-v="90">Laatste 3 maanden</button>
+          <button type="button" data-v="365">Laatste jaar</button>
+          <button type="button" data-v="-730">Meer dan 2 jaar geleden</button>
+        </div>
+      </fieldset>
+      <fieldset class="filter">
+        <legend>Nu aanwezig in</legend>
+        <div class="chips" id="vestigingen"></div>
+      </fieldset>
+  </div>
+  <div class="resultaat-kop">
+    <p id="aantal" class="klein" aria-live="polite"></p>
+    <button id="wis" class="link" type="button" hidden>Wis filters</button>
+  </div>
+  <div id="lijst" class="lijst"></div>
+</main>
+
+<footer class="voet">
+  <p id="voet-tekst" class="klein"></p>
+  <p class="klein"><button id="koppel" class="link" type="button">GitHub koppelen</button> voor de vernieuwknop</p>
+</footer>
+
+<dialog id="dlg" class="dlg">
+  <form method="dialog">
+    <h2>Vernieuwen vanaf deze site</h2>
+    <p>De vernieuwknop start een controle op GitHub. Daarvoor heeft deze browser eenmalig een token nodig dat alleen deze repo mag vernieuwen. Het token blijft in deze browser.</p>
+    <ol class="klein">
+      <li>Maak een <a id="token-link" href="https://github.com/settings/personal-access-tokens/new" target="_blank" rel="noopener">fine-grained token</a> aan.</li>
+      <li>Kies bij <em>Repository access</em> alleen deze repo.</li>
+      <li>Zet bij <em>Permissions</em> <strong>Actions</strong> op <em>Read and write</em>.</li>
+    </ol>
+    <label class="veld">Token<input id="token" type="password" autocomplete="off" placeholder="github_pat_…"></label>
+    <div class="dlg-knoppen">
+      <button value="wis" class="link" id="token-wis" type="submit">Token verwijderen</button>
+      <span></span>
+      <button value="annuleer" class="knop knop-stil" type="submit">Annuleer</button>
+      <button value="ok" class="knop" type="submit">Bewaar</button>
+    </div>
+  </form>
+</dialog>
+
+<div id="toast" class="toast" role="status" aria-live="polite"></div>
+<script src="app.js"></script>
+</body>
+</html>

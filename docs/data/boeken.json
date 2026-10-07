@@ -1,0 +1,3807 @@
+{
+ "bijgewerkt": "2026-10-07T17:20:00+00:00",
+ "export": "2026-09-30",
+ "boeken": [
+  {
+   "id": "240641578",
+   "titel": "The Nord Stream Conspiracy: The Inside Story of the Explosions That Shook the World",
+   "auteur": "Bojan Pancevski",
+   "isbn": "9781250410436",
+   "paginas": 336,
+   "jaar": 2026,
+   "toegevoegd": "2026-08-24",
+   "edities": [],
+   "status": "niet",
+   "historie": [
+    {
+     "datum": "2026-10-07",
+     "status": "niet"
+    }
+   ],
+   "nieuw_sinds": null,
+   "gecontroleerd": "2026-10-07T17:20:00+00:00"
+  },
+  {
+   "id": "18194507",
+   "titel": "Veelvuldig en alleen",
+   "auteur": "Anjet Daanje",
+   "isbn": "9789060053867",
+   "paginas": 365,
+   "jaar": 2003,
+   "toegevoegd": "2026-07-12",
+   "edities": [
+    {
+     "titel": "Veelvuldig en alleen",
+     "type": "Boek",
+     "info": "Nederlands | juni 2023",
+     "omslag": null,
+     "vertaling_van": null,
+     "exemplaren": [
+      {
+       "vestiging": "Zevenaar",
+       "westervoort": false,
+       "status": "Uitgeleend",
+       "aanwezig": false,
+       "terug": null,
+       "plek": "Romans Literatuur DAAN"
+      }
+     ]
+    }
+   ],
+   "status": "elders_uitgeleend",
+   "historie": [
+    {
+     "datum": "2026-10-07",
+     "status": "elders_uitgeleend"
+    }
+   ],
+   "nieuw_sinds": null,
+   "gecontroleerd": "2026-10-07T17:20:00+00:00"
+  },
+  {
+   "id": "244991366",
+   "titel": "Corpus Britney",
+   "auteur": "Dominique De Groen",
+   "isbn": "9789083587608",
+   "paginas": 479,
+   "jaar": 2026,
+   "toegevoegd": "2026-07-03",
+   "edities": [
+    {
+     "titel": "Corpus Britney",
+     "type": "Boek",
+     "info": "Nederlands | [2026]",
+     "omslag": null,
+     "vertaling_van": null,
+     "exemplaren": [
+      {
+       "vestiging": "Provinciaal depot",
+       "westervoort": false,
+       "status": "Uitgeleend",
+       "aanwezig": false,
+       "terug": null,
+       "plek": "V fictie DE GR"
+      }
+     ]
+    }
+   ],
+   "status": "elders_uitgeleend",
+   "historie": [
+    {
+     "datum": "2026-10-07",
+     "status": "elders_uitgeleend"
+    }
+   ],
+   "nieuw_sinds": null,
+   "gecontroleerd": "2026-10-07T17:20:00+00:00"
+  },
+  {
+   "id": "213870083",
+   "titel": "Show Don't Tell",
+   "auteur": "Curtis Sittenfeld",
+   "isbn": "9780593446737",
+   "paginas": 320,
+   "jaar": 2025,
+   "toegevoegd": "2026-07-03",
+   "edities": [],
+   "status": "niet",
+   "historie": [
+    {
+     "datum": "2026-10-07",
+     "status": "niet"
+    }
+   ],
+   "nieuw_sinds": null,
+   "gecontroleerd": "2026-10-07T17:20:00+00:00"
+  },
+  {
+   "id": "247970449",
+   "titel": "En toen (Dutch Edition)",
+   "auteur": "Pépé Smit",
+   "isbn": "9789463362726",
+   "paginas": 132,
+   "jaar": 2026,
+   "toegevoegd": "2026-07-03",
+   "edities": [],
+   "status": "niet",
+   "historie": [
+    {
+     "datum": "2026-10-07",
+     "status": "niet"
+    }
+   ],
+   "nieuw_sinds": null,
+   "gecontroleerd": "2026-10-07T17:20:00+00:00"
+  },
+  {
+   "id": "54870256",
+   "titel": "There Is No Antimemetics Division",
+   "auteur": "qntm",
+   "isbn": "",
+   "paginas": 220,
+   "jaar": 2020,
+   "toegevoegd": "2026-07-01",
+   "edities": [],
+   "status": "niet",
+   "historie": [
+    {
+     "datum": "2026-10-07",
+     "status": "niet"
+    }
+   ],
+   "nieuw_sinds": null,
+   "gecontroleerd": "2026-10-07T17:20:00+00:00"
+  },
+  {
+   "id": "252544111",
+   "titel": "Pro: Nog één keer winnen - dan kan hij stoppen (Dutch Edition)",
+   "auteur": "Barry Smit",
+   "isbn": "9789400413924",
+   "paginas": 110,
+   "jaar": 2026,
+   "toegevoegd": "2026-06-29",
+   "edities": [],
+   "status": "niet",
+   "historie": [
+    {
+     "datum": "2026-10-07",
+     "status": "niet"
+    }
+   ],
+   "nieuw_sinds": null,
+   "gecontroleerd": "2026-10-07T17:20:00+00:00"
+  },
+  {
+   "id": "246655250",
+   "titel": "Twijfelwond",
+   "auteur": "Julien Staartjes",
+   "isbn": "9789029553926",
+   "paginas": 304,
+   "jaar": 2026,
+   "toegevoegd": "2026-06-27",
+   "edities": [],
+   "status": "niet",
+   "historie": [
+    {
+     "datum": "2026-10-07",
+     "status": "niet"
+    }
+   ],
+   "nieuw_sinds": null,
+   "gecontroleerd": "2026-10-07T17:20:00+00:00"
+  },
+  {
+   "id": "251286424",
+   "titel": "Biografie van X",
+   "auteur": "Catherine Lacey",
+   "isbn": "9789044551426",
+   "paginas": 503,
+   "jaar": 2023,
+   "toegevoegd": "2026-06-04",
+   "edities": [
+    {
+     "titel": "Biografie van X",
+     "type": "Boek",
+     "info": "Nederlands | [2026]",
+     "omslag": null,
+     "vertaling_van": null,
+     "exemplaren": [
+      {
+       "vestiging": "Zevenaar",
+       "westervoort": false,
+       "status": "Uitgeleend tot",
+       "aanwezig": false,
+       "terug": "2026-10-21",
+       "plek": "Romans Spannend LACE"
+      }
+     ]
+    }
+   ],
+   "status": "elders_uitgeleend",
+   "historie": [
+    {
+     "datum": "2026-10-07",
+     "status": "elders_uitgeleend"
+    }
+   ],
+   "nieuw_sinds": null,
+   "gecontroleerd": "2026-10-07T17:20:00+00:00"
+  },
+  {
+   "id": "251437359",
+   "titel": "Wij vinden dat fijn",
+   "auteur": "Stéphanie Hoogenberk",
+   "isbn": "9789044655018",
+   "paginas": 320,
+   "jaar": 2026,
+   "toegevoegd": "2026-04-28",
+   "edities": [
+    {
+     "titel": "Wij vinden dat fijn",
+     "type": "Boek",
+     "info": "Nederlands | 2026",
+     "omslag": null,
+     "vertaling_van": null,
+     "exemplaren": [
+      {
+       "vestiging": "Zevenaar",
+       "westervoort": false,
+       "status": "Uitgeleend tot",
+       "aanwezig": false,
+       "terug": "2026-10-14",
+       "plek": "Sprinter HOOG"
+      },
+      {
+       "vestiging": "Duiven",
+       "westervoort": false,
+       "status": "Uitgeleend",
+       "aanwezig": false,
+       "terug": null,
+       "plek": "Sprinter HOOG"
+      }
+     ]
+    }
+   ],
+   "status": "elders_uitgeleend",
+   "historie": [
+    {
+     "datum": "2026-10-07",
+     "status": "elders_uitgeleend"
+    }
+   ],
+   "nieuw_sinds": null,
+   "gecontroleerd": "2026-10-07T17:20:00+00:00"
+  },
+  {
+   "id": "248237688",
+   "titel": "De Reichenbachs (Dutch Edition)",
+   "auteur": "Berend Sommer",
+   "isbn": "9789044659191",
+   "paginas": 351,
+   "jaar": 2026,
+   "toegevoegd": "2026-03-30",
+   "edities": [
+    {
+     "titel": "De Reichenbachs",
+     "type": "Boek",
+     "info": "Nederlands | 2026",
+     "omslag": null,
+     "vertaling_van": null,
+     "exemplaren": [
+      {
+       "vestiging": "Zevenaar",
+       "westervoort": false,
+       "status": "Uitgeleend",
+       "aanwezig": false,
+       "terug": null,
+       "plek": "Sprinter SOMM"
+      }
+     ]
+    }
+   ],
+   "status": "elders_uitgeleend",
+   "historie": [
+    {
+     "datum": "2026-10-07",
+     "status": "elders_uitgeleend"
+    }
+   ],
+   "nieuw_sinds": null,
+   "gecontroleerd": "2026-10-07T17:20:00+00:00"
+  },
+  {
+   "id": "231183649",
+   "titel": "Het gezoem van bijna alles",
+   "auteur": "Coco Schrijber",
+   "isbn": "9789025318413",
+   "paginas": 296,
+   "jaar": 2025,
+   "toegevoegd": "2026-03-09",
+   "edities": [],
+   "status": "niet",
+   "historie": [
+    {
+     "datum": "2026-10-07",
+     "status": "niet"
+    }
+   ],
+   "nieuw_sinds": null,
+   "gecontroleerd": "2026-10-07T17:20:00+00:00"
+  },
+  {
+   "id": "9744267",
+   "titel": "Affiniteit",
+   "auteur": "Sarah Waters",
+   "isbn": "9789038884493",
+   "paginas": 359,
+   "jaar": 1999,
+   "toegevoegd": "2026-03-06",
+   "edities": [
+    {
+     "titel": "Affiniteit",
+     "type": "Boek",
+     "info": "Nederlands | 2015",
+     "omslag": null,
+     "vertaling_van": null,
+     "exemplaren": [
+      {
+       "vestiging": "Provinciaal depot",
+       "westervoort": false,
+       "status": "Uitgeleend tot",
+       "aanwezig": false,
+       "terug": "2026-10-22",
+       "plek": "V fictie WATE"
+      }
+     ]
+    }
+   ],
+   "status": "elders_uitgeleend",
+   "historie": [
+    {
+     "datum": "2026-10-07",
+     "status": "elders_uitgeleend"
+    }
+   ],
+   "nieuw_sinds": null,
+   "gecontroleerd": "2026-10-07T17:20:00+00:00"
+  },
+  {
+   "id": "248312672",
+   "titel": "Een woord voor",
+   "auteur": "Eva Meijer",
+   "isbn": "9789464522600",
+   "paginas": 314,
+   "jaar": 2026,
+   "toegevoegd": "2026-02-27",
+   "edities": [
+    {
+     "titel": "Een woord voor",
+     "type": "Boek",
+     "info": "Nederlands | [2026]",
+     "omslag": null,
+     "vertaling_van": null,
+     "exemplaren": [
+      {
+       "vestiging": "Zevenaar",
+       "westervoort": false,
+       "status": "Aanwezig",
+       "aanwezig": true,
+       "terug": null,
+       "plek": "Romans Literatuur MEIJ"
+      }
+     ]
+    }
+   ],
+   "status": "elders",
+   "historie": [
+    {
+     "datum": "2026-10-07",
+     "status": "elders"
+    }
+   ],
+   "nieuw_sinds": null,
+   "gecontroleerd": "2026-10-07T17:20:00+00:00"
+  },
+  {
+   "id": "236762685",
+   "titel": "Het gore lef",
+   "auteur": "Sarah Arnolds",
+   "isbn": "9789493399402",
+   "paginas": 115,
+   "jaar": 2025,
+   "toegevoegd": "2026-01-08",
+   "edities": [
+    {
+     "titel": "Het gore lef",
+     "type": "Boek",
+     "info": "Nederlands | augustus 2025",
+     "omslag": null,
+     "vertaling_van": null,
+     "exemplaren": [
+      {
+       "vestiging": "Zevenaar",
+       "westervoort": false,
+       "status": "Uitgeleend tot",
+       "aanwezig": false,
+       "terug": "2026-11-25",
+       "plek": "Romans Literatuur ARNO"
+      },
+      {
+       "vestiging": "Provinciaal depot",
+       "westervoort": false,
+       "status": "Uitgeleend",
+       "aanwezig": false,
+       "terug": null,
+       "plek": "V fictie ARNO"
+      }
+     ]
+    }
+   ],
+   "status": "elders_uitgeleend",
+   "historie": [
+    {
+     "datum": "2026-10-07",
+     "status": "elders_uitgeleend"
+    }
+   ],
+   "nieuw_sinds": null,
+   "gecontroleerd": "2026-10-07T17:20:00+00:00"
+  },
+  {
+   "id": "12338137",
+   "titel": "De tranen van Kuif den Dolder",
+   "auteur": "Nico Dijkshoorn",
+   "isbn": "9789046805336",
+   "paginas": 192,
+   "jaar": 2009,
+   "toegevoegd": "2025-11-18",
+   "edities": [
+    {
+     "titel": "De tranen van Kuif den Dolder",
+     "type": "Boek",
+     "info": "Nederlands | september 2014",
+     "omslag": null,
+     "vertaling_van": null,
+     "exemplaren": [
+      {
+       "vestiging": "Provinciaal depot",
+       "westervoort": false,
+       "status": "Uitgeleend",
+       "aanwezig": false,
+       "terug": null,
+       "plek": "V fictie DIJKS"
+      }
+     ]
+    },
+    {
+     "titel": "De tranen van Kuif den Dolder",
+     "type": "Boek",
+     "info": "Nederlands | 2017",
+     "omslag": null,
+     "vertaling_van": null,
+     "exemplaren": [
+      {
+       "vestiging": "Zevenaar",
+       "westervoort": false,
+       "status": "Aanwezig",
+       "aanwezig": true,
+       "terug": null,
+       "plek": "Romans Literatuur DIJK"
+      }
+     ]
+    }
+   ],
+   "status": "elders",
+   "historie": [
+    {
+     "datum": "2026-10-07",
+     "status": "elders"
+    }
+   ],
+   "nieuw_sinds": null,
+   "gecontroleerd": "2026-10-07T17:20:00+00:00"
+  },
+  {
+   "id": "236863665",
+   "titel": "Ik was dat meisje",
+   "auteur": "Anne Mieke Backer",
+   "isbn": "9789026371530",
+   "paginas": 256,
+   "jaar": 2025,
+   "toegevoegd": "2025-11-06",
+   "edities": [],
+   "status": "niet",
+   "historie": [
+    {
+     "datum": "2026-10-07",
+     "status": "niet"
+    }
+   ],
+   "nieuw_sinds": null,
+   "gecontroleerd": "2026-10-07T17:20:00+00:00"
+  },
+  {
+   "id": "61675059",
+   "titel": "V13",
+   "auteur": "Emmanuel Carrère",
+   "isbn": "9782818056066",
+   "paginas": 368,
+   "jaar": 2022,
+   "toegevoegd": "2025-10-30",
+   "edities": [
+    {
+     "titel": "V13",
+     "type": "Boek",
+     "info": "Nederlands | [2023]",
+     "omslag": null,
+     "vertaling_van": null,
+     "exemplaren": [
+      {
+       "vestiging": "Provinciaal depot",
+       "westervoort": false,
+       "status": "Aanwezig",
+       "aanwezig": true,
+       "terug": null,
+       "plek": "V studie FRANKRIJK 395.52 CARR"
+      }
+     ]
+    }
+   ],
+   "status": "elders",
+   "historie": [
+    {
+     "datum": "2026-10-07",
+     "status": "elders"
+    }
+   ],
+   "nieuw_sinds": null,
+   "gecontroleerd": "2026-10-07T17:20:00+00:00"
+  },
+  {
+   "id": "238214677",
+   "titel": "Writer's Block: Van Picasso tot Gijp: een zoektocht naar het perfecte verhaal (Dutch Edition)",
+   "auteur": "Michel van Egmond",
+   "isbn": "9789048875801",
+   "paginas": 206,
+   "jaar": 2025,
+   "toegevoegd": "2025-10-10",
+   "edities": [],
+   "status": "niet",
+   "historie": [
+    {
+     "datum": "2026-10-07",
+     "status": "niet"
+    }
+   ],
+   "nieuw_sinds": null,
+   "gecontroleerd": "2026-10-07T17:20:00+00:00"
+  },
+  {
+   "id": "229071922",
+   "titel": "De eerste",
+   "auteur": "Sophie Visser",
+   "isbn": "9789039100967",
+   "paginas": 224,
+   "jaar": 2025,
+   "toegevoegd": "2025-09-05",
+   "edities": [],
+   "status": "niet",
+   "historie": [
+    {
+     "datum": "2026-10-07",
+     "status": "niet"
+    }
+   ],
+   "nieuw_sinds": null,
+   "gecontroleerd": "2026-10-07T17:20:00+00:00"
+  },
+  {
+   "id": "59947696",
+   "titel": "Wrong Place Wrong Time",
+   "auteur": "Gillian McAllister",
+   "isbn": "9780063252349",
+   "paginas": 416,
+   "jaar": 2022,
+   "toegevoegd": "2025-08-21",
+   "edities": [
+    {
+     "titel": "Verkeerde plaats, verkeerde moment",
+     "type": "Boek",
+     "info": "Nederlands | 2022",
+     "omslag": null,
+     "vertaling_van": "Wrong place, wrong time",
+     "exemplaren": [
+      {
+       "vestiging": "Westervoort",
+       "westervoort": true,
+       "status": "Aanwezig",
+       "aanwezig": true,
+       "terug": null,
+       "plek": "[VRO] MCAL"
+      }
+     ]
+    }
+   ],
+   "status": "westervoort",
+   "historie": [
+    {
+     "datum": "2026-10-07",
+     "status": "westervoort"
+    }
+   ],
+   "nieuw_sinds": null,
+   "gecontroleerd": "2026-10-07T17:20:00+00:00"
+  },
+  {
+   "id": "231862231",
+   "titel": "Verkeerd verbonden",
+   "auteur": "Laura van der Haar",
+   "isbn": "9789403135885",
+   "paginas": 245,
+   "jaar": 2025,
+   "toegevoegd": "2025-08-13",
+   "edities": [
+    {
+     "titel": "Verkeerd verbonden",
+     "type": "Boek",
+     "info": "Nederlands | mei 2025",
+     "omslag": null,
+     "vertaling_van": null,
+     "exemplaren": [
+      {
+       "vestiging": "Duiven",
+       "westervoort": false,
+       "status": "Aanwezig",
+       "aanwezig": true,
+       "terug": null,
+       "plek": "Romans Literatuur HAAR"
+      },
+      {
+       "vestiging": "Zevenaar",
+       "westervoort": false,
+       "status": "Uitgeleend tot",
+       "aanwezig": false,
+       "terug": "2026-10-16",
+       "plek": "Romans Literatuur HAAR"
+      }
+     ]
+    }
+   ],
+   "status": "elders",
+   "historie": [
+    {
+     "datum": "2026-10-07",
+     "status": "elders"
+    }
+   ],
+   "nieuw_sinds": null,
+   "gecontroleerd": "2026-10-07T17:20:00+00:00"
+  },
+  {
+   "id": "222077951",
+   "titel": "De laatste dag van de veerman",
+   "auteur": "Frode Grytten",
+   "isbn": "9789025476014",
+   "paginas": 176,
+   "jaar": 2023,
+   "toegevoegd": "2025-07-20",
+   "edities": [
+    {
+     "titel": "De laatste dag van de veerman",
+     "type": "Boek",
+     "info": "Nederlands | [2024]",
+     "omslag": null,
+     "vertaling_van": null,
+     "exemplaren": [
+      {
+       "vestiging": "Zevenaar",
+       "westervoort": false,
+       "status": "Aanwezig",
+       "aanwezig": true,
+       "terug": null,
+       "plek": "Romans Literatuur GRYT"
+      }
+     ]
+    }
+   ],
+   "status": "elders",
+   "historie": [
+    {
+     "datum": "2026-10-07",
+     "status": "elders"
+    }
+   ],
+   "nieuw_sinds": null,
+   "gecontroleerd": "2026-10-07T17:20:00+00:00"
+  },
+  {
+   "id": "214906792",
+   "titel": "Tandenjager",
+   "auteur": "Auke Hulst",
+   "isbn": "9789026355783",
+   "paginas": 440,
+   "jaar": 2025,
+   "toegevoegd": "2025-07-20",
+   "edities": [
+    {
+     "titel": "Tandenjager",
+     "type": "Boek",
+     "info": "Nederlands | [2025]",
+     "omslag": null,
+     "vertaling_van": null,
+     "exemplaren": [
+      {
+       "vestiging": "Zevenaar",
+       "westervoort": false,
+       "status": "Uitgeleend tot",
+       "aanwezig": false,
+       "terug": "2026-10-28",
+       "plek": "Romans Historisch HULS"
+      }
+     ]
+    }
+   ],
+   "status": "elders_uitgeleend",
+   "historie": [
+    {
+     "datum": "2026-10-07",
+     "status": "elders_uitgeleend"
+    }
+   ],
+   "nieuw_sinds": null,
+   "gecontroleerd": "2026-10-07T17:20:00+00:00"
+  },
+  {
+   "id": "15710299",
+   "titel": "De tegenstander",
+   "auteur": "Emmanuel Carrère",
+   "isbn": "9789041708403",
+   "paginas": 160,
+   "jaar": 2000,
+   "toegevoegd": "2025-06-25",
+   "edities": [],
+   "status": "niet",
+   "historie": [
+    {
+     "datum": "2026-10-07",
+     "status": "niet"
+    }
+   ],
+   "nieuw_sinds": null,
+   "gecontroleerd": "2026-10-07T17:20:00+00:00"
+  },
+  {
+   "id": "70897",
+   "titel": "The Secret History",
+   "auteur": "Donna Tartt",
+   "isbn": "9780140167771",
+   "paginas": 629,
+   "jaar": 1992,
+   "toegevoegd": "2025-06-22",
+   "edities": [
+    {
+     "titel": "De verborgen geschiedenis",
+     "type": "Boek",
+     "info": "Nederlands | 2018",
+     "omslag": null,
+     "vertaling_van": "The secret history",
+     "exemplaren": [
+      {
+       "vestiging": "Zevenaar",
+       "westervoort": false,
+       "status": "Aanwezig",
+       "aanwezig": true,
+       "terug": null,
+       "plek": "Romans Literatuur TART"
+      },
+      {
+       "vestiging": "Provinciaal depot",
+       "westervoort": false,
+       "status": "Uitgeleend tot",
+       "aanwezig": false,
+       "terug": "2024-02-19",
+       "plek": "V fictie TART"
+      }
+     ]
+    }
+   ],
+   "status": "elders",
+   "historie": [
+    {
+     "datum": "2026-10-07",
+     "status": "elders"
+    }
+   ],
+   "nieuw_sinds": null,
+   "gecontroleerd": "2026-10-07T17:20:00+00:00"
+  },
+  {
+   "id": "215511692",
+   "titel": "Een kern van waarheid",
+   "auteur": "Peter Buurman",
+   "isbn": "9789493399020",
+   "paginas": 173,
+   "jaar": 2024,
+   "toegevoegd": "2025-05-28",
+   "edities": [
+    {
+     "titel": "Een kern van waarheid",
+     "type": "Boek",
+     "info": "Nederlands | juni 2024",
+     "omslag": null,
+     "vertaling_van": null,
+     "exemplaren": [
+      {
+       "vestiging": "Zevenaar",
+       "westervoort": false,
+       "status": "Aanwezig",
+       "aanwezig": true,
+       "terug": null,
+       "plek": "Romans Literatuur BUUR"
+      }
+     ]
+    }
+   ],
+   "status": "elders",
+   "historie": [
+    {
+     "datum": "2026-10-07",
+     "status": "elders"
+    }
+   ],
+   "nieuw_sinds": null,
+   "gecontroleerd": "2026-10-07T17:20:00+00:00"
+  },
+  {
+   "id": "26101",
+   "titel": "Laughable Loves",
+   "auteur": "Milan Kundera",
+   "isbn": "9780571206926",
+   "paginas": 287,
+   "jaar": 1979,
+   "toegevoegd": "2025-05-22",
+   "edities": [
+    {
+     "titel": "Lachwekkende liefdes",
+     "type": "Boek",
+     "info": "Nederlands | 2004",
+     "omslag": null,
+     "vertaling_van": "Laughable Loves",
+     "exemplaren": [
+      {
+       "vestiging": "Provinciaal depot",
+       "westervoort": false,
+       "status": "Aanwezig",
+       "aanwezig": true,
+       "terug": null,
+       "plek": "V fictie KUND"
+      }
+     ]
+    }
+   ],
+   "status": "elders",
+   "historie": [
+    {
+     "datum": "2026-10-07",
+     "status": "elders"
+    }
+   ],
+   "nieuw_sinds": null,
+   "gecontroleerd": "2026-10-07T17:20:00+00:00"
+  },
+  {
+   "id": "28634",
+   "titel": "Immortality",
+   "auteur": "Milan Kundera",
+   "isbn": "9780571144563",
+   "paginas": 400,
+   "jaar": 1990,
+   "toegevoegd": "2025-05-22",
+   "edities": [
+    {
+     "titel": "Onsterfelijkheid",
+     "type": "Boek",
+     "info": "Nederlands | 2017",
+     "omslag": null,
+     "vertaling_van": "Immortality",
+     "exemplaren": [
+      {
+       "vestiging": "Provinciaal depot",
+       "westervoort": false,
+       "status": "Uitgeleend tot",
+       "aanwezig": false,
+       "terug": "2026-10-28",
+       "plek": "V fictie KUND"
+      }
+     ]
+    },
+    {
+     "titel": "Onsterfelijkheid",
+     "type": "Boek",
+     "info": "Nederlands | 1990",
+     "omslag": null,
+     "vertaling_van": "Immortality",
+     "exemplaren": [
+      {
+       "vestiging": "Provinciaal depot",
+       "westervoort": false,
+       "status": "Aanwezig",
+       "aanwezig": true,
+       "terug": null,
+       "plek": "V fictie KUND"
+      }
+     ]
+    }
+   ],
+   "status": "elders",
+   "historie": [
+    {
+     "datum": "2026-10-07",
+     "status": "elders"
+    }
+   ],
+   "nieuw_sinds": null,
+   "gecontroleerd": "2026-10-07T17:20:00+00:00"
+  },
+  {
+   "id": "123136728",
+   "titel": "Orbital",
+   "auteur": "Samantha Harvey",
+   "isbn": "9780802161543",
+   "paginas": 224,
+   "jaar": 2023,
+   "toegevoegd": "2025-05-22",
+   "edities": [
+    {
+     "titel": "In orbit",
+     "type": "Boek",
+     "info": "Nederlands | 2024",
+     "omslag": null,
+     "vertaling_van": "Orbital",
+     "exemplaren": [
+      {
+       "vestiging": "Zevenaar",
+       "westervoort": false,
+       "status": "Uitgeleend tot",
+       "aanwezig": false,
+       "terug": "2026-09-25",
+       "plek": "Romans Literatuur HARV"
+      }
+     ]
+    }
+   ],
+   "status": "elders_uitgeleend",
+   "historie": [
+    {
+     "datum": "2026-10-07",
+     "status": "elders_uitgeleend"
+    }
+   ],
+   "nieuw_sinds": null,
+   "gecontroleerd": "2026-10-07T17:20:00+00:00"
+  },
+  {
+   "id": "59412935",
+   "titel": "Miniapolis",
+   "auteur": "Rob van Essen",
+   "isbn": "9789025472030",
+   "paginas": 224,
+   "jaar": 2021,
+   "toegevoegd": "2025-05-08",
+   "edities": [
+    {
+     "titel": "Miniapolis",
+     "type": "Boek",
+     "info": "Nederlands | [2021]",
+     "omslag": null,
+     "vertaling_van": null,
+     "exemplaren": [
+      {
+       "vestiging": "Zevenaar",
+       "westervoort": false,
+       "status": "Aanwezig",
+       "aanwezig": true,
+       "terug": null,
+       "plek": "Romans Literatuur ESSE"
+      }
+     ]
+    }
+   ],
+   "status": "elders",
+   "historie": [
+    {
+     "datum": "2026-10-07",
+     "status": "elders"
+    }
+   ],
+   "nieuw_sinds": null,
+   "gecontroleerd": "2026-10-07T17:20:00+00:00"
+  },
+  {
+   "id": "231797240",
+   "titel": "Borst (Dutch Edition)",
+   "auteur": "Hugo Borst",
+   "isbn": "9789048874873",
+   "paginas": 407,
+   "jaar": 2025,
+   "toegevoegd": "2025-05-06",
+   "edities": [],
+   "status": "niet",
+   "historie": [
+    {
+     "datum": "2026-10-07",
+     "status": "niet"
+    }
+   ],
+   "nieuw_sinds": null,
+   "gecontroleerd": "2026-10-07T17:20:00+00:00"
+  },
+  {
+   "id": "3679",
+   "titel": "On Beauty",
+   "auteur": "Zadie Smith",
+   "isbn": "9780143037743",
+   "paginas": 445,
+   "jaar": 2005,
+   "toegevoegd": "2025-04-18",
+   "edities": [],
+   "status": "niet",
+   "historie": [
+    {
+     "datum": "2026-10-07",
+     "status": "niet"
+    }
+   ],
+   "nieuw_sinds": null,
+   "gecontroleerd": "2026-10-07T17:20:00+00:00"
+  },
+  {
+   "id": "3170060",
+   "titel": "Over levenskunst",
+   "auteur": "Joep Dohmen",
+   "isbn": "9789026321498",
+   "paginas": 399,
+   "jaar": 2008,
+   "toegevoegd": "2025-04-18",
+   "edities": [],
+   "status": "niet",
+   "historie": [
+    {
+     "datum": "2026-10-07",
+     "status": "niet"
+    }
+   ],
+   "nieuw_sinds": null,
+   "gecontroleerd": "2026-10-07T17:20:00+00:00"
+  },
+  {
+   "id": "229039552",
+   "titel": "De bandagist",
+   "auteur": "Marente de Moor",
+   "isbn": "9789044656060",
+   "paginas": 318,
+   "jaar": 2025,
+   "toegevoegd": "2025-04-10",
+   "edities": [
+    {
+     "titel": "De bandagist",
+     "type": "Boek",
+     "info": "Nederlands | 2025",
+     "omslag": null,
+     "vertaling_van": null,
+     "exemplaren": [
+      {
+       "vestiging": "Zevenaar",
+       "westervoort": false,
+       "status": "Uitgeleend tot",
+       "aanwezig": false,
+       "terug": "2026-10-14",
+       "plek": "Romans Literatuur MOOR"
+      }
+     ]
+    }
+   ],
+   "status": "elders_uitgeleend",
+   "historie": [
+    {
+     "datum": "2026-10-07",
+     "status": "elders_uitgeleend"
+    }
+   ],
+   "nieuw_sinds": null,
+   "gecontroleerd": "2026-10-07T17:20:00+00:00"
+  },
+  {
+   "id": "227857492",
+   "titel": "Grijs",
+   "auteur": "Frank Heinen",
+   "isbn": "9789493367357",
+   "paginas": 117,
+   "jaar": 2025,
+   "toegevoegd": "2025-04-04",
+   "edities": [],
+   "status": "niet",
+   "historie": [
+    {
+     "datum": "2026-10-07",
+     "status": "niet"
+    }
+   ],
+   "nieuw_sinds": null,
+   "gecontroleerd": "2026-10-07T17:20:00+00:00"
+  },
+  {
+   "id": "5107",
+   "titel": "The Catcher in the Rye",
+   "auteur": "J.D. Salinger",
+   "isbn": "9780316769174",
+   "paginas": 277,
+   "jaar": 1951,
+   "toegevoegd": "2025-03-12",
+   "edities": [],
+   "status": "niet",
+   "historie": [
+    {
+     "datum": "2026-10-07",
+     "status": "niet"
+    }
+   ],
+   "nieuw_sinds": null,
+   "gecontroleerd": "2026-10-07T17:20:00+00:00"
+  },
+  {
+   "id": "44468805",
+   "titel": "Vallen is als vliegen",
+   "auteur": "Manon Uphoff",
+   "isbn": "9789021408026",
+   "paginas": 192,
+   "jaar": 2019,
+   "toegevoegd": "2025-03-11",
+   "edities": [
+    {
+     "titel": "Vallen is als vliegen",
+     "type": "Boek",
+     "info": "Nederlands | 2020",
+     "omslag": null,
+     "vertaling_van": null,
+     "exemplaren": [
+      {
+       "vestiging": "Duiven",
+       "westervoort": false,
+       "status": "Aanwezig",
+       "aanwezig": true,
+       "terug": null,
+       "plek": "Romans Literatuur UPHO"
+      },
+      {
+       "vestiging": "Zevenaar",
+       "westervoort": false,
+       "status": "Uitgeleend tot",
+       "aanwezig": false,
+       "terug": "2026-09-15",
+       "plek": "Romans Literatuur UPHO"
+      },
+      {
+       "vestiging": "Provinciaal depot",
+       "westervoort": false,
+       "status": "Uitgeleend",
+       "aanwezig": false,
+       "terug": null,
+       "plek": "V fictie UPHO"
+      }
+     ]
+    }
+   ],
+   "status": "elders",
+   "historie": [
+    {
+     "datum": "2026-10-07",
+     "status": "elders"
+    }
+   ],
+   "nieuw_sinds": null,
+   "gecontroleerd": "2026-10-07T17:20:00+00:00"
+  },
+  {
+   "id": "209761993",
+   "titel": "De kroon met twee pieken",
+   "auteur": "Guido van Heulendonk",
+   "isbn": "9789029551977",
+   "paginas": 276,
+   "jaar": 2024,
+   "toegevoegd": "2025-03-10",
+   "edities": [],
+   "status": "niet",
+   "historie": [
+    {
+     "datum": "2026-10-07",
+     "status": "niet"
+    }
+   ],
+   "nieuw_sinds": null,
+   "gecontroleerd": "2026-10-07T17:20:00+00:00"
+  },
+  {
+   "id": "209017293",
+   "titel": "Schuilhuisje",
+   "auteur": "Lena Kurzen",
+   "isbn": "9789038813325",
+   "paginas": 208,
+   "jaar": 2024,
+   "toegevoegd": "2025-02-15",
+   "edities": [
+    {
+     "titel": "Schuilhuisje",
+     "type": "Boek",
+     "info": "Nederlands | [2024]",
+     "omslag": null,
+     "vertaling_van": null,
+     "exemplaren": [
+      {
+       "vestiging": "Zevenaar",
+       "westervoort": false,
+       "status": "Uitgeleend tot",
+       "aanwezig": false,
+       "terug": "2026-11-12",
+       "plek": "Romans Literatuur KURZ"
+      }
+     ]
+    }
+   ],
+   "status": "elders_uitgeleend",
+   "historie": [
+    {
+     "datum": "2026-10-07",
+     "status": "elders_uitgeleend"
+    }
+   ],
+   "nieuw_sinds": null,
+   "gecontroleerd": "2026-10-07T17:20:00+00:00"
+  },
+  {
+   "id": "219299241",
+   "titel": "Waar",
+   "auteur": "Wytske Versteeg",
+   "isbn": "9789021485409",
+   "paginas": 217,
+   "jaar": 2024,
+   "toegevoegd": "2025-01-28",
+   "edities": [
+    {
+     "titel": "Waar",
+     "type": "Boek",
+     "info": "Nederlands | [2024]",
+     "omslag": null,
+     "vertaling_van": null,
+     "exemplaren": [
+      {
+       "vestiging": "Provinciaal depot",
+       "westervoort": false,
+       "status": "Aanwezig",
+       "aanwezig": true,
+       "terug": null,
+       "plek": "V studie 134 VERS"
+      }
+     ]
+    }
+   ],
+   "status": "elders",
+   "historie": [
+    {
+     "datum": "2026-10-07",
+     "status": "elders"
+    }
+   ],
+   "nieuw_sinds": null,
+   "gecontroleerd": "2026-10-07T17:20:00+00:00"
+  },
+  {
+   "id": "63891719",
+   "titel": "Het Woud van Birnam",
+   "auteur": "Eleanor Catton",
+   "isbn": "9789026361494",
+   "paginas": 436,
+   "jaar": 2023,
+   "toegevoegd": "2025-01-16",
+   "edities": [
+    {
+     "titel": "Het woud van Birnam",
+     "type": "Boek",
+     "info": "Nederlands | [2023]",
+     "omslag": null,
+     "vertaling_van": null,
+     "exemplaren": [
+      {
+       "vestiging": "Zevenaar",
+       "westervoort": false,
+       "status": "Aanwezig",
+       "aanwezig": true,
+       "terug": null,
+       "plek": "Romans Literatuur CATT"
+      }
+     ]
+    }
+   ],
+   "status": "elders",
+   "historie": [
+    {
+     "datum": "2026-10-07",
+     "status": "elders"
+    }
+   ],
+   "nieuw_sinds": null,
+   "gecontroleerd": "2026-10-07T17:20:00+00:00"
+  },
+  {
+   "id": "28396549",
+   "titel": "Afslag Herberg de Troost",
+   "auteur": "Ralf Mohren",
+   "isbn": "9789048816378",
+   "paginas": 272,
+   "jaar": 2012,
+   "toegevoegd": "2025-01-10",
+   "edities": [],
+   "status": "niet",
+   "historie": [
+    {
+     "datum": "2026-10-07",
+     "status": "niet"
+    }
+   ],
+   "nieuw_sinds": null,
+   "gecontroleerd": "2026-10-07T17:20:00+00:00"
+  },
+  {
+   "id": "206828258",
+   "titel": "Op het allerlaatste moment: Verhalen over vrouwen en mannen",
+   "auteur": "Claire Keegan",
+   "isbn": "9789046832318",
+   "paginas": 112,
+   "jaar": 2022,
+   "toegevoegd": "2024-12-26",
+   "edities": [],
+   "status": "niet",
+   "historie": [
+    {
+     "datum": "2026-10-07",
+     "status": "niet"
+    }
+   ],
+   "nieuw_sinds": null,
+   "gecontroleerd": "2026-10-07T17:20:00+00:00"
+  },
+  {
+   "id": "215800969",
+   "titel": "Poolreiziger: De ontdekking van mijn bipolaire stoornis (Dutch Edition)",
+   "auteur": "Mike Boddé",
+   "isbn": "9789038815596",
+   "paginas": 150,
+   "jaar": 2024,
+   "toegevoegd": "2024-12-13",
+   "edities": [],
+   "status": "niet",
+   "historie": [
+    {
+     "datum": "2026-10-07",
+     "status": "niet"
+    }
+   ],
+   "nieuw_sinds": null,
+   "gecontroleerd": "2026-10-07T17:20:00+00:00"
+  },
+  {
+   "id": "199333629",
+   "titel": "Ruitjesblues: De Liedteksten",
+   "auteur": "Jan Beuving",
+   "isbn": "9789038814568",
+   "paginas": 240,
+   "jaar": 2023,
+   "toegevoegd": "2024-10-16",
+   "edities": [],
+   "status": "niet",
+   "historie": [
+    {
+     "datum": "2026-10-07",
+     "status": "niet"
+    }
+   ],
+   "nieuw_sinds": null,
+   "gecontroleerd": "2026-10-07T17:20:00+00:00"
+  },
+  {
+   "id": "9658390",
+   "titel": "De dood van Ivan Iljitsj",
+   "auteur": "Leo Tolstoy",
+   "isbn": "9789029079754",
+   "paginas": 109,
+   "jaar": 1886,
+   "toegevoegd": "2024-10-10",
+   "edities": [
+    {
+     "titel": "De dood van Ivan Iljitsj",
+     "type": "Boek",
+     "info": "Nederlands | februari 2020",
+     "omslag": null,
+     "vertaling_van": null,
+     "exemplaren": [
+      {
+       "vestiging": "Provinciaal depot",
+       "westervoort": false,
+       "status": "Uitgeleend",
+       "aanwezig": false,
+       "terug": null,
+       "plek": "V fictie TOLS"
+      }
+     ]
+    },
+    {
+     "titel": "De dood van Ivan Iljitsj",
+     "type": "Boek",
+     "info": "Nederlands | [2013]",
+     "omslag": null,
+     "vertaling_van": null,
+     "exemplaren": [
+      {
+       "vestiging": "Provinciaal depot",
+       "westervoort": false,
+       "status": "Uitgeleend",
+       "aanwezig": false,
+       "terug": null,
+       "plek": "V fictie TOLS"
+      }
+     ]
+    }
+   ],
+   "status": "elders_uitgeleend",
+   "historie": [
+    {
+     "datum": "2026-10-07",
+     "status": "elders_uitgeleend"
+    }
+   ],
+   "nieuw_sinds": null,
+   "gecontroleerd": "2026-10-07T17:20:00+00:00"
+  },
+  {
+   "id": "770754",
+   "titel": "La peste",
+   "auteur": "Albert Camus",
+   "isbn": "",
+   "paginas": 279,
+   "jaar": 1947,
+   "toegevoegd": "2024-10-10",
+   "edities": [
+    {
+     "titel": "De pest",
+     "type": "Boek",
+     "info": "Nederlands | 2019",
+     "omslag": null,
+     "vertaling_van": "La peste",
+     "exemplaren": [
+      {
+       "vestiging": "Westervoort",
+       "westervoort": true,
+       "status": "Aanwezig",
+       "aanwezig": true,
+       "terug": null,
+       "plek": "[VRO] CAMU"
+      },
+      {
+       "vestiging": "Provinciaal depot",
+       "westervoort": false,
+       "status": "Aanwezig",
+       "aanwezig": true,
+       "terug": null,
+       "plek": "V fictie CAMU"
+      }
+     ]
+    }
+   ],
+   "status": "westervoort",
+   "historie": [
+    {
+     "datum": "2026-10-07",
+     "status": "westervoort"
+    }
+   ],
+   "nieuw_sinds": null,
+   "gecontroleerd": "2026-10-07T17:20:00+00:00"
+  },
+  {
+   "id": "211052285",
+   "titel": "De mensheid zal nog van mij horen",
+   "auteur": "Joris van Casteren",
+   "isbn": "9789403133492",
+   "paginas": 324,
+   "jaar": 2024,
+   "toegevoegd": "2024-09-29",
+   "edities": [
+    {
+     "titel": "De mensheid zal nog van mij horen",
+     "type": "Boek",
+     "info": "Nederlands | september 2024",
+     "omslag": null,
+     "vertaling_van": null,
+     "exemplaren": [
+      {
+       "vestiging": "Zevenaar",
+       "westervoort": false,
+       "status": "Uitgeleend tot",
+       "aanwezig": false,
+       "terug": "2026-11-02",
+       "plek": "Waargebeurde verhalen DAGBOEKEN CAST"
+      }
+     ]
+    }
+   ],
+   "status": "elders_uitgeleend",
+   "historie": [
+    {
+     "datum": "2026-10-07",
+     "status": "elders_uitgeleend"
+    }
+   ],
+   "nieuw_sinds": null,
+   "gecontroleerd": "2026-10-07T17:20:00+00:00"
+  },
+  {
+   "id": "49249766",
+   "titel": "Traumasporen: het herstel van lichaam, brein en geest na overweldigende ervaringen",
+   "auteur": "Bessel van der Kolk",
+   "isbn": "9789463160315",
+   "paginas": 575,
+   "jaar": 2014,
+   "toegevoegd": "2024-09-25",
+   "edities": [
+    {
+     "titel": "Traumasporen",
+     "type": "Boek",
+     "info": "Nederlands | 2021",
+     "omslag": null,
+     "vertaling_van": null,
+     "exemplaren": [
+      {
+       "vestiging": "Provinciaal depot",
+       "westervoort": false,
+       "status": "Uitgeleend tot",
+       "aanwezig": false,
+       "terug": "2026-10-02",
+       "plek": "V studie 606.323 KOLK"
+      }
+     ]
+    }
+   ],
+   "status": "elders_uitgeleend",
+   "historie": [
+    {
+     "datum": "2026-10-07",
+     "status": "elders_uitgeleend"
+    }
+   ],
+   "nieuw_sinds": null,
+   "gecontroleerd": "2026-10-07T17:20:00+00:00"
+  },
+  {
+   "id": "59808603",
+   "titel": "The Mountain in the Sea",
+   "auteur": "Ray Nayler",
+   "isbn": "9780374605957",
+   "paginas": 456,
+   "jaar": 2022,
+   "toegevoegd": "2024-09-22",
+   "edities": [],
+   "status": "niet",
+   "historie": [
+    {
+     "datum": "2026-10-07",
+     "status": "niet"
+    }
+   ],
+   "nieuw_sinds": null,
+   "gecontroleerd": "2026-10-07T17:20:00+00:00"
+  },
+  {
+   "id": "33253215",
+   "titel": "The Heart's Invisible Furies",
+   "auteur": "John Boyne",
+   "isbn": "",
+   "paginas": 582,
+   "jaar": 2017,
+   "toegevoegd": "2024-09-19",
+   "edities": [
+    {
+     "titel": "Wat het hart verwoest",
+     "type": "Boek",
+     "info": "Nederlands | 2019",
+     "omslag": null,
+     "vertaling_van": "The heart's invisible furies",
+     "exemplaren": [
+      {
+       "vestiging": "Westervoort",
+       "westervoort": true,
+       "status": "Aanwezig",
+       "aanwezig": true,
+       "terug": null,
+       "plek": "[VRO] BOYN"
+      },
+      {
+       "vestiging": "Duiven",
+       "westervoort": false,
+       "status": "Aanwezig",
+       "aanwezig": true,
+       "terug": null,
+       "plek": "Romans Literatuur BOYN"
+      },
+      {
+       "vestiging": "Provinciaal depot",
+       "westervoort": false,
+       "status": "Uitgeleend",
+       "aanwezig": false,
+       "terug": null,
+       "plek": "V fictie BOYN"
+      }
+     ]
+    }
+   ],
+   "status": "westervoort",
+   "historie": [
+    {
+     "datum": "2026-10-07",
+     "status": "westervoort"
+    }
+   ],
+   "nieuw_sinds": null,
+   "gecontroleerd": "2026-10-07T17:20:00+00:00"
+  },
+  {
+   "id": "18378023",
+   "titel": "The Examined Life: How We Lose and Find Ourselves",
+   "auteur": "Stephen Grosz",
+   "isbn": "9780393349320",
+   "paginas": 240,
+   "jaar": 2012,
+   "toegevoegd": "2024-08-28",
+   "edities": [
+    {
+     "titel": "Het leven, een handleiding",
+     "type": "Boek",
+     "info": "Nederlands | cop. 2013",
+     "omslag": null,
+     "vertaling_van": "The Examined Life",
+     "exemplaren": [
+      {
+       "vestiging": "Provinciaal depot",
+       "westervoort": false,
+       "status": "Aanwezig",
+       "aanwezig": true,
+       "terug": null,
+       "plek": "V studie 607.32 GROS"
+      }
+     ]
+    }
+   ],
+   "status": "elders",
+   "historie": [
+    {
+     "datum": "2026-10-07",
+     "status": "elders"
+    }
+   ],
+   "nieuw_sinds": null,
+   "gecontroleerd": "2026-10-07T17:20:00+00:00"
+  },
+  {
+   "id": "13002528",
+   "titel": "Vaslav",
+   "auteur": "Arthur Japin",
+   "isbn": "9789029578684",
+   "paginas": 374,
+   "jaar": 2010,
+   "toegevoegd": "2024-08-20",
+   "edities": [
+    {
+     "titel": "Vaslav",
+     "type": "Boek",
+     "info": "Nederlands | 2011",
+     "omslag": null,
+     "vertaling_van": null,
+     "exemplaren": [
+      {
+       "vestiging": "Pannerden",
+       "westervoort": false,
+       "status": "Aanwezig",
+       "aanwezig": true,
+       "terug": null,
+       "plek": "[VRO] JAPI"
+      },
+      {
+       "vestiging": "Provinciaal depot",
+       "westervoort": false,
+       "status": "Aanwezig",
+       "aanwezig": true,
+       "terug": null,
+       "plek": "V fictie JAPI"
+      }
+     ]
+    }
+   ],
+   "status": "elders",
+   "historie": [
+    {
+     "datum": "2026-10-07",
+     "status": "elders"
+    }
+   ],
+   "nieuw_sinds": null,
+   "gecontroleerd": "2026-10-07T17:20:00+00:00"
+  },
+  {
+   "id": "63269510",
+   "titel": "Op zoek naar de verstrooide tijd",
+   "auteur": "Koen Haegens",
+   "isbn": "9789026362095",
+   "paginas": 240,
+   "jaar": 2023,
+   "toegevoegd": "2024-07-19",
+   "edities": [
+    {
+     "titel": "Op zoek naar de verstrooide tijd",
+     "type": "Boek",
+     "info": "Nederlands | [2023]",
+     "omslag": null,
+     "vertaling_van": null,
+     "exemplaren": [
+      {
+       "vestiging": "Provinciaal depot",
+       "westervoort": false,
+       "status": "Aanwezig",
+       "aanwezig": true,
+       "terug": null,
+       "plek": "V studie 300.5 HAEG"
+      }
+     ]
+    }
+   ],
+   "status": "elders",
+   "historie": [
+    {
+     "datum": "2026-10-07",
+     "status": "elders"
+    }
+   ],
+   "nieuw_sinds": null,
+   "gecontroleerd": "2026-10-07T17:20:00+00:00"
+  },
+  {
+   "id": "32620332",
+   "titel": "The Seven Husbands of Evelyn Hugo",
+   "auteur": "Taylor Jenkins Reid",
+   "isbn": "9781501139239",
+   "paginas": 389,
+   "jaar": 2017,
+   "toegevoegd": "2024-07-10",
+   "edities": [
+    {
+     "titel": "De zeven echtgenoten van Evelyn Hugo",
+     "type": "Boek",
+     "info": "Nederlands | 2022",
+     "omslag": null,
+     "vertaling_van": "The seven husbands of Evelyn Hugo",
+     "exemplaren": [
+      {
+       "vestiging": "Duiven",
+       "westervoort": false,
+       "status": "Uitgeleend tot",
+       "aanwezig": false,
+       "terug": "2026-11-02",
+       "plek": "Romans Literatuur REID"
+      }
+     ]
+    }
+   ],
+   "status": "elders_uitgeleend",
+   "historie": [
+    {
+     "datum": "2026-10-07",
+     "status": "elders_uitgeleend"
+    }
+   ],
+   "nieuw_sinds": null,
+   "gecontroleerd": "2026-10-07T17:20:00+00:00"
+  },
+  {
+   "id": "36587351",
+   "titel": "De keuze: leven in vrijheid",
+   "auteur": "Edith Eger",
+   "isbn": "9789400508408",
+   "paginas": 320,
+   "jaar": 2017,
+   "toegevoegd": "2024-06-01",
+   "edities": [
+    {
+     "titel": "De keuze",
+     "type": "Boek",
+     "info": "Nederlands | oktober 2020",
+     "omslag": null,
+     "vertaling_van": null,
+     "exemplaren": [
+      {
+       "vestiging": "Zevenaar",
+       "westervoort": false,
+       "status": "Aanwezig",
+       "aanwezig": true,
+       "terug": null,
+       "plek": "Waargebeurde verhalen EGER EGER"
+      },
+      {
+       "vestiging": "Duiven",
+       "westervoort": false,
+       "status": "Uitgeleend tot",
+       "aanwezig": false,
+       "terug": "2026-10-22",
+       "plek": "Waargebeurde verhalen 412 EGER"
+      },
+      {
+       "vestiging": "Provinciaal depot",
+       "westervoort": false,
+       "status": "Uitgeleend tot",
+       "aanwezig": false,
+       "terug": "2026-10-27",
+       "plek": "V studie 412 EGER"
+      }
+     ]
+    }
+   ],
+   "status": "elders",
+   "historie": [
+    {
+     "datum": "2026-10-07",
+     "status": "elders"
+    }
+   ],
+   "nieuw_sinds": null,
+   "gecontroleerd": "2026-10-07T17:20:00+00:00"
+  },
+  {
+   "id": "175194515",
+   "titel": "Gebied 19",
+   "auteur": "Esther Gerritsen",
+   "isbn": "9789044547917",
+   "paginas": 284,
+   "jaar": 2023,
+   "toegevoegd": "2024-03-11",
+   "edities": [
+    {
+     "titel": "Gebied 19",
+     "type": "Boek",
+     "info": "Nederlands | [2023]",
+     "omslag": null,
+     "vertaling_van": null,
+     "exemplaren": [
+      {
+       "vestiging": "Zevenaar",
+       "westervoort": false,
+       "status": "Aanwezig",
+       "aanwezig": true,
+       "terug": null,
+       "plek": "Romans Literatuur GERR"
+      },
+      {
+       "vestiging": "Duiven",
+       "westervoort": false,
+       "status": "Aanwezig",
+       "aanwezig": true,
+       "terug": null,
+       "plek": "Romans Literatuur GERR"
+      }
+     ]
+    }
+   ],
+   "status": "elders",
+   "historie": [
+    {
+     "datum": "2026-10-07",
+     "status": "elders"
+    }
+   ],
+   "nieuw_sinds": null,
+   "gecontroleerd": "2026-10-07T17:20:00+00:00"
+  },
+  {
+   "id": "96177629",
+   "titel": "Good Material",
+   "auteur": "Dolly Alderton",
+   "isbn": "9780241523674",
+   "paginas": 345,
+   "jaar": 2023,
+   "toegevoegd": "2024-03-11",
+   "edities": [
+    {
+     "titel": "Good material [Nederlands]",
+     "type": "Boek",
+     "info": "Nederlands | [2024]",
+     "omslag": null,
+     "vertaling_van": null,
+     "exemplaren": [
+      {
+       "vestiging": "Zevenaar",
+       "westervoort": false,
+       "status": "Aanwezig",
+       "aanwezig": true,
+       "terug": null,
+       "plek": "Romans Romantisch ALDE"
+      }
+     ]
+    }
+   ],
+   "status": "elders",
+   "historie": [
+    {
+     "datum": "2026-10-07",
+     "status": "elders"
+    }
+   ],
+   "nieuw_sinds": null,
+   "gecontroleerd": "2026-10-07T17:20:00+00:00"
+  },
+  {
+   "id": "52191015",
+   "titel": "Liefde, als dat het is",
+   "auteur": "Marijke Schermer",
+   "isbn": "9789028282391",
+   "paginas": 203,
+   "jaar": 2019,
+   "toegevoegd": "2024-03-07",
+   "edities": [
+    {
+     "titel": "Liefde, als dat het is",
+     "type": "Boek",
+     "info": "Nederlands | juni 2019",
+     "omslag": null,
+     "vertaling_van": null,
+     "exemplaren": [
+      {
+       "vestiging": "Zevenaar",
+       "westervoort": false,
+       "status": "Aanwezig",
+       "aanwezig": true,
+       "terug": null,
+       "plek": "Romans Literatuur SCHE"
+      },
+      {
+       "vestiging": "Provinciaal depot",
+       "westervoort": false,
+       "status": "Uitgeleend",
+       "aanwezig": false,
+       "terug": null,
+       "plek": "VN"
+      },
+      {
+       "vestiging": "Provinciaal depot",
+       "westervoort": false,
+       "status": "Uitgeleend",
+       "aanwezig": false,
+       "terug": null,
+       "plek": "V fictie SCHE"
+      }
+     ]
+    }
+   ],
+   "status": "elders",
+   "historie": [
+    {
+     "datum": "2026-10-07",
+     "status": "elders"
+    }
+   ],
+   "nieuw_sinds": null,
+   "gecontroleerd": "2026-10-07T17:20:00+00:00"
+  },
+  {
+   "id": "63192053",
+   "titel": "Alleen en duizend mensen",
+   "auteur": "Malou Holshuijsen",
+   "isbn": "9789026358975",
+   "paginas": 256,
+   "jaar": 2023,
+   "toegevoegd": "2024-02-02",
+   "edities": [
+    {
+     "titel": "Alleen en duizend mensen",
+     "type": "Boek",
+     "info": "Nederlands | [2023]",
+     "omslag": null,
+     "vertaling_van": null,
+     "exemplaren": [
+      {
+       "vestiging": "Pannerden",
+       "westervoort": false,
+       "status": "Aanwezig",
+       "aanwezig": true,
+       "terug": null,
+       "plek": "Romans Literatuur HOLS"
+      }
+     ]
+    }
+   ],
+   "status": "elders",
+   "historie": [
+    {
+     "datum": "2026-10-07",
+     "status": "elders"
+    }
+   ],
+   "nieuw_sinds": null,
+   "gecontroleerd": "2026-10-07T17:20:00+00:00"
+  },
+  {
+   "id": "61314161",
+   "titel": "Weerlicht",
+   "auteur": "Jante Wortel",
+   "isbn": "",
+   "paginas": 253,
+   "jaar": 2022,
+   "toegevoegd": "2023-11-14",
+   "edities": [
+    {
+     "titel": "Weerlicht",
+     "type": "Boek",
+     "info": "Nederlands | juli 2022",
+     "omslag": null,
+     "vertaling_van": null,
+     "exemplaren": [
+      {
+       "vestiging": "Zevenaar",
+       "westervoort": false,
+       "status": "Aanwezig",
+       "aanwezig": true,
+       "terug": null,
+       "plek": "Romans Literatuur WORT"
+      }
+     ]
+    }
+   ],
+   "status": "elders",
+   "historie": [
+    {
+     "datum": "2026-10-07",
+     "status": "elders"
+    }
+   ],
+   "nieuw_sinds": null,
+   "gecontroleerd": "2026-10-07T17:20:00+00:00"
+  },
+  {
+   "id": "36180421",
+   "titel": "De zweetvoetenman: Over rechtszaken & regels [en een hoop gedoe]",
+   "auteur": "Annet Huizing",
+   "isbn": "9789047708261",
+   "paginas": 247,
+   "jaar": 2017,
+   "toegevoegd": "2023-07-31",
+   "edities": [
+    {
+     "titel": "De zweetvoetenman",
+     "type": "Boek",
+     "info": "Nederlands | [2017]",
+     "omslag": null,
+     "vertaling_van": null,
+     "exemplaren": [
+      {
+       "vestiging": "Zevenaar",
+       "westervoort": false,
+       "status": "Aanwezig",
+       "aanwezig": true,
+       "terug": null,
+       "plek": "Jeugd 8-12 Mens en Maatschappij  J RECHTSPRAAK HUIZ"
+      },
+      {
+       "vestiging": "Giesbeek",
+       "westervoort": false,
+       "status": "Aanwezig",
+       "aanwezig": true,
+       "terug": null,
+       "plek": "Jeugd 8-12 Mens en Maatschappij J RECHTSPRAAK HUIZ"
+      }
+     ]
+    }
+   ],
+   "status": "elders",
+   "historie": [
+    {
+     "datum": "2026-10-07",
+     "status": "elders"
+    }
+   ],
+   "nieuw_sinds": null,
+   "gecontroleerd": "2026-10-07T17:20:00+00:00"
+  },
+  {
+   "id": "39723057",
+   "titel": "Jij bent van mij",
+   "auteur": "Peter Middendorp",
+   "isbn": "9789044629248",
+   "paginas": 248,
+   "jaar": 2018,
+   "toegevoegd": "2023-06-29",
+   "edities": [
+    {
+     "titel": "Jij bent van mij",
+     "type": "Boek",
+     "info": "Nederlands | 2018",
+     "omslag": null,
+     "vertaling_van": null,
+     "exemplaren": [
+      {
+       "vestiging": "Zevenaar",
+       "westervoort": false,
+       "status": "Uitgeleend tot",
+       "aanwezig": false,
+       "terug": "2026-10-27",
+       "plek": "Romans Literatuur MIDD"
+      },
+      {
+       "vestiging": "Lobith",
+       "westervoort": false,
+       "status": "Uitgeleend tot",
+       "aanwezig": false,
+       "terug": "2026-11-02",
+       "plek": "[VRO] MIDD"
+      },
+      {
+       "vestiging": "Provinciaal depot",
+       "westervoort": false,
+       "status": "Uitgeleend",
+       "aanwezig": false,
+       "terug": null,
+       "plek": "V fictie MIDD"
+      },
+      {
+       "vestiging": "Rozet Arnhem",
+       "westervoort": false,
+       "status": "Uitgeleend tot",
+       "aanwezig": false,
+       "terug": "2026-10-23",
+       "plek": "Literatuur en Cultuur – 1e verd. - Literaire romans MIDD"
+      }
+     ]
+    }
+   ],
+   "status": "elders_uitgeleend",
+   "historie": [
+    {
+     "datum": "2026-10-07",
+     "status": "elders_uitgeleend"
+    }
+   ],
+   "nieuw_sinds": null,
+   "gecontroleerd": "2026-10-07T17:20:00+00:00"
+  },
+  {
+   "id": "3316995",
+   "titel": "De broncode",
+   "auteur": "Eric Smit",
+   "isbn": "9789057591563",
+   "paginas": 328,
+   "jaar": 2004,
+   "toegevoegd": "2023-06-12",
+   "edities": [
+    {
+     "titel": "De broncode",
+     "type": "Boek",
+     "info": "Nederlands | 2004",
+     "omslag": null,
+     "vertaling_van": null,
+     "exemplaren": [
+      {
+       "vestiging": "Provinciaal depot",
+       "westervoort": false,
+       "status": "Uitgeleend tot",
+       "aanwezig": false,
+       "terug": "2026-10-01",
+       "plek": "V studie 640.5 SMIT"
+      }
+     ]
+    }
+   ],
+   "status": "elders_uitgeleend",
+   "historie": [
+    {
+     "datum": "2026-10-07",
+     "status": "elders_uitgeleend"
+    }
+   ],
+   "nieuw_sinds": null,
+   "gecontroleerd": "2026-10-07T17:20:00+00:00"
+  },
+  {
+   "id": "7848758",
+   "titel": "Nina",
+   "auteur": "Eric Smit",
+   "isbn": "9789044614657",
+   "paginas": 352,
+   "jaar": 2010,
+   "toegevoegd": "2023-06-12",
+   "edities": [
+    {
+     "titel": "Nina",
+     "type": "Boek",
+     "info": "Nederlands | 2010",
+     "omslag": null,
+     "vertaling_van": null,
+     "exemplaren": [
+      {
+       "vestiging": "Provinciaal depot",
+       "westervoort": false,
+       "status": "Aanwezig",
+       "aanwezig": true,
+       "terug": null,
+       "plek": "V studie 351.3 SMIT"
+      }
+     ]
+    }
+   ],
+   "status": "elders",
+   "historie": [
+    {
+     "datum": "2026-10-07",
+     "status": "elders"
+    }
+   ],
+   "nieuw_sinds": null,
+   "gecontroleerd": "2026-10-07T17:20:00+00:00"
+  },
+  {
+   "id": "123996873",
+   "titel": "De man met duizend gezichten",
+   "auteur": "Lex Noteboom",
+   "isbn": "9789044932119",
+   "paginas": 400,
+   "jaar": 2023,
+   "toegevoegd": "2023-06-06",
+   "edities": [
+    {
+     "titel": "De man met duizend gezichten",
+     "type": "Boek",
+     "info": "Nederlands | [2023]",
+     "omslag": null,
+     "vertaling_van": null,
+     "exemplaren": [
+      {
+       "vestiging": "Zevenaar",
+       "westervoort": false,
+       "status": "Aanwezig",
+       "aanwezig": true,
+       "terug": null,
+       "plek": "Romans Spannend NOTE"
+      },
+      {
+       "vestiging": "Giesbeek",
+       "westervoort": false,
+       "status": "Aanwezig",
+       "aanwezig": true,
+       "terug": null,
+       "plek": "Romans Spannend NOTE"
+      },
+      {
+       "vestiging": "Lobith",
+       "westervoort": false,
+       "status": "Aanwezig",
+       "aanwezig": true,
+       "terug": null,
+       "plek": "Romans Spannend NOTE"
+      }
+     ]
+    }
+   ],
+   "status": "elders",
+   "historie": [
+    {
+     "datum": "2026-10-07",
+     "status": "elders"
+    }
+   ],
+   "nieuw_sinds": null,
+   "gecontroleerd": "2026-10-07T17:20:00+00:00"
+  },
+  {
+   "id": "122988667",
+   "titel": "De gast",
+   "auteur": "Emma Cline",
+   "isbn": "9789048856305",
+   "paginas": 269,
+   "jaar": 2023,
+   "toegevoegd": "2023-05-28",
+   "edities": [
+    {
+     "titel": "De gast",
+     "type": "Boek",
+     "info": "Nederlands | 2023",
+     "omslag": null,
+     "vertaling_van": null,
+     "exemplaren": [
+      {
+       "vestiging": "Zevenaar",
+       "westervoort": false,
+       "status": "Aanwezig",
+       "aanwezig": true,
+       "terug": null,
+       "plek": "Romans Literatuur CLIN"
+      }
+     ]
+    }
+   ],
+   "status": "elders",
+   "historie": [
+    {
+     "datum": "2026-10-07",
+     "status": "elders"
+    }
+   ],
+   "nieuw_sinds": null,
+   "gecontroleerd": "2026-10-07T17:20:00+00:00"
+  },
+  {
+   "id": "61157639",
+   "titel": "The Mysterious Case of the Alperton Angels",
+   "auteur": "Janice Hallett",
+   "isbn": "9781800810402",
+   "paginas": 416,
+   "jaar": 2023,
+   "toegevoegd": "2023-05-19",
+   "edities": [],
+   "status": "niet",
+   "historie": [
+    {
+     "datum": "2026-10-07",
+     "status": "niet"
+    }
+   ],
+   "nieuw_sinds": null,
+   "gecontroleerd": "2026-10-07T17:20:00+00:00"
+  },
+  {
+   "id": "63105991",
+   "titel": "Rotterdam: een ode aan inefficiëntie",
+   "auteur": "Arjen van Veelen",
+   "isbn": "9789493254183",
+   "paginas": 368,
+   "jaar": 2022,
+   "toegevoegd": "2023-03-30",
+   "edities": [],
+   "status": "niet",
+   "historie": [
+    {
+     "datum": "2026-10-07",
+     "status": "niet"
+    }
+   ],
+   "nieuw_sinds": null,
+   "gecontroleerd": "2026-10-07T17:20:00+00:00"
+  },
+  {
+   "id": "61174603",
+   "titel": "Heidelberg",
+   "auteur": "Martijn Simons",
+   "isbn": "9789400408890",
+   "paginas": 480,
+   "jaar": 2022,
+   "toegevoegd": "2023-02-13",
+   "edities": [
+    {
+     "titel": "Heidelberg",
+     "type": "Boek",
+     "info": "Nederlands | 2022",
+     "omslag": null,
+     "vertaling_van": null,
+     "exemplaren": [
+      {
+       "vestiging": "Duiven",
+       "westervoort": false,
+       "status": "Aanwezig",
+       "aanwezig": true,
+       "terug": null,
+       "plek": "[089] SIMO"
+      }
+     ]
+    }
+   ],
+   "status": "elders",
+   "historie": [
+    {
+     "datum": "2026-10-07",
+     "status": "elders"
+    }
+   ],
+   "nieuw_sinds": null,
+   "gecontroleerd": "2026-10-07T17:20:00+00:00"
+  },
+  {
+   "id": "63096631",
+   "titel": "De hoofdrol",
+   "auteur": "Janice Hallett",
+   "isbn": "",
+   "paginas": 480,
+   "jaar": 2021,
+   "toegevoegd": "2023-01-27",
+   "edities": [],
+   "status": "niet",
+   "historie": [
+    {
+     "datum": "2026-10-07",
+     "status": "niet"
+    }
+   ],
+   "nieuw_sinds": null,
+   "gecontroleerd": "2026-10-07T17:20:00+00:00"
+  },
+  {
+   "id": "62207301",
+   "titel": "De gebeurtenis",
+   "auteur": "Peter Terrin",
+   "isbn": "9789403181813",
+   "paginas": 224,
+   "jaar": 2022,
+   "toegevoegd": "2022-12-12",
+   "edities": [
+    {
+     "titel": "De gebeurtenis",
+     "type": "Boek",
+     "info": "Nederlands | 2022",
+     "omslag": null,
+     "vertaling_van": null,
+     "exemplaren": [
+      {
+       "vestiging": "Duiven",
+       "westervoort": false,
+       "status": "Aanwezig",
+       "aanwezig": true,
+       "terug": null,
+       "plek": "[089] TERR"
+      }
+     ]
+    }
+   ],
+   "status": "elders",
+   "historie": [
+    {
+     "datum": "2026-10-07",
+     "status": "elders"
+    }
+   ],
+   "nieuw_sinds": null,
+   "gecontroleerd": "2026-10-07T17:20:00+00:00"
+  },
+  {
+   "id": "223380",
+   "titel": "Stories of Your Life and Others",
+   "auteur": "Ted Chiang",
+   "isbn": "9780330426640",
+   "paginas": 281,
+   "jaar": 2002,
+   "toegevoegd": "2022-11-02",
+   "edities": [],
+   "status": "niet",
+   "historie": [
+    {
+     "datum": "2026-10-07",
+     "status": "niet"
+    }
+   ],
+   "nieuw_sinds": null,
+   "gecontroleerd": "2026-10-07T17:20:00+00:00"
+  },
+  {
+   "id": "12164300",
+   "titel": "Speeldrift",
+   "auteur": "Juli Zeh",
+   "isbn": "9789041412058",
+   "paginas": 451,
+   "jaar": 2004,
+   "toegevoegd": "2022-10-27",
+   "edities": [],
+   "status": "niet",
+   "historie": [
+    {
+     "datum": "2026-10-07",
+     "status": "niet"
+    }
+   ],
+   "nieuw_sinds": null,
+   "gecontroleerd": "2026-10-07T17:20:00+00:00"
+  },
+  {
+   "id": "466518",
+   "titel": "Nooit meer slapen",
+   "auteur": "Willem Frederik Hermans",
+   "isbn": "9789023401735",
+   "paginas": 251,
+   "jaar": 1966,
+   "toegevoegd": "2022-09-13",
+   "edities": [
+    {
+     "titel": "Nooit meer slapen",
+     "type": "Boek",
+     "info": "Nederlands | 2014 2014",
+     "omslag": null,
+     "vertaling_van": null,
+     "exemplaren": [
+      {
+       "vestiging": "Provinciaal depot",
+       "westervoort": false,
+       "status": "Uitgeleend tot",
+       "aanwezig": false,
+       "terug": "2026-11-02",
+       "plek": "V fictie HERM"
+      }
+     ]
+    },
+    {
+     "titel": "Nooit meer slapen",
+     "type": "Boek",
+     "info": "Nederlands | 2025",
+     "omslag": null,
+     "vertaling_van": null,
+     "exemplaren": [
+      {
+       "vestiging": "Zevenaar",
+       "westervoort": false,
+       "status": "Aanwezig",
+       "aanwezig": true,
+       "terug": null,
+       "plek": "Romans Literatuur HERM"
+      },
+      {
+       "vestiging": "Duiven",
+       "westervoort": false,
+       "status": "Aanwezig",
+       "aanwezig": true,
+       "terug": null,
+       "plek": "[089] HERM"
+      },
+      {
+       "vestiging": "Provinciaal depot",
+       "westervoort": false,
+       "status": "Aanwezig",
+       "aanwezig": true,
+       "terug": null,
+       "plek": "V fictie HERM"
+      }
+     ]
+    },
+    {
+     "titel": "Nooit meer slapen",
+     "type": "Luisterboek",
+     "info": "Nederlands | cop. 2010",
+     "omslag": null,
+     "vertaling_van": null,
+     "exemplaren": [
+      {
+       "vestiging": "Provinciaal depot",
+       "westervoort": false,
+       "status": "Aanwezig",
+       "aanwezig": true,
+       "terug": null,
+       "plek": "V fictie HERM"
+      }
+     ]
+    }
+   ],
+   "status": "elders",
+   "historie": [
+    {
+     "datum": "2026-10-07",
+     "status": "elders"
+    }
+   ],
+   "nieuw_sinds": null,
+   "gecontroleerd": "2026-10-07T17:20:00+00:00"
+  },
+  {
+   "id": "50998056",
+   "titel": "The Ministry for the Future",
+   "auteur": "Kim Stanley Robinson",
+   "isbn": "9780316300131",
+   "paginas": 563,
+   "jaar": 2020,
+   "toegevoegd": "2022-08-20",
+   "edities": [],
+   "status": "niet",
+   "historie": [
+    {
+     "datum": "2026-10-07",
+     "status": "niet"
+    }
+   ],
+   "nieuw_sinds": null,
+   "gecontroleerd": "2026-10-07T17:20:00+00:00"
+  },
+  {
+   "id": "50625669",
+   "titel": "Daar waar de rivierkreeften zingen",
+   "auteur": "Delia Owens",
+   "isbn": "9789044358902",
+   "paginas": 384,
+   "jaar": 2018,
+   "toegevoegd": "2022-07-26",
+   "edities": [
+    {
+     "titel": "Daar waar de rivierkreeften zingen",
+     "type": "Boek",
+     "info": "Nederlands | augustus 2024",
+     "omslag": null,
+     "vertaling_van": null,
+     "exemplaren": [
+      {
+       "vestiging": "Zevenaar",
+       "westervoort": false,
+       "status": "Aanwezig",
+       "aanwezig": true,
+       "terug": null,
+       "plek": "Romans Spannend OWEN"
+      },
+      {
+       "vestiging": "Giesbeek",
+       "westervoort": false,
+       "status": "Aanwezig",
+       "aanwezig": true,
+       "terug": null,
+       "plek": "[VRO] OWEN"
+      },
+      {
+       "vestiging": "Duiven",
+       "westervoort": false,
+       "status": "Uitgeleend tot",
+       "aanwezig": false,
+       "terug": "2026-10-30",
+       "plek": "Romans Spannend OWEN"
+      }
+     ]
+    },
+    {
+     "titel": "Daar waar de rivierkreeften zingen",
+     "type": "Boek",
+     "info": "Nederlands | november 2023",
+     "omslag": null,
+     "vertaling_van": null,
+     "exemplaren": [
+      {
+       "vestiging": "Westervoort",
+       "westervoort": true,
+       "status": "Aanwezig",
+       "aanwezig": true,
+       "terug": null,
+       "plek": "Taalpunt Lezen 2 OWEN"
+      },
+      {
+       "vestiging": "Zevenaar",
+       "westervoort": false,
+       "status": "Aanwezig",
+       "aanwezig": true,
+       "terug": null,
+       "plek": "Taalpunt Lezen 2 OWEN"
+      },
+      {
+       "vestiging": "Pannerden",
+       "westervoort": false,
+       "status": "Aanwezig",
+       "aanwezig": true,
+       "terug": null,
+       "plek": "Taalpunt Lezen 2 OWEN"
+      }
+     ]
+    }
+   ],
+   "status": "westervoort",
+   "historie": [
+    {
+     "datum": "2026-10-07",
+     "status": "westervoort"
+    }
+   ],
+   "nieuw_sinds": null,
+   "gecontroleerd": "2026-10-07T17:20:00+00:00"
+  },
+  {
+   "id": "9530",
+   "titel": "Shadow Divers",
+   "auteur": "Robert Kurson",
+   "isbn": "",
+   "paginas": 335,
+   "jaar": 2004,
+   "toegevoegd": "2022-06-19",
+   "edities": [],
+   "status": "niet",
+   "historie": [
+    {
+     "datum": "2026-10-07",
+     "status": "niet"
+    }
+   ],
+   "nieuw_sinds": null,
+   "gecontroleerd": "2026-10-07T17:20:00+00:00"
+  },
+  {
+   "id": "50911074",
+   "titel": "Het moois dat we delen",
+   "auteur": "Ish Ait Hamou",
+   "isbn": "9789022336953",
+   "paginas": 270,
+   "jaar": 2019,
+   "toegevoegd": "2022-05-18",
+   "edities": [
+    {
+     "titel": "Het moois dat we delen",
+     "type": "Boek",
+     "info": "Nederlands | oktober 2019",
+     "omslag": null,
+     "vertaling_van": null,
+     "exemplaren": [
+      {
+       "vestiging": "Zevenaar",
+       "westervoort": false,
+       "status": "Aanwezig",
+       "aanwezig": true,
+       "terug": null,
+       "plek": "Romans Literatuur AIT"
+      },
+      {
+       "vestiging": "Duiven",
+       "westervoort": false,
+       "status": "Aanwezig",
+       "aanwezig": true,
+       "terug": null,
+       "plek": "Romans Literatuur AIT"
+      },
+      {
+       "vestiging": "Provinciaal depot",
+       "westervoort": false,
+       "status": "Uitgeleend tot",
+       "aanwezig": false,
+       "terug": "2026-10-27",
+       "plek": "V fictie AIT H"
+      },
+      {
+       "vestiging": "Rozet Arnhem",
+       "westervoort": false,
+       "status": "Uitgeleend",
+       "aanwezig": false,
+       "terug": null,
+       "plek": "Literatuur en Cultuur – 1e verd. - Literaire romans AIT H"
+      }
+     ]
+    }
+   ],
+   "status": "elders",
+   "historie": [
+    {
+     "datum": "2026-10-07",
+     "status": "elders"
+    }
+   ],
+   "nieuw_sinds": null,
+   "gecontroleerd": "2026-10-07T17:20:00+00:00"
+  },
+  {
+   "id": "59484492",
+   "titel": "Herfstdraad",
+   "auteur": "Jamal Ouariachi",
+   "isbn": "9789021418032",
+   "paginas": 448,
+   "jaar": 2022,
+   "toegevoegd": "2022-05-18",
+   "edities": [],
+   "status": "niet",
+   "historie": [
+    {
+     "datum": "2026-10-07",
+     "status": "niet"
+    }
+   ],
+   "nieuw_sinds": null,
+   "gecontroleerd": "2026-10-07T17:20:00+00:00"
+  },
+  {
+   "id": "57328903",
+   "titel": "Klara en de zon",
+   "auteur": "Kazuo Ishiguro",
+   "isbn": "9789025470074",
+   "paginas": 352,
+   "jaar": 2021,
+   "toegevoegd": "2022-04-20",
+   "edities": [
+    {
+     "titel": "Klara en de zon",
+     "type": "Boek",
+     "info": "Nederlands | [2021]",
+     "omslag": null,
+     "vertaling_van": null,
+     "exemplaren": [
+      {
+       "vestiging": "Zevenaar",
+       "westervoort": false,
+       "status": "Uitgeleend",
+       "aanwezig": false,
+       "terug": null,
+       "plek": "Romans Literatuur ISHI"
+      }
+     ]
+    }
+   ],
+   "status": "elders_uitgeleend",
+   "historie": [
+    {
+     "datum": "2026-10-07",
+     "status": "elders_uitgeleend"
+    }
+   ],
+   "nieuw_sinds": null,
+   "gecontroleerd": "2026-10-07T17:20:00+00:00"
+  },
+  {
+   "id": "29435715",
+   "titel": "Poubelle",
+   "auteur": "Pieter Waterdrinker",
+   "isbn": "9789038801629",
+   "paginas": 544,
+   "jaar": 2016,
+   "toegevoegd": "2022-03-28",
+   "edities": [
+    {
+     "titel": "Poubelle",
+     "type": "Boek",
+     "info": "Nederlands | 2018",
+     "omslag": null,
+     "vertaling_van": null,
+     "exemplaren": [
+      {
+       "vestiging": "Provinciaal depot",
+       "westervoort": false,
+       "status": "Uitgeleend tot",
+       "aanwezig": false,
+       "terug": "2026-10-21",
+       "plek": "V fictie WATE"
+      }
+     ]
+    }
+   ],
+   "status": "elders_uitgeleend",
+   "historie": [
+    {
+     "datum": "2026-10-07",
+     "status": "elders_uitgeleend"
+    }
+   ],
+   "nieuw_sinds": null,
+   "gecontroleerd": "2026-10-07T17:20:00+00:00"
+  },
+  {
+   "id": "27422401",
+   "titel": "Doorgang",
+   "auteur": "David Mitchell",
+   "isbn": "9789046819906",
+   "paginas": 207,
+   "jaar": 2015,
+   "toegevoegd": "2022-03-10",
+   "edities": [
+    {
+     "titel": "Doorgang",
+     "type": "Boek",
+     "info": "Nederlands | [2015]",
+     "omslag": null,
+     "vertaling_van": null,
+     "exemplaren": [
+      {
+       "vestiging": "Zevenaar",
+       "westervoort": false,
+       "status": "Aanwezig",
+       "aanwezig": true,
+       "terug": null,
+       "plek": "Romans Literatuur MITC"
+      },
+      {
+       "vestiging": "Duiven",
+       "westervoort": false,
+       "status": "Aanwezig",
+       "aanwezig": true,
+       "terug": null,
+       "plek": "Romans Literatuur MITC"
+      },
+      {
+       "vestiging": "Provinciaal depot",
+       "westervoort": false,
+       "status": "Aanwezig",
+       "aanwezig": true,
+       "terug": null,
+       "plek": "V fictie MITC"
+      }
+     ]
+    }
+   ],
+   "status": "elders",
+   "historie": [
+    {
+     "datum": "2026-10-07",
+     "status": "elders"
+    }
+   ],
+   "nieuw_sinds": null,
+   "gecontroleerd": "2026-10-07T17:20:00+00:00"
+  },
+  {
+   "id": "54985743",
+   "titel": "People We Meet on Vacation",
+   "auteur": "Emily Henry",
+   "isbn": "9781984806758",
+   "paginas": 361,
+   "jaar": 2021,
+   "toegevoegd": "2021-12-09",
+   "edities": [
+    {
+     "titel": "People we meet on vacation [Nederlands]",
+     "type": "Boek",
+     "info": "Nederlands | [2023]",
+     "omslag": null,
+     "vertaling_van": null,
+     "exemplaren": [
+      {
+       "vestiging": "Pannerden",
+       "westervoort": false,
+       "status": "Aanwezig",
+       "aanwezig": true,
+       "terug": null,
+       "plek": "Romans Romantisch HENR"
+      }
+     ]
+    }
+   ],
+   "status": "elders",
+   "historie": [
+    {
+     "datum": "2026-10-07",
+     "status": "elders"
+    }
+   ],
+   "nieuw_sinds": null,
+   "gecontroleerd": "2026-10-07T17:20:00+00:00"
+  },
+  {
+   "id": "56597885",
+   "titel": "Beautiful World, Where Are You",
+   "auteur": "Sally Rooney",
+   "isbn": "9780374602604",
+   "paginas": 356,
+   "jaar": 2021,
+   "toegevoegd": "2021-12-09",
+   "edities": [
+    {
+     "titel": "Prachtige wereld, waar ben je",
+     "type": "Boek",
+     "info": "Nederlands | [2021]",
+     "omslag": null,
+     "vertaling_van": "Beautiful world, where are you",
+     "exemplaren": [
+      {
+       "vestiging": "Zevenaar",
+       "westervoort": false,
+       "status": "Aanwezig",
+       "aanwezig": true,
+       "terug": null,
+       "plek": "Romans Literatuur ROON"
+      },
+      {
+       "vestiging": "Duiven",
+       "westervoort": false,
+       "status": "Aanwezig",
+       "aanwezig": true,
+       "terug": null,
+       "plek": "Romans Literatuur ROON"
+      }
+     ]
+    }
+   ],
+   "status": "elders",
+   "historie": [
+    {
+     "datum": "2026-10-07",
+     "status": "elders"
+    }
+   ],
+   "nieuw_sinds": null,
+   "gecontroleerd": "2026-10-07T17:20:00+00:00"
+  },
+  {
+   "id": "58274159",
+   "titel": "Twee weken weg",
+   "auteur": "R.C. Sherriff",
+   "isbn": "9789025471040",
+   "paginas": 351,
+   "jaar": 1931,
+   "toegevoegd": "2021-11-10",
+   "edities": [
+    {
+     "titel": "Twee weken weg",
+     "type": "Boek",
+     "info": "Nederlands | mei 2025",
+     "omslag": null,
+     "vertaling_van": null,
+     "exemplaren": [
+      {
+       "vestiging": "Provinciaal depot",
+       "westervoort": false,
+       "status": "Uitgeleend",
+       "aanwezig": false,
+       "terug": null,
+       "plek": "V fictie SHER"
+      }
+     ]
+    },
+    {
+     "titel": "Twee weken weg",
+     "type": "Grote Letter Boek",
+     "info": "Nederlands | 2022",
+     "omslag": null,
+     "vertaling_van": null,
+     "exemplaren": [
+      {
+       "vestiging": "Provinciaal depot",
+       "westervoort": false,
+       "status": "Uitgeleend",
+       "aanwezig": false,
+       "terug": null,
+       "plek": "V fictie SHER"
+      }
+     ]
+    }
+   ],
+   "status": "elders_uitgeleend",
+   "historie": [
+    {
+     "datum": "2026-10-07",
+     "status": "elders_uitgeleend"
+    }
+   ],
+   "nieuw_sinds": null,
+   "gecontroleerd": "2026-10-07T17:20:00+00:00"
+  },
+  {
+   "id": "36217837",
+   "titel": "De kennismaking (Faxen aan Ger #1)",
+   "auteur": "Nicolien Mizee",
+   "isbn": "9789028270206",
+   "paginas": 393,
+   "jaar": 2017,
+   "toegevoegd": "2021-10-23",
+   "edities": [
+    {
+     "titel": "De kennismaking",
+     "type": "Boek",
+     "info": "Nederlands | september 2019",
+     "omslag": null,
+     "vertaling_van": null,
+     "exemplaren": [
+      {
+       "vestiging": "Duiven",
+       "westervoort": false,
+       "status": "Aanwezig",
+       "aanwezig": true,
+       "terug": null,
+       "plek": "Schrijvers en Boeken MIZEE MIZE"
+      },
+      {
+       "vestiging": "Provinciaal depot",
+       "westervoort": false,
+       "status": "Aanwezig",
+       "aanwezig": true,
+       "terug": null,
+       "plek": "V studie NEDERLANDS 855.6 - MIZEE MIZE"
+      }
+     ]
+    }
+   ],
+   "status": "elders",
+   "historie": [
+    {
+     "datum": "2026-10-07",
+     "status": "elders"
+    }
+   ],
+   "nieuw_sinds": null,
+   "gecontroleerd": "2026-10-07T17:20:00+00:00"
+  },
+  {
+   "id": "59120150",
+   "titel": "Verzamelde werken",
+   "auteur": "Lydia Sandgren",
+   "isbn": "9789492068743",
+   "paginas": 784,
+   "jaar": 2020,
+   "toegevoegd": "2021-10-03",
+   "edities": [
+    {
+     "titel": "Verzamelde werken",
+     "type": "Boek",
+     "info": "Nederlands | 2021",
+     "omslag": null,
+     "vertaling_van": null,
+     "exemplaren": [
+      {
+       "vestiging": "Zevenaar",
+       "westervoort": false,
+       "status": "Aanwezig",
+       "aanwezig": true,
+       "terug": null,
+       "plek": "Romans Literatuur SAND"
+      }
+     ]
+    }
+   ],
+   "status": "elders",
+   "historie": [
+    {
+     "datum": "2026-10-07",
+     "status": "elders"
+    }
+   ],
+   "nieuw_sinds": null,
+   "gecontroleerd": "2026-10-07T17:20:00+00:00"
+  },
+  {
+   "id": "29630960",
+   "titel": "Een klein leven",
+   "auteur": "Hanya Yanagihara",
+   "isbn": "9789046820322",
+   "paginas": 725,
+   "jaar": 2015,
+   "toegevoegd": "2021-10-01",
+   "edities": [
+    {
+     "titel": "Een klein leven",
+     "type": "Boek",
+     "info": "Nederlands | 2023",
+     "omslag": null,
+     "vertaling_van": null,
+     "exemplaren": [
+      {
+       "vestiging": "Westervoort",
+       "westervoort": true,
+       "status": "Aanwezig",
+       "aanwezig": true,
+       "terug": null,
+       "plek": "[VRO] YANA"
+      },
+      {
+       "vestiging": "Zevenaar",
+       "westervoort": false,
+       "status": "Aanwezig",
+       "aanwezig": true,
+       "terug": null,
+       "plek": "Romans Literatuur YANA"
+      },
+      {
+       "vestiging": "Duiven",
+       "westervoort": false,
+       "status": "Aanwezig",
+       "aanwezig": true,
+       "terug": null,
+       "plek": "Romans Literatuur YANA"
+      },
+      {
+       "vestiging": "Provinciaal depot",
+       "westervoort": false,
+       "status": "Uitgeleend tot",
+       "aanwezig": false,
+       "terug": "2026-10-21",
+       "plek": "V fictie YANA"
+      }
+     ]
+    },
+    {
+     "titel": "Een klein leven",
+     "type": "Dwarsligger",
+     "info": "Nederlands | juni 2017",
+     "omslag": null,
+     "vertaling_van": null,
+     "exemplaren": [
+      {
+       "vestiging": "Duiven",
+       "westervoort": false,
+       "status": "Aanwezig",
+       "aanwezig": true,
+       "terug": null,
+       "plek": "[089] YANA"
+      },
+      {
+       "vestiging": "Zevenaar",
+       "westervoort": false,
+       "status": "Uitgeleend tot",
+       "aanwezig": false,
+       "terug": "2026-10-30",
+       "plek": "Romans Literatuur YANA"
+      }
+     ]
+    }
+   ],
+   "status": "westervoort",
+   "historie": [
+    {
+     "datum": "2026-10-07",
+     "status": "westervoort"
+    }
+   ],
+   "nieuw_sinds": null,
+   "gecontroleerd": "2026-10-07T17:20:00+00:00"
+  },
+  {
+   "id": "41456850",
+   "titel": "Grand Hotel Europa",
+   "auteur": "Ilja Leonard Pfeijffer",
+   "isbn": "9789029526227",
+   "paginas": 547,
+   "jaar": 2018,
+   "toegevoegd": "2021-09-08",
+   "edities": [
+    {
+     "titel": "Grand Hotel Europa",
+     "type": "Boek",
+     "info": "Nederlands | [2018]",
+     "omslag": null,
+     "vertaling_van": null,
+     "exemplaren": [
+      {
+       "vestiging": "Westervoort",
+       "westervoort": true,
+       "status": "Aanwezig",
+       "aanwezig": true,
+       "terug": null,
+       "plek": "[VRO] PFEI"
+      },
+      {
+       "vestiging": "Duiven",
+       "westervoort": false,
+       "status": "Aanwezig",
+       "aanwezig": true,
+       "terug": null,
+       "plek": "Romans Literatuur PFEI"
+      },
+      {
+       "vestiging": "Lobith",
+       "westervoort": false,
+       "status": "Aanwezig",
+       "aanwezig": true,
+       "terug": null,
+       "plek": "[VRO] PFEI"
+      },
+      {
+       "vestiging": "Zevenaar",
+       "westervoort": false,
+       "status": "Uitgeleend tot",
+       "aanwezig": false,
+       "terug": "2026-11-28",
+       "plek": "Romans Literatuur PFEI"
+      },
+      {
+       "vestiging": "Provinciaal depot",
+       "westervoort": false,
+       "status": "Uitgeleend tot",
+       "aanwezig": false,
+       "terug": "2026-10-15",
+       "plek": "V fictie PFEIJ"
+      }
+     ]
+    }
+   ],
+   "status": "westervoort",
+   "historie": [
+    {
+     "datum": "2026-10-07",
+     "status": "westervoort"
+    }
+   ],
+   "nieuw_sinds": null,
+   "gecontroleerd": "2026-10-07T17:20:00+00:00"
+  },
+  {
+   "id": "55042186",
+   "titel": "De vrouw en de weduwe",
+   "auteur": "Christian White",
+   "isbn": "9789044979350",
+   "paginas": 320,
+   "jaar": 2019,
+   "toegevoegd": "2021-08-22",
+   "edities": [
+    {
+     "titel": "De vrouw en de weduwe",
+     "type": "Boek",
+     "info": "Nederlands | [2020]",
+     "omslag": null,
+     "vertaling_van": null,
+     "exemplaren": [
+      {
+       "vestiging": "Zevenaar",
+       "westervoort": false,
+       "status": "Aanwezig",
+       "aanwezig": true,
+       "terug": null,
+       "plek": "Romans Spannend WHIT"
+      }
+     ]
+    }
+   ],
+   "status": "elders",
+   "historie": [
+    {
+     "datum": "2026-10-07",
+     "status": "elders"
+    }
+   ],
+   "nieuw_sinds": null,
+   "gecontroleerd": "2026-10-07T17:20:00+00:00"
+  },
+  {
+   "id": "54441362",
+   "titel": "Geworteld in het kwaad",
+   "auteur": "Karen Dionne",
+   "isbn": "9789049808334",
+   "paginas": 504,
+   "jaar": 2020,
+   "toegevoegd": "2021-08-22",
+   "edities": [
+    {
+     "titel": "Geworteld in het kwaad",
+     "type": "Boek",
+     "info": "Nederlands | september 2020",
+     "omslag": null,
+     "vertaling_van": null,
+     "exemplaren": [
+      {
+       "vestiging": "Westervoort",
+       "westervoort": true,
+       "status": "Aanwezig",
+       "aanwezig": true,
+       "terug": null,
+       "plek": "[VRO] DION"
+      },
+      {
+       "vestiging": "Duiven",
+       "westervoort": false,
+       "status": "Aanwezig",
+       "aanwezig": true,
+       "terug": null,
+       "plek": "Romans Spannend DION"
+      }
+     ]
+    }
+   ],
+   "status": "westervoort",
+   "historie": [
+    {
+     "datum": "2026-10-07",
+     "status": "westervoort"
+    }
+   ],
+   "nieuw_sinds": null,
+   "gecontroleerd": "2026-10-07T17:20:00+00:00"
+  },
+  {
+   "id": "55202144",
+   "titel": "Ruimte",
+   "auteur": "Walter van den Berg",
+   "isbn": "9789048853335",
+   "paginas": 267,
+   "jaar": 2020,
+   "toegevoegd": "2021-08-22",
+   "edities": [
+    {
+     "titel": "Ruimte",
+     "type": "Boek",
+     "info": "Nederlands | 2020",
+     "omslag": null,
+     "vertaling_van": null,
+     "exemplaren": [
+      {
+       "vestiging": "Duiven",
+       "westervoort": false,
+       "status": "Aanwezig",
+       "aanwezig": true,
+       "terug": null,
+       "plek": "[089] BERG"
+      }
+     ]
+    }
+   ],
+   "status": "elders",
+   "historie": [
+    {
+     "datum": "2026-10-07",
+     "status": "elders"
+    }
+   ],
+   "nieuw_sinds": null,
+   "gecontroleerd": "2026-10-07T17:20:00+00:00"
+  },
+  {
+   "id": "60318890",
+   "titel": "The Winners (Beartown, #3)",
+   "auteur": "Fredrik Backman",
+   "isbn": "",
+   "paginas": 671,
+   "jaar": 2021,
+   "toegevoegd": "2021-05-10",
+   "edities": [],
+   "status": "niet",
+   "historie": [
+    {
+     "datum": "2026-10-07",
+     "status": "niet"
+    }
+   ],
+   "nieuw_sinds": null,
+   "gecontroleerd": "2026-10-07T17:20:00+00:00"
+  },
+  {
+   "id": "41136614",
+   "titel": "Doet sneeuw pijn",
+   "auteur": "Carolien Spaans",
+   "isbn": "9789048844197",
+   "paginas": 202,
+   "jaar": 2018,
+   "toegevoegd": "2021-04-28",
+   "edities": [],
+   "status": "niet",
+   "historie": [
+    {
+     "datum": "2026-10-07",
+     "status": "niet"
+    }
+   ],
+   "nieuw_sinds": null,
+   "gecontroleerd": "2026-10-07T17:20:00+00:00"
+  },
+  {
+   "id": "13413970",
+   "titel": "Op weg",
+   "auteur": "Jack Kerouac",
+   "isbn": "",
+   "paginas": 291,
+   "jaar": 1957,
+   "toegevoegd": "2021-04-28",
+   "edities": [
+    {
+     "titel": "Op weg",
+     "type": "Boek",
+     "info": "Nederlands | 1978",
+     "omslag": null,
+     "vertaling_van": null,
+     "exemplaren": [
+      {
+       "vestiging": "Provinciaal depot",
+       "westervoort": false,
+       "status": "Aanwezig",
+       "aanwezig": true,
+       "terug": null,
+       "plek": "V fictie KERO"
+      }
+     ]
+    }
+   ],
+   "status": "elders",
+   "historie": [
+    {
+     "datum": "2026-10-07",
+     "status": "elders"
+    }
+   ],
+   "nieuw_sinds": null,
+   "gecontroleerd": "2026-10-07T17:20:00+00:00"
+  },
+  {
+   "id": "23690388",
+   "titel": "Hard-boiled wonderland en het einde van de wereld",
+   "auteur": "Haruki Murakami",
+   "isbn": "9789025443023",
+   "paginas": 400,
+   "jaar": 1985,
+   "toegevoegd": "2021-03-18",
+   "edities": [
+    {
+     "titel": "Hard-boiled wonderland en het einde van de wereld",
+     "type": "Boek",
+     "info": "Nederlands | juli 2017",
+     "omslag": null,
+     "vertaling_van": null,
+     "exemplaren": [
+      {
+       "vestiging": "Provinciaal depot",
+       "westervoort": false,
+       "status": "Uitgeleend tot",
+       "aanwezig": false,
+       "terug": "2026-09-26",
+       "plek": "V fictie MURA"
+      }
+     ]
+    }
+   ],
+   "status": "elders_uitgeleend",
+   "historie": [
+    {
+     "datum": "2026-10-07",
+     "status": "elders_uitgeleend"
+    }
+   ],
+   "nieuw_sinds": null,
+   "gecontroleerd": "2026-10-07T17:20:00+00:00"
+  },
+  {
+   "id": "21413662",
+   "titel": "What If?: Serious Scientific Answers to Absurd Hypothetical Questions",
+   "auteur": "Randall Munroe",
+   "isbn": "9780544272996",
+   "paginas": 303,
+   "jaar": 2014,
+   "toegevoegd": "2021-03-15",
+   "edities": [],
+   "status": "niet",
+   "historie": [
+    {
+     "datum": "2026-10-07",
+     "status": "niet"
+    }
+   ],
+   "nieuw_sinds": null,
+   "gecontroleerd": "2026-10-07T17:20:00+00:00"
+  },
+  {
+   "id": "33380938",
+   "titel": "Een jongen met de naam Kerstmis",
+   "auteur": "Matt Haig",
+   "isbn": "9789048832712",
+   "paginas": 256,
+   "jaar": 2015,
+   "toegevoegd": "2021-03-15",
+   "edities": [
+    {
+     "titel": "Een jongen met de naam Kerstmis",
+     "type": "Boek",
+     "info": "Nederlands | 2021",
+     "omslag": null,
+     "vertaling_van": null,
+     "exemplaren": [
+      {
+       "vestiging": "Provinciaal depot",
+       "westervoort": false,
+       "status": "Aanwezig",
+       "aanwezig": true,
+       "terug": null,
+       "plek": "J fictie HAIG"
+      }
+     ]
+    }
+   ],
+   "status": "elders",
+   "historie": [
+    {
+     "datum": "2026-10-07",
+     "status": "elders"
+    }
+   ],
+   "nieuw_sinds": null,
+   "gecontroleerd": "2026-10-07T17:20:00+00:00"
+  },
+  {
+   "id": "49127718",
+   "titel": "Anxious People",
+   "auteur": "Fredrik Backman",
+   "isbn": "9781982169633",
+   "paginas": 336,
+   "jaar": 2019,
+   "toegevoegd": "2021-03-15",
+   "edities": [],
+   "status": "niet",
+   "historie": [
+    {
+     "datum": "2026-10-07",
+     "status": "niet"
+    }
+   ],
+   "nieuw_sinds": null,
+   "gecontroleerd": "2026-10-07T17:20:00+00:00"
+  },
+  {
+   "id": "56028895",
+   "titel": "Ik ben er niet",
+   "auteur": "Lize Spit",
+   "isbn": "9789493168718",
+   "paginas": 576,
+   "jaar": 2020,
+   "toegevoegd": "2021-03-15",
+   "edities": [
+    {
+     "titel": "Ik ben er niet",
+     "type": "Boek",
+     "info": "Nederlands | december 2020",
+     "omslag": null,
+     "vertaling_van": null,
+     "exemplaren": [
+      {
+       "vestiging": "Duiven",
+       "westervoort": false,
+       "status": "Aanwezig",
+       "aanwezig": true,
+       "terug": null,
+       "plek": "Romans Literatuur SPIT"
+      }
+     ]
+    }
+   ],
+   "status": "elders",
+   "historie": [
+    {
+     "datum": "2026-10-07",
+     "status": "elders"
+    }
+   ],
+   "nieuw_sinds": null,
+   "gecontroleerd": "2026-10-07T17:20:00+00:00"
+  },
+  {
+   "id": "51653194",
+   "titel": "Confettiregen",
+   "auteur": "Splinter Chabot",
+   "isbn": "9789000370634",
+   "paginas": 344,
+   "jaar": 2020,
+   "toegevoegd": "2021-03-15",
+   "edities": [
+    {
+     "titel": "Confettiregen",
+     "type": "Boek",
+     "info": "Nederlands | 2020",
+     "omslag": null,
+     "vertaling_van": null,
+     "exemplaren": [
+      {
+       "vestiging": "Zevenaar",
+       "westervoort": false,
+       "status": "Aanwezig",
+       "aanwezig": true,
+       "terug": null,
+       "plek": "Romans Literatuur ZELFVERWERKELIJKING CHAB"
+      },
+      {
+       "vestiging": "Duiven",
+       "westervoort": false,
+       "status": "Aanwezig",
+       "aanwezig": true,
+       "terug": null,
+       "plek": "Romans Literatuur ZELFVERWERKELIJKING CHAB"
+      }
+     ]
+    }
+   ],
+   "status": "elders",
+   "historie": [
+    {
+     "datum": "2026-10-07",
+     "status": "elders"
+    }
+   ],
+   "nieuw_sinds": null,
+   "gecontroleerd": "2026-10-07T17:20:00+00:00"
+  },
+  {
+   "id": "43625681",
+   "titel": "Façade",
+   "auteur": "Esther Verhoef",
+   "isbn": "9789044641196",
+   "paginas": 368,
+   "jaar": 2019,
+   "toegevoegd": "2021-03-15",
+   "edities": [
+    {
+     "titel": "Façade",
+     "type": "Boek",
+     "info": "Nederlands | 2019",
+     "omslag": null,
+     "vertaling_van": null,
+     "exemplaren": [
+      {
+       "vestiging": "Westervoort",
+       "westervoort": true,
+       "status": "Aanwezig",
+       "aanwezig": true,
+       "terug": null,
+       "plek": "[VRO] VERH"
+      },
+      {
+       "vestiging": "Duiven",
+       "westervoort": false,
+       "status": "Aanwezig",
+       "aanwezig": true,
+       "terug": null,
+       "plek": "Romans Spannend VERH"
+      },
+      {
+       "vestiging": "Giesbeek",
+       "westervoort": false,
+       "status": "Aanwezig",
+       "aanwezig": true,
+       "terug": null,
+       "plek": "[VRO] VERH"
+      },
+      {
+       "vestiging": "Lobith",
+       "westervoort": false,
+       "status": "Aanwezig",
+       "aanwezig": true,
+       "terug": null,
+       "plek": "Romans Spannend VERH"
+      },
+      {
+       "vestiging": "Pannerden",
+       "westervoort": false,
+       "status": "Aanwezig",
+       "aanwezig": true,
+       "terug": null,
+       "plek": "[VRO] VERH"
+      },
+      {
+       "vestiging": "Zevenaar",
+       "westervoort": false,
+       "status": "Uitgeleend tot",
+       "aanwezig": false,
+       "terug": "2026-11-02",
+       "plek": "Romans Spannend VERH"
+      }
+     ]
+    }
+   ],
+   "status": "westervoort",
+   "historie": [
+    {
+     "datum": "2026-10-07",
+     "status": "westervoort"
+    }
+   ],
+   "nieuw_sinds": null,
+   "gecontroleerd": "2026-10-07T17:20:00+00:00"
+  },
+  {
+   "id": "30194212",
+   "titel": "Ufo's bestaan gewoon (Dutch Edition)",
+   "auteur": "Coen Vermeeren",
+   "isbn": "9789020209808",
+   "paginas": 358,
+   "jaar": 2013,
+   "toegevoegd": "2021-03-15",
+   "edities": [
+    {
+     "titel": "Ufo's bestaan gewoon",
+     "type": "Boek",
+     "info": "Nederlands | cop. 2013",
+     "omslag": null,
+     "vertaling_van": null,
+     "exemplaren": [
+      {
+       "vestiging": "Provinciaal depot",
+       "westervoort": false,
+       "status": "Uitgeleend tot",
+       "aanwezig": false,
+       "terug": "2026-09-28",
+       "plek": "V studie 552.9 VERM"
+      }
+     ]
+    }
+   ],
+   "status": "elders_uitgeleend",
+   "historie": [
+    {
+     "datum": "2026-10-07",
+     "status": "elders_uitgeleend"
+    }
+   ],
+   "nieuw_sinds": null,
+   "gecontroleerd": "2026-10-07T17:20:00+00:00"
+  }
+ ]
+}

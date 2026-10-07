@@ -1,0 +1,33 @@
+name: Vernieuw beschikbaarheid
+
+on:
+  schedule:
+    - cron: "15 3 * * *"   # elke nacht, ca. 05:15 Nederlandse tijd
+  workflow_dispatch:       # handmatig, of via de knop op de site
+
+permissions:
+  contents: write
+
+concurrency:
+  group: vernieuw
+  cancel-in-progress: false
+
+jobs:
+  vernieuw:
+    runs-on: ubuntu-latest
+    timeout-minutes: 45
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Bibliotheek doorzoeken
+        run: python3 scripts/update.py beschikbaarheid
+      - name: Resultaat opslaan
+        run: |
+          git config user.name "leeslijst-bot"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add docs/data
+          git diff --cached --quiet && exit 0
+          git commit -m "Beschikbaarheid bijgewerkt"
+          git push
