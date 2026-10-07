@@ -90,6 +90,8 @@ def edities(records):
 def controleer(cat, boek, vandaag):
     records = zoek_boek(cat, {"titel": boek["titel"], "auteur": boek["auteur"],
                               "isbn": boek["isbn"], "goodreads_id": boek["id"]})
+    # handmatig uitgesloten catalogusrecords (verkeerde treffers)
+    records = [r for r in records if r["id"] not in boek.get("uitgesloten", [])]
     nieuw = samenvatting(records)
     oud = boek.get("status")
     boek["edities"] = edities(records)

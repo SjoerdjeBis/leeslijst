@@ -36,24 +36,6 @@
        "plek": "V fictie THOM"
       }
      ]
-    },
-    {
-     "id": "2.1489618",
-     "titel": "Schaduwkind suite",
-     "type": "Luisterboek",
-     "info": "Nederlands | [2014]",
-     "omslag": "https://www.sambis.nl/iguana/KB.AZB.cls?ppn=377501565&ExternalProfile=InforAll!!!###!!!MATTYPE=VLUI!!!###!!!PUBTYPE=1",
-     "vertaling_van": null,
-     "exemplaren": [
-      {
-       "vestiging": "Provinciaal depot",
-       "westervoort": false,
-       "status": "Aanwezig",
-       "aanwezig": true,
-       "terug": null,
-       "plek": "V fictie THOM"
-      }
-     ]
     }
    ],
    "gecontroleerd": "2026-10-07T18:32:15+00:00",
@@ -63,7 +45,10 @@
      "status": "elders"
     }
    ],
-   "status": "elders"
+   "status": "elders",
+   "uitgesloten": [
+    "2.1489618"
+   ]
   },
   {
    "id": "36892458",
