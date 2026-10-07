@@ -1,7 +1,115 @@
 {
- "bijgewerkt": "2026-10-07T18:31:37+00:00",
- "export": "2026-09-30",
+ "bijgewerkt": "2026-10-07T18:32:16+00:00",
+ "export": "2026-10-07",
  "boeken": [
+  {
+   "id": "1761223",
+   "titel": "Schaduwkind",
+   "auteur": "P.F. Thomése",
+   "isbn": "9789025417284",
+   "paginas": 109,
+   "jaar": 2003,
+   "toegevoegd": "2026-10-07",
+   "edities": [
+    {
+     "id": "2.659345",
+     "titel": "Schaduwkind",
+     "type": "Luisterboek",
+     "info": "Nederlands | cop. 1990, 2005",
+     "omslag": "https://www.sambis.nl/iguana/KB.AZB.cls?ppn=290255031&ExternalProfile=InforAll!!!###!!!MATTYPE=VLUI!!!###!!!PUBTYPE=1",
+     "vertaling_van": null,
+     "exemplaren": [
+      {
+       "vestiging": "Provinciaal depot",
+       "westervoort": false,
+       "status": "Aanwezig",
+       "aanwezig": true,
+       "terug": null,
+       "plek": "V fictie THOM"
+      },
+      {
+       "vestiging": "Provinciaal depot",
+       "westervoort": false,
+       "status": "Aanwezig",
+       "aanwezig": true,
+       "terug": null,
+       "plek": "V fictie THOM"
+      }
+     ]
+    },
+    {
+     "id": "2.1489618",
+     "titel": "Schaduwkind suite",
+     "type": "Luisterboek",
+     "info": "Nederlands | [2014]",
+     "omslag": "https://www.sambis.nl/iguana/KB.AZB.cls?ppn=377501565&ExternalProfile=InforAll!!!###!!!MATTYPE=VLUI!!!###!!!PUBTYPE=1",
+     "vertaling_van": null,
+     "exemplaren": [
+      {
+       "vestiging": "Provinciaal depot",
+       "westervoort": false,
+       "status": "Aanwezig",
+       "aanwezig": true,
+       "terug": null,
+       "plek": "V fictie THOM"
+      }
+     ]
+    }
+   ],
+   "gecontroleerd": "2026-10-07T18:32:15+00:00",
+   "historie": [
+    {
+     "datum": "2026-10-07",
+     "status": "elders"
+    }
+   ],
+   "status": "elders"
+  },
+  {
+   "id": "36892458",
+   "titel": "jl.",
+   "auteur": "Anjet Daanje",
+   "isbn": "9789054523284",
+   "paginas": 365,
+   "jaar": 2016,
+   "toegevoegd": "2026-10-07",
+   "edities": [
+    {
+     "id": "2.1609188",
+     "titel": "jl.",
+     "type": "Boek",
+     "info": "Nederlands | 2016",
+     "omslag": "https://www.sambis.nl/iguana/KB.AZB.cls?ppn=407388117&ExternalProfile=InforAll!!!###!!!MATTYPE=BKVF!!!###!!!PUBTYPE=1",
+     "vertaling_van": null,
+     "exemplaren": [
+      {
+       "vestiging": "Zevenaar",
+       "westervoort": false,
+       "status": "Uitgeleend tot",
+       "aanwezig": false,
+       "terug": "2026-10-21",
+       "plek": "Romans Literatuur DAAN"
+      },
+      {
+       "vestiging": "Provinciaal depot",
+       "westervoort": false,
+       "status": "Uitgeleend tot",
+       "aanwezig": false,
+       "terug": "2026-11-20",
+       "plek": "V fictie DAAN"
+      }
+     ]
+    }
+   ],
+   "gecontroleerd": "2026-10-07T18:32:16+00:00",
+   "historie": [
+    {
+     "datum": "2026-10-07",
+     "status": "elders_uitgeleend"
+    }
+   ],
+   "status": "elders_uitgeleend"
+  },
   {
    "id": "240641578",
    "titel": "The Nord Stream Conspiracy: The Inside Story of the Explosions That Shook the World",
@@ -1250,7 +1358,7 @@
    "titel": "Schuilhuisje",
    "auteur": "Lena Kurzen",
    "isbn": "9789038813325",
-   "paginas": 208,
+   "paginas": 207,
    "jaar": 2024,
    "toegevoegd": "2025-02-15",
    "edities": [
@@ -2897,44 +3005,6 @@
    "gecontroleerd": "2026-10-07T18:29:59+00:00"
   },
   {
-   "id": "29435715",
-   "titel": "Poubelle",
-   "auteur": "Pieter Waterdrinker",
-   "isbn": "9789038801629",
-   "paginas": 544,
-   "jaar": 2016,
-   "toegevoegd": "2022-03-28",
-   "edities": [
-    {
-     "id": "2.1916757",
-     "titel": "Poubelle",
-     "type": "Boek",
-     "info": "Nederlands | 2018",
-     "omslag": "https://www.sambis.nl/iguana/KB.AZB.cls?ppn=418840741&ExternalProfile=InforAll!!!###!!!MATTYPE=BKVF!!!###!!!PUBTYPE=1",
-     "vertaling_van": null,
-     "exemplaren": [
-      {
-       "vestiging": "Provinciaal depot",
-       "westervoort": false,
-       "status": "Uitgeleend tot",
-       "aanwezig": false,
-       "terug": "2026-10-21",
-       "plek": "V fictie WATE"
-      }
-     ]
-    }
-   ],
-   "status": "elders_uitgeleend",
-   "historie": [
-    {
-     "datum": "2026-10-07",
-     "status": "elders_uitgeleend"
-    }
-   ],
-   "nieuw_sinds": null,
-   "gecontroleerd": "2026-10-07T18:30:01+00:00"
-  },
-  {
    "id": "27422401",
    "titel": "Doorgang",
    "auteur": "David Mitchell",
@@ -3493,25 +3563,6 @@
    "gecontroleerd": "2026-10-07T18:30:16+00:00"
   },
   {
-   "id": "60318890",
-   "titel": "The Winners (Beartown, #3)",
-   "auteur": "Fredrik Backman",
-   "isbn": "",
-   "paginas": 671,
-   "jaar": 2021,
-   "toegevoegd": "2021-05-10",
-   "edities": [],
-   "status": "niet",
-   "historie": [
-    {
-     "datum": "2026-10-07",
-     "status": "niet"
-    }
-   ],
-   "nieuw_sinds": null,
-   "gecontroleerd": "2026-10-07T18:30:31+00:00"
-  },
-  {
    "id": "41136614",
    "titel": "Doet sneeuw pijn",
    "auteur": "Carolien Spaans",
@@ -3706,52 +3757,6 @@
        "aanwezig": true,
        "terug": null,
        "plek": "Romans Literatuur SPIT"
-      }
-     ]
-    }
-   ],
-   "status": "elders",
-   "historie": [
-    {
-     "datum": "2026-10-07",
-     "status": "elders"
-    }
-   ],
-   "nieuw_sinds": null,
-   "gecontroleerd": "2026-10-07T18:31:34+00:00"
-  },
-  {
-   "id": "51653194",
-   "titel": "Confettiregen",
-   "auteur": "Splinter Chabot",
-   "isbn": "9789000370634",
-   "paginas": 344,
-   "jaar": 2020,
-   "toegevoegd": "2021-03-15",
-   "edities": [
-    {
-     "id": "2.1981665",
-     "titel": "Confettiregen",
-     "type": "Boek",
-     "info": "Nederlands | 2020",
-     "omslag": "https://www.sambis.nl/iguana/KB.AZB.cls?ppn=424510758&ExternalProfile=InforAll!!!###!!!MATTYPE=BKVF!!!###!!!PUBTYPE=1",
-     "vertaling_van": null,
-     "exemplaren": [
-      {
-       "vestiging": "Zevenaar",
-       "westervoort": false,
-       "status": "Aanwezig",
-       "aanwezig": true,
-       "terug": null,
-       "plek": "Romans Literatuur ZELFVERWERKELIJKING CHAB"
-      },
-      {
-       "vestiging": "Duiven",
-       "westervoort": false,
-       "status": "Aanwezig",
-       "aanwezig": true,
-       "terug": null,
-       "plek": "Romans Literatuur ZELFVERWERKELIJKING CHAB"
       }
      ]
     }
