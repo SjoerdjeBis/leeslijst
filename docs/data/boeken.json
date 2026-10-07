@@ -1,5 +1,5 @@
 {
- "bijgewerkt": "2026-10-07T18:04:03+00:00",
+ "bijgewerkt": "2026-10-07T18:31:37+00:00",
  "export": "2026-09-30",
  "boeken": [
   {
@@ -19,7 +19,7 @@
     }
    ],
    "nieuw_sinds": null,
-   "gecontroleerd": "2026-10-07T17:50:08+00:00"
+   "gecontroleerd": "2026-10-07T18:18:40+00:00"
   },
   {
    "id": "18194507",
@@ -31,6 +31,7 @@
    "toegevoegd": "2026-07-12",
    "edities": [
     {
+     "id": "2.2245454",
      "titel": "Veelvuldig en alleen",
      "type": "Boek",
      "info": "Nederlands | juni 2023",
@@ -56,7 +57,7 @@
     }
    ],
    "nieuw_sinds": null,
-   "gecontroleerd": "2026-10-07T17:50:10+00:00"
+   "gecontroleerd": "2026-10-07T18:18:42+00:00"
   },
   {
    "id": "244991366",
@@ -68,6 +69,7 @@
    "toegevoegd": "2026-07-03",
    "edities": [
     {
+     "id": "2.2573156",
      "titel": "Corpus Britney",
      "type": "Boek",
      "info": "Nederlands | [2026]",
@@ -93,7 +95,7 @@
     }
    ],
    "nieuw_sinds": null,
-   "gecontroleerd": "2026-10-07T17:50:11+00:00"
+   "gecontroleerd": "2026-10-07T18:18:43+00:00"
   },
   {
    "id": "213870083",
@@ -112,7 +114,7 @@
     }
    ],
    "nieuw_sinds": null,
-   "gecontroleerd": "2026-10-07T17:50:24+00:00"
+   "gecontroleerd": "2026-10-07T18:18:57+00:00"
   },
   {
    "id": "247970449",
@@ -131,7 +133,7 @@
     }
    ],
    "nieuw_sinds": null,
-   "gecontroleerd": "2026-10-07T17:50:58+00:00"
+   "gecontroleerd": "2026-10-07T18:19:28+00:00"
   },
   {
    "id": "54870256",
@@ -150,7 +152,7 @@
     }
    ],
    "nieuw_sinds": null,
-   "gecontroleerd": "2026-10-07T17:51:04+00:00"
+   "gecontroleerd": "2026-10-07T18:19:34+00:00"
   },
   {
    "id": "252544111",
@@ -169,7 +171,7 @@
     }
    ],
    "nieuw_sinds": null,
-   "gecontroleerd": "2026-10-07T17:51:24+00:00"
+   "gecontroleerd": "2026-10-07T18:19:53+00:00"
   },
   {
    "id": "246655250",
@@ -188,7 +190,7 @@
     }
    ],
    "nieuw_sinds": null,
-   "gecontroleerd": "2026-10-07T17:51:40+00:00"
+   "gecontroleerd": "2026-10-07T18:20:07+00:00"
   },
   {
    "id": "251286424",
@@ -200,6 +202,7 @@
    "toegevoegd": "2026-06-04",
    "edities": [
     {
+     "id": "2.2578114",
      "titel": "Biografie van X",
      "type": "Boek",
      "info": "Nederlands | [2026]",
@@ -225,7 +228,7 @@
     }
    ],
    "nieuw_sinds": null,
-   "gecontroleerd": "2026-10-07T17:51:42+00:00"
+   "gecontroleerd": "2026-10-07T18:20:09+00:00"
   },
   {
    "id": "251437359",
@@ -237,6 +240,7 @@
    "toegevoegd": "2026-04-28",
    "edities": [
     {
+     "id": "2.2573009",
      "titel": "Wij vinden dat fijn",
      "type": "Boek",
      "info": "Nederlands | 2026",
@@ -270,7 +274,7 @@
     }
    ],
    "nieuw_sinds": null,
-   "gecontroleerd": "2026-10-07T17:51:43+00:00"
+   "gecontroleerd": "2026-10-07T18:20:10+00:00"
   },
   {
    "id": "248237688",
@@ -282,6 +286,7 @@
    "toegevoegd": "2026-03-30",
    "edities": [
     {
+     "id": "2.2566763",
      "titel": "De Reichenbachs",
      "type": "Boek",
      "info": "Nederlands | 2026",
@@ -307,7 +312,7 @@
     }
    ],
    "nieuw_sinds": null,
-   "gecontroleerd": "2026-10-07T17:51:45+00:00"
+   "gecontroleerd": "2026-10-07T18:20:12+00:00"
   },
   {
    "id": "231183649",
@@ -326,7 +331,7 @@
     }
    ],
    "nieuw_sinds": null,
-   "gecontroleerd": "2026-10-07T17:52:08+00:00"
+   "gecontroleerd": "2026-10-07T18:20:34+00:00"
   },
   {
    "id": "9744267",
@@ -338,6 +343,7 @@
    "toegevoegd": "2026-03-06",
    "edities": [
     {
+     "id": "2.1543101",
      "titel": "Affiniteit",
      "type": "Boek",
      "info": "Nederlands | 2015",
@@ -363,7 +369,7 @@
     }
    ],
    "nieuw_sinds": null,
-   "gecontroleerd": "2026-10-07T17:52:09+00:00"
+   "gecontroleerd": "2026-10-07T18:20:36+00:00"
   },
   {
    "id": "248312672",
@@ -375,6 +381,7 @@
    "toegevoegd": "2026-02-27",
    "edities": [
     {
+     "id": "2.2570527",
      "titel": "Een woord voor",
      "type": "Boek",
      "info": "Nederlands | [2026]",
@@ -400,7 +407,7 @@
     }
    ],
    "nieuw_sinds": null,
-   "gecontroleerd": "2026-10-07T17:52:10+00:00"
+   "gecontroleerd": "2026-10-07T18:20:37+00:00"
   },
   {
    "id": "236762685",
@@ -412,6 +419,7 @@
    "toegevoegd": "2026-01-08",
    "edities": [
     {
+     "id": "2.2536273",
      "titel": "Het gore lef",
      "type": "Boek",
      "info": "Nederlands | augustus 2025",
@@ -445,7 +453,7 @@
     }
    ],
    "nieuw_sinds": null,
-   "gecontroleerd": "2026-10-07T17:52:12+00:00"
+   "gecontroleerd": "2026-10-07T18:20:40+00:00"
   },
   {
    "id": "12338137",
@@ -457,6 +465,7 @@
    "toegevoegd": "2025-11-18",
    "edities": [
     {
+     "id": "2.1944510",
      "titel": "De tranen van Kuif den Dolder",
      "type": "Boek",
      "info": "Nederlands | september 2014",
@@ -474,6 +483,7 @@
      ]
     },
     {
+     "id": "2.2015620",
      "titel": "De tranen van Kuif den Dolder",
      "type": "Boek",
      "info": "Nederlands | 2017",
@@ -499,7 +509,7 @@
     }
    ],
    "nieuw_sinds": null,
-   "gecontroleerd": "2026-10-07T17:52:14+00:00"
+   "gecontroleerd": "2026-10-07T18:20:42+00:00"
   },
   {
    "id": "236863665",
@@ -518,7 +528,7 @@
     }
    ],
    "nieuw_sinds": null,
-   "gecontroleerd": "2026-10-07T17:52:53+00:00"
+   "gecontroleerd": "2026-10-07T18:21:20+00:00"
   },
   {
    "id": "61675059",
@@ -530,6 +540,7 @@
    "toegevoegd": "2025-10-30",
    "edities": [
     {
+     "id": "2.2259137",
      "titel": "V13",
      "type": "Boek",
      "info": "Nederlands | [2023]",
@@ -555,7 +566,7 @@
     }
    ],
    "nieuw_sinds": null,
-   "gecontroleerd": "2026-10-07T17:52:55+00:00"
+   "gecontroleerd": "2026-10-07T18:21:22+00:00"
   },
   {
    "id": "238214677",
@@ -574,7 +585,7 @@
     }
    ],
    "nieuw_sinds": null,
-   "gecontroleerd": "2026-10-07T17:53:16+00:00"
+   "gecontroleerd": "2026-10-07T18:21:43+00:00"
   },
   {
    "id": "229071922",
@@ -593,7 +604,7 @@
     }
    ],
    "nieuw_sinds": null,
-   "gecontroleerd": "2026-10-07T17:53:45+00:00"
+   "gecontroleerd": "2026-10-07T18:22:09+00:00"
   },
   {
    "id": "59947696",
@@ -605,6 +616,7 @@
    "toegevoegd": "2025-08-21",
    "edities": [
     {
+     "id": "2.2205795",
      "titel": "Verkeerde plaats, verkeerde moment",
      "type": "Boek",
      "info": "Nederlands | 2022",
@@ -630,7 +642,7 @@
     }
    ],
    "nieuw_sinds": null,
-   "gecontroleerd": "2026-10-07T17:53:48+00:00"
+   "gecontroleerd": "2026-10-07T18:22:12+00:00"
   },
   {
    "id": "231862231",
@@ -642,6 +654,7 @@
    "toegevoegd": "2025-08-13",
    "edities": [
     {
+     "id": "2.2318661",
      "titel": "Verkeerd verbonden",
      "type": "Boek",
      "info": "Nederlands | mei 2025",
@@ -675,7 +688,7 @@
     }
    ],
    "nieuw_sinds": null,
-   "gecontroleerd": "2026-10-07T17:53:49+00:00"
+   "gecontroleerd": "2026-10-07T18:22:13+00:00"
   },
   {
    "id": "222077951",
@@ -687,6 +700,7 @@
    "toegevoegd": "2025-07-20",
    "edities": [
     {
+     "id": "2.2304865",
      "titel": "De laatste dag van de veerman",
      "type": "Boek",
      "info": "Nederlands | [2024]",
@@ -712,7 +726,7 @@
     }
    ],
    "nieuw_sinds": null,
-   "gecontroleerd": "2026-10-07T17:53:50+00:00"
+   "gecontroleerd": "2026-10-07T18:22:14+00:00"
   },
   {
    "id": "214906792",
@@ -724,6 +738,7 @@
    "toegevoegd": "2025-07-20",
    "edities": [
     {
+     "id": "2.2321378",
      "titel": "Tandenjager",
      "type": "Boek",
      "info": "Nederlands | [2025]",
@@ -749,7 +764,7 @@
     }
    ],
    "nieuw_sinds": null,
-   "gecontroleerd": "2026-10-07T17:53:52+00:00"
+   "gecontroleerd": "2026-10-07T18:22:16+00:00"
   },
   {
    "id": "15710299",
@@ -768,7 +783,7 @@
     }
    ],
    "nieuw_sinds": null,
-   "gecontroleerd": "2026-10-07T17:54:06+00:00"
+   "gecontroleerd": "2026-10-07T18:22:27+00:00"
   },
   {
    "id": "70897",
@@ -780,6 +795,7 @@
    "toegevoegd": "2025-06-22",
    "edities": [
     {
+     "id": "2.1909561",
      "titel": "De verborgen geschiedenis",
      "type": "Boek",
      "info": "Nederlands | 2018",
@@ -813,7 +829,7 @@
     }
    ],
    "nieuw_sinds": null,
-   "gecontroleerd": "2026-10-07T17:54:09+00:00"
+   "gecontroleerd": "2026-10-07T18:22:30+00:00"
   },
   {
    "id": "215511692",
@@ -825,6 +841,7 @@
    "toegevoegd": "2025-05-28",
    "edities": [
     {
+     "id": "2.2284975",
      "titel": "Een kern van waarheid",
      "type": "Boek",
      "info": "Nederlands | juni 2024",
@@ -850,7 +867,7 @@
     }
    ],
    "nieuw_sinds": null,
-   "gecontroleerd": "2026-10-07T17:54:11+00:00"
+   "gecontroleerd": "2026-10-07T18:22:31+00:00"
   },
   {
    "id": "26101",
@@ -862,6 +879,7 @@
    "toegevoegd": "2025-05-22",
    "edities": [
     {
+     "id": "2.612917",
      "titel": "Lachwekkende liefdes",
      "type": "Boek",
      "info": "Nederlands | 2004",
@@ -887,7 +905,7 @@
     }
    ],
    "nieuw_sinds": null,
-   "gecontroleerd": "2026-10-07T17:54:33+00:00"
+   "gecontroleerd": "2026-10-07T18:22:51+00:00"
   },
   {
    "id": "28634",
@@ -899,6 +917,7 @@
    "toegevoegd": "2025-05-22",
    "edities": [
     {
+     "id": "2.1879536",
      "titel": "Onsterfelijkheid",
      "type": "Boek",
      "info": "Nederlands | 2017",
@@ -916,6 +935,7 @@
      ]
     },
     {
+     "id": "2.2374946",
      "titel": "Onsterfelijkheid",
      "type": "Boek",
      "info": "Nederlands | 1990",
@@ -941,7 +961,7 @@
     }
    ],
    "nieuw_sinds": null,
-   "gecontroleerd": "2026-10-07T17:54:52+00:00"
+   "gecontroleerd": "2026-10-07T18:23:08+00:00"
   },
   {
    "id": "123136728",
@@ -953,6 +973,7 @@
    "toegevoegd": "2025-05-22",
    "edities": [
     {
+     "id": "2.2300189",
      "titel": "In orbit",
      "type": "Boek",
      "info": "Nederlands | 2024",
@@ -978,7 +999,7 @@
     }
    ],
    "nieuw_sinds": null,
-   "gecontroleerd": "2026-10-07T17:54:55+00:00"
+   "gecontroleerd": "2026-10-07T18:23:10+00:00"
   },
   {
    "id": "59412935",
@@ -990,6 +1011,7 @@
    "toegevoegd": "2025-05-08",
    "edities": [
     {
+     "id": "2.2040117",
      "titel": "Miniapolis",
      "type": "Boek",
      "info": "Nederlands | [2021]",
@@ -1015,7 +1037,7 @@
     }
    ],
    "nieuw_sinds": null,
-   "gecontroleerd": "2026-10-07T17:54:55+00:00"
+   "gecontroleerd": "2026-10-07T18:23:11+00:00"
   },
   {
    "id": "231797240",
@@ -1034,7 +1056,7 @@
     }
    ],
    "nieuw_sinds": null,
-   "gecontroleerd": "2026-10-07T17:55:32+00:00"
+   "gecontroleerd": "2026-10-07T18:23:44+00:00"
   },
   {
    "id": "3679",
@@ -1053,7 +1075,7 @@
     }
    ],
    "nieuw_sinds": null,
-   "gecontroleerd": "2026-10-07T17:56:05+00:00"
+   "gecontroleerd": "2026-10-07T18:24:14+00:00"
   },
   {
    "id": "3170060",
@@ -1072,7 +1094,7 @@
     }
    ],
    "nieuw_sinds": null,
-   "gecontroleerd": "2026-10-07T17:56:25+00:00"
+   "gecontroleerd": "2026-10-07T18:24:33+00:00"
   },
   {
    "id": "229039552",
@@ -1084,6 +1106,7 @@
    "toegevoegd": "2025-04-10",
    "edities": [
     {
+     "id": "2.2307807",
      "titel": "De bandagist",
      "type": "Boek",
      "info": "Nederlands | 2025",
@@ -1109,7 +1132,7 @@
     }
    ],
    "nieuw_sinds": null,
-   "gecontroleerd": "2026-10-07T17:56:27+00:00"
+   "gecontroleerd": "2026-10-07T18:24:35+00:00"
   },
   {
    "id": "227857492",
@@ -1128,7 +1151,7 @@
     }
    ],
    "nieuw_sinds": null,
-   "gecontroleerd": "2026-10-07T17:57:02+00:00"
+   "gecontroleerd": "2026-10-07T18:25:10+00:00"
   },
   {
    "id": "5107",
@@ -1147,7 +1170,7 @@
     }
    ],
    "nieuw_sinds": null,
-   "gecontroleerd": "2026-10-07T17:57:16+00:00"
+   "gecontroleerd": "2026-10-07T18:25:23+00:00"
   },
   {
    "id": "44468805",
@@ -1159,6 +1182,7 @@
    "toegevoegd": "2025-03-11",
    "edities": [
     {
+     "id": "2.2003454",
      "titel": "Vallen is als vliegen",
      "type": "Boek",
      "info": "Nederlands | 2020",
@@ -1200,7 +1224,7 @@
     }
    ],
    "nieuw_sinds": null,
-   "gecontroleerd": "2026-10-07T17:57:18+00:00"
+   "gecontroleerd": "2026-10-07T18:25:25+00:00"
   },
   {
    "id": "209761993",
@@ -1219,7 +1243,7 @@
     }
    ],
    "nieuw_sinds": null,
-   "gecontroleerd": "2026-10-07T17:57:38+00:00"
+   "gecontroleerd": "2026-10-07T18:25:44+00:00"
   },
   {
    "id": "209017293",
@@ -1231,6 +1255,7 @@
    "toegevoegd": "2025-02-15",
    "edities": [
     {
+     "id": "2.2270655",
      "titel": "Schuilhuisje",
      "type": "Boek",
      "info": "Nederlands | [2024]",
@@ -1256,7 +1281,7 @@
     }
    ],
    "nieuw_sinds": null,
-   "gecontroleerd": "2026-10-07T17:57:39+00:00"
+   "gecontroleerd": "2026-10-07T18:25:45+00:00"
   },
   {
    "id": "219299241",
@@ -1268,6 +1293,7 @@
    "toegevoegd": "2025-01-28",
    "edities": [
     {
+     "id": "2.2298492",
      "titel": "Waar",
      "type": "Boek",
      "info": "Nederlands | [2024]",
@@ -1293,7 +1319,7 @@
     }
    ],
    "nieuw_sinds": null,
-   "gecontroleerd": "2026-10-07T17:57:42+00:00"
+   "gecontroleerd": "2026-10-07T18:25:47+00:00"
   },
   {
    "id": "63891719",
@@ -1305,6 +1331,7 @@
    "toegevoegd": "2025-01-16",
    "edities": [
     {
+     "id": "2.2219275",
      "titel": "Het woud van Birnam",
      "type": "Boek",
      "info": "Nederlands | [2023]",
@@ -1330,7 +1357,7 @@
     }
    ],
    "nieuw_sinds": null,
-   "gecontroleerd": "2026-10-07T17:57:44+00:00"
+   "gecontroleerd": "2026-10-07T18:25:49+00:00"
   },
   {
    "id": "28396549",
@@ -1349,7 +1376,7 @@
     }
    ],
    "nieuw_sinds": null,
-   "gecontroleerd": "2026-10-07T17:58:05+00:00"
+   "gecontroleerd": "2026-10-07T18:26:08+00:00"
   },
   {
    "id": "206828258",
@@ -1368,7 +1395,7 @@
     }
    ],
    "nieuw_sinds": null,
-   "gecontroleerd": "2026-10-07T17:58:26+00:00"
+   "gecontroleerd": "2026-10-07T18:26:27+00:00"
   },
   {
    "id": "215800969",
@@ -1387,7 +1414,7 @@
     }
    ],
    "nieuw_sinds": null,
-   "gecontroleerd": "2026-10-07T17:58:37+00:00"
+   "gecontroleerd": "2026-10-07T18:26:37+00:00"
   },
   {
    "id": "199333629",
@@ -1406,7 +1433,7 @@
     }
    ],
    "nieuw_sinds": null,
-   "gecontroleerd": "2026-10-07T17:58:47+00:00"
+   "gecontroleerd": "2026-10-07T18:26:45+00:00"
   },
   {
    "id": "9658390",
@@ -1418,6 +1445,7 @@
    "toegevoegd": "2024-10-10",
    "edities": [
     {
+     "id": "2.1983061",
      "titel": "De dood van Ivan Iljitsj",
      "type": "Boek",
      "info": "Nederlands | februari 2020",
@@ -1435,6 +1463,7 @@
      ]
     },
     {
+     "id": "2.1464650",
      "titel": "De dood van Ivan Iljitsj",
      "type": "Boek",
      "info": "Nederlands | [2013]",
@@ -1460,7 +1489,7 @@
     }
    ],
    "nieuw_sinds": null,
-   "gecontroleerd": "2026-10-07T17:58:51+00:00"
+   "gecontroleerd": "2026-10-07T18:26:49+00:00"
   },
   {
    "id": "770754",
@@ -1472,6 +1501,7 @@
    "toegevoegd": "2024-10-10",
    "edities": [
     {
+     "id": "2.1929658",
      "titel": "De pest",
      "type": "Boek",
      "info": "Nederlands | 2019",
@@ -1505,7 +1535,7 @@
     }
    ],
    "nieuw_sinds": null,
-   "gecontroleerd": "2026-10-07T17:58:53+00:00"
+   "gecontroleerd": "2026-10-07T18:26:51+00:00"
   },
   {
    "id": "211052285",
@@ -1517,6 +1547,7 @@
    "toegevoegd": "2024-09-29",
    "edities": [
     {
+     "id": "2.2284928",
      "titel": "De mensheid zal nog van mij horen",
      "type": "Boek",
      "info": "Nederlands | september 2024",
@@ -1542,7 +1573,7 @@
     }
    ],
    "nieuw_sinds": null,
-   "gecontroleerd": "2026-10-07T17:58:55+00:00"
+   "gecontroleerd": "2026-10-07T18:26:53+00:00"
   },
   {
    "id": "49249766",
@@ -1554,6 +1585,7 @@
    "toegevoegd": "2024-09-25",
    "edities": [
     {
+     "id": "2.2390624",
      "titel": "Traumasporen",
      "type": "Boek",
      "info": "Nederlands | 2021",
@@ -1579,7 +1611,7 @@
     }
    ],
    "nieuw_sinds": null,
-   "gecontroleerd": "2026-10-07T17:58:56+00:00"
+   "gecontroleerd": "2026-10-07T18:26:53+00:00"
   },
   {
    "id": "59808603",
@@ -1598,7 +1630,7 @@
     }
    ],
    "nieuw_sinds": null,
-   "gecontroleerd": "2026-10-07T17:59:06+00:00"
+   "gecontroleerd": "2026-10-07T18:27:03+00:00"
   },
   {
    "id": "33253215",
@@ -1610,6 +1642,7 @@
    "toegevoegd": "2024-09-19",
    "edities": [
     {
+     "id": "2.1932564",
      "titel": "Wat het hart verwoest",
      "type": "Boek",
      "info": "Nederlands | 2019",
@@ -1651,7 +1684,7 @@
     }
    ],
    "nieuw_sinds": null,
-   "gecontroleerd": "2026-10-07T17:59:07+00:00"
+   "gecontroleerd": "2026-10-07T18:27:04+00:00"
   },
   {
    "id": "18378023",
@@ -1663,6 +1696,7 @@
    "toegevoegd": "2024-08-28",
    "edities": [
     {
+     "id": "2.1298578",
      "titel": "Het leven, een handleiding",
      "type": "Boek",
      "info": "Nederlands | cop. 2013",
@@ -1688,7 +1722,7 @@
     }
    ],
    "nieuw_sinds": null,
-   "gecontroleerd": "2026-10-07T17:59:14+00:00"
+   "gecontroleerd": "2026-10-07T18:27:10+00:00"
   },
   {
    "id": "13002528",
@@ -1700,6 +1734,7 @@
    "toegevoegd": "2024-08-20",
    "edities": [
     {
+     "id": "2.2060384",
      "titel": "Vaslav",
      "type": "Boek",
      "info": "Nederlands | 2011",
@@ -1733,7 +1768,7 @@
     }
    ],
    "nieuw_sinds": null,
-   "gecontroleerd": "2026-10-07T17:59:14+00:00"
+   "gecontroleerd": "2026-10-07T18:27:11+00:00"
   },
   {
    "id": "63269510",
@@ -1745,6 +1780,7 @@
    "toegevoegd": "2024-07-19",
    "edities": [
     {
+     "id": "2.2234823",
      "titel": "Op zoek naar de verstrooide tijd",
      "type": "Boek",
      "info": "Nederlands | [2023]",
@@ -1770,7 +1806,7 @@
     }
    ],
    "nieuw_sinds": null,
-   "gecontroleerd": "2026-10-07T17:59:15+00:00"
+   "gecontroleerd": "2026-10-07T18:27:12+00:00"
   },
   {
    "id": "32620332",
@@ -1782,6 +1818,7 @@
    "toegevoegd": "2024-07-10",
    "edities": [
     {
+     "id": "2.2057106",
      "titel": "De zeven echtgenoten van Evelyn Hugo",
      "type": "Boek",
      "info": "Nederlands | 2022",
@@ -1807,7 +1844,7 @@
     }
    ],
    "nieuw_sinds": null,
-   "gecontroleerd": "2026-10-07T17:59:18+00:00"
+   "gecontroleerd": "2026-10-07T18:27:14+00:00"
   },
   {
    "id": "36587351",
@@ -1819,6 +1856,7 @@
    "toegevoegd": "2024-06-01",
    "edities": [
     {
+     "id": "2.2018660",
      "titel": "De keuze",
      "type": "Boek",
      "info": "Nederlands | oktober 2020",
@@ -1860,7 +1898,7 @@
     }
    ],
    "nieuw_sinds": null,
-   "gecontroleerd": "2026-10-07T17:59:21+00:00"
+   "gecontroleerd": "2026-10-07T18:27:16+00:00"
   },
   {
    "id": "175194515",
@@ -1872,6 +1910,7 @@
    "toegevoegd": "2024-03-11",
    "edities": [
     {
+     "id": "2.2236042",
      "titel": "Gebied 19",
      "type": "Boek",
      "info": "Nederlands | [2023]",
@@ -1905,7 +1944,7 @@
     }
    ],
    "nieuw_sinds": null,
-   "gecontroleerd": "2026-10-07T17:59:23+00:00"
+   "gecontroleerd": "2026-10-07T18:27:18+00:00"
   },
   {
    "id": "96177629",
@@ -1917,6 +1956,7 @@
    "toegevoegd": "2024-03-11",
    "edities": [
     {
+     "id": "2.2292059",
      "titel": "Good material [Nederlands]",
      "type": "Boek",
      "info": "Nederlands | [2024]",
@@ -1942,7 +1982,7 @@
     }
    ],
    "nieuw_sinds": null,
-   "gecontroleerd": "2026-10-07T17:59:25+00:00"
+   "gecontroleerd": "2026-10-07T18:27:20+00:00"
   },
   {
    "id": "52191015",
@@ -1954,6 +1994,7 @@
    "toegevoegd": "2024-03-07",
    "edities": [
     {
+     "id": "2.1931744",
      "titel": "Liefde, als dat het is",
      "type": "Boek",
      "info": "Nederlands | juni 2019",
@@ -1995,7 +2036,7 @@
     }
    ],
    "nieuw_sinds": null,
-   "gecontroleerd": "2026-10-07T17:59:26+00:00"
+   "gecontroleerd": "2026-10-07T18:27:20+00:00"
   },
   {
    "id": "63192053",
@@ -2007,6 +2048,7 @@
    "toegevoegd": "2024-02-02",
    "edities": [
     {
+     "id": "2.2244570",
      "titel": "Alleen en duizend mensen",
      "type": "Boek",
      "info": "Nederlands | [2023]",
@@ -2032,7 +2074,7 @@
     }
    ],
    "nieuw_sinds": null,
-   "gecontroleerd": "2026-10-07T17:59:27+00:00"
+   "gecontroleerd": "2026-10-07T18:27:21+00:00"
   },
   {
    "id": "61314161",
@@ -2044,6 +2086,7 @@
    "toegevoegd": "2023-11-14",
    "edities": [
     {
+     "id": "2.2210250",
      "titel": "Weerlicht",
      "type": "Boek",
      "info": "Nederlands | juli 2022",
@@ -2069,7 +2112,7 @@
     }
    ],
    "nieuw_sinds": null,
-   "gecontroleerd": "2026-10-07T17:59:27+00:00"
+   "gecontroleerd": "2026-10-07T18:27:22+00:00"
   },
   {
    "id": "36180421",
@@ -2081,6 +2124,7 @@
    "toegevoegd": "2023-07-31",
    "edities": [
     {
+     "id": "2.1876019",
      "titel": "De zweetvoetenman",
      "type": "Boek",
      "info": "Nederlands | [2017]",
@@ -2114,7 +2158,7 @@
     }
    ],
    "nieuw_sinds": null,
-   "gecontroleerd": "2026-10-07T17:59:28+00:00"
+   "gecontroleerd": "2026-10-07T18:27:23+00:00"
   },
   {
    "id": "39723057",
@@ -2126,6 +2170,7 @@
    "toegevoegd": "2023-06-29",
    "edities": [
     {
+     "id": "2.1897970",
      "titel": "Jij bent van mij",
      "type": "Boek",
      "info": "Nederlands | 2018",
@@ -2175,7 +2220,7 @@
     }
    ],
    "nieuw_sinds": null,
-   "gecontroleerd": "2026-10-07T17:59:29+00:00"
+   "gecontroleerd": "2026-10-07T18:27:24+00:00"
   },
   {
    "id": "3316995",
@@ -2187,6 +2232,7 @@
    "toegevoegd": "2023-06-12",
    "edities": [
     {
+     "id": "2.1232834",
      "titel": "De broncode",
      "type": "Boek",
      "info": "Nederlands | 2004",
@@ -2212,7 +2258,7 @@
     }
    ],
    "nieuw_sinds": null,
-   "gecontroleerd": "2026-10-07T17:59:30+00:00"
+   "gecontroleerd": "2026-10-07T18:27:24+00:00"
   },
   {
    "id": "7848758",
@@ -2224,6 +2270,7 @@
    "toegevoegd": "2023-06-12",
    "edities": [
     {
+     "id": "2.767906",
      "titel": "Nina",
      "type": "Boek",
      "info": "Nederlands | 2010",
@@ -2249,7 +2296,7 @@
     }
    ],
    "nieuw_sinds": null,
-   "gecontroleerd": "2026-10-07T17:59:31+00:00"
+   "gecontroleerd": "2026-10-07T18:27:25+00:00"
   },
   {
    "id": "123996873",
@@ -2261,6 +2308,7 @@
    "toegevoegd": "2023-06-06",
    "edities": [
     {
+     "id": "2.2232981",
      "titel": "De man met duizend gezichten",
      "type": "Boek",
      "info": "Nederlands | [2023]",
@@ -2302,7 +2350,7 @@
     }
    ],
    "nieuw_sinds": null,
-   "gecontroleerd": "2026-10-07T17:59:33+00:00"
+   "gecontroleerd": "2026-10-07T18:27:27+00:00"
   },
   {
    "id": "122988667",
@@ -2314,6 +2362,7 @@
    "toegevoegd": "2023-05-28",
    "edities": [
     {
+     "id": "2.2230492",
      "titel": "De gast",
      "type": "Boek",
      "info": "Nederlands | 2023",
@@ -2339,7 +2388,7 @@
     }
    ],
    "nieuw_sinds": null,
-   "gecontroleerd": "2026-10-07T17:59:35+00:00"
+   "gecontroleerd": "2026-10-07T18:27:29+00:00"
   },
   {
    "id": "61157639",
@@ -2358,7 +2407,7 @@
     }
    ],
    "nieuw_sinds": null,
-   "gecontroleerd": "2026-10-07T17:59:52+00:00"
+   "gecontroleerd": "2026-10-07T18:27:45+00:00"
   },
   {
    "id": "63105991",
@@ -2377,7 +2426,7 @@
     }
    ],
    "nieuw_sinds": null,
-   "gecontroleerd": "2026-10-07T18:00:21+00:00"
+   "gecontroleerd": "2026-10-07T18:28:11+00:00"
   },
   {
    "id": "61174603",
@@ -2389,6 +2438,7 @@
    "toegevoegd": "2023-02-13",
    "edities": [
     {
+     "id": "2.2199287",
      "titel": "Heidelberg",
      "type": "Boek",
      "info": "Nederlands | 2022",
@@ -2414,7 +2464,7 @@
     }
    ],
    "nieuw_sinds": null,
-   "gecontroleerd": "2026-10-07T18:00:22+00:00"
+   "gecontroleerd": "2026-10-07T18:28:12+00:00"
   },
   {
    "id": "63096631",
@@ -2433,7 +2483,7 @@
     }
    ],
    "nieuw_sinds": null,
-   "gecontroleerd": "2026-10-07T18:00:30+00:00"
+   "gecontroleerd": "2026-10-07T18:28:19+00:00"
   },
   {
    "id": "62207301",
@@ -2445,6 +2495,7 @@
    "toegevoegd": "2022-12-12",
    "edities": [
     {
+     "id": "2.2193057",
      "titel": "De gebeurtenis",
      "type": "Boek",
      "info": "Nederlands | 2022",
@@ -2470,7 +2521,7 @@
     }
    ],
    "nieuw_sinds": null,
-   "gecontroleerd": "2026-10-07T18:00:31+00:00"
+   "gecontroleerd": "2026-10-07T18:28:20+00:00"
   },
   {
    "id": "223380",
@@ -2489,7 +2540,7 @@
     }
    ],
    "nieuw_sinds": null,
-   "gecontroleerd": "2026-10-07T18:00:54+00:00"
+   "gecontroleerd": "2026-10-07T18:28:43+00:00"
   },
   {
    "id": "12164300",
@@ -2508,7 +2559,7 @@
     }
    ],
    "nieuw_sinds": null,
-   "gecontroleerd": "2026-10-07T18:01:11+00:00"
+   "gecontroleerd": "2026-10-07T18:29:00+00:00"
   },
   {
    "id": "466518",
@@ -2520,6 +2571,7 @@
    "toegevoegd": "2022-09-13",
    "edities": [
     {
+     "id": "2.2077226",
      "titel": "Nooit meer slapen",
      "type": "Boek",
      "info": "Nederlands | 2014 2014",
@@ -2537,6 +2589,7 @@
      ]
     },
     {
+     "id": "2.2575799",
      "titel": "Nooit meer slapen",
      "type": "Boek",
      "info": "Nederlands | 2025",
@@ -2570,6 +2623,7 @@
      ]
     },
     {
+     "id": "2.815907",
      "titel": "Nooit meer slapen",
      "type": "Luisterboek",
      "info": "Nederlands | cop. 2010",
@@ -2595,7 +2649,7 @@
     }
    ],
    "nieuw_sinds": null,
-   "gecontroleerd": "2026-10-07T18:01:13+00:00"
+   "gecontroleerd": "2026-10-07T18:29:02+00:00"
   },
   {
    "id": "50998056",
@@ -2614,7 +2668,7 @@
     }
    ],
    "nieuw_sinds": null,
-   "gecontroleerd": "2026-10-07T18:01:46+00:00"
+   "gecontroleerd": "2026-10-07T18:29:33+00:00"
   },
   {
    "id": "50625669",
@@ -2626,6 +2680,7 @@
    "toegevoegd": "2022-07-26",
    "edities": [
     {
+     "id": "2.2293470",
      "titel": "Daar waar de rivierkreeften zingen",
      "type": "Boek",
      "info": "Nederlands | augustus 2024",
@@ -2659,6 +2714,7 @@
      ]
     },
     {
+     "id": "2.2252576",
      "titel": "Daar waar de rivierkreeften zingen",
      "type": "Boek",
      "info": "Nederlands | november 2023",
@@ -2700,7 +2756,7 @@
     }
    ],
    "nieuw_sinds": null,
-   "gecontroleerd": "2026-10-07T18:01:48+00:00"
+   "gecontroleerd": "2026-10-07T18:29:34+00:00"
   },
   {
    "id": "9530",
@@ -2719,7 +2775,7 @@
     }
    ],
    "nieuw_sinds": null,
-   "gecontroleerd": "2026-10-07T18:02:00+00:00"
+   "gecontroleerd": "2026-10-07T18:29:46+00:00"
   },
   {
    "id": "50911074",
@@ -2731,6 +2787,7 @@
    "toegevoegd": "2022-05-18",
    "edities": [
     {
+     "id": "2.1957630",
      "titel": "Het moois dat we delen",
      "type": "Boek",
      "info": "Nederlands | oktober 2019",
@@ -2780,7 +2837,7 @@
     }
    ],
    "nieuw_sinds": null,
-   "gecontroleerd": "2026-10-07T18:02:01+00:00"
+   "gecontroleerd": "2026-10-07T18:29:47+00:00"
   },
   {
    "id": "59484492",
@@ -2799,7 +2856,7 @@
     }
    ],
    "nieuw_sinds": null,
-   "gecontroleerd": "2026-10-07T18:02:13+00:00"
+   "gecontroleerd": "2026-10-07T18:29:57+00:00"
   },
   {
    "id": "57328903",
@@ -2811,6 +2868,7 @@
    "toegevoegd": "2022-04-20",
    "edities": [
     {
+     "id": "2.2013283",
      "titel": "Klara en de zon",
      "type": "Boek",
      "info": "Nederlands | [2021]",
@@ -2836,7 +2894,7 @@
     }
    ],
    "nieuw_sinds": null,
-   "gecontroleerd": "2026-10-07T18:02:15+00:00"
+   "gecontroleerd": "2026-10-07T18:29:59+00:00"
   },
   {
    "id": "29435715",
@@ -2848,6 +2906,7 @@
    "toegevoegd": "2022-03-28",
    "edities": [
     {
+     "id": "2.1916757",
      "titel": "Poubelle",
      "type": "Boek",
      "info": "Nederlands | 2018",
@@ -2873,7 +2932,7 @@
     }
    ],
    "nieuw_sinds": null,
-   "gecontroleerd": "2026-10-07T18:02:17+00:00"
+   "gecontroleerd": "2026-10-07T18:30:01+00:00"
   },
   {
    "id": "27422401",
@@ -2885,6 +2944,7 @@
    "toegevoegd": "2022-03-10",
    "edities": [
     {
+     "id": "2.1553072",
      "titel": "Doorgang",
      "type": "Boek",
      "info": "Nederlands | [2015]",
@@ -2926,7 +2986,7 @@
     }
    ],
    "nieuw_sinds": null,
-   "gecontroleerd": "2026-10-07T18:02:18+00:00"
+   "gecontroleerd": "2026-10-07T18:30:01+00:00"
   },
   {
    "id": "54985743",
@@ -2938,6 +2998,7 @@
    "toegevoegd": "2021-12-09",
    "edities": [
     {
+     "id": "2.2240148",
      "titel": "People we meet on vacation [Nederlands]",
      "type": "Boek",
      "info": "Nederlands | [2023]",
@@ -2963,7 +3024,7 @@
     }
    ],
    "nieuw_sinds": null,
-   "gecontroleerd": "2026-10-07T18:02:20+00:00"
+   "gecontroleerd": "2026-10-07T18:30:03+00:00"
   },
   {
    "id": "56597885",
@@ -2975,6 +3036,7 @@
    "toegevoegd": "2021-12-09",
    "edities": [
     {
+     "id": "2.2028503",
      "titel": "Prachtige wereld, waar ben je",
      "type": "Boek",
      "info": "Nederlands | [2021]",
@@ -3008,7 +3070,7 @@
     }
    ],
    "nieuw_sinds": null,
-   "gecontroleerd": "2026-10-07T18:02:23+00:00"
+   "gecontroleerd": "2026-10-07T18:30:05+00:00"
   },
   {
    "id": "58274159",
@@ -3020,6 +3082,7 @@
    "toegevoegd": "2021-11-10",
    "edities": [
     {
+     "id": "2.2394004",
      "titel": "Twee weken weg",
      "type": "Boek",
      "info": "Nederlands | mei 2025",
@@ -3037,6 +3100,7 @@
      ]
     },
     {
+     "id": "2.2186577",
      "titel": "Twee weken weg",
      "type": "Grote Letter Boek",
      "info": "Nederlands | 2022",
@@ -3062,7 +3126,7 @@
     }
    ],
    "nieuw_sinds": null,
-   "gecontroleerd": "2026-10-07T18:02:25+00:00"
+   "gecontroleerd": "2026-10-07T18:30:07+00:00"
   },
   {
    "id": "36217837",
@@ -3074,6 +3138,7 @@
    "toegevoegd": "2021-10-23",
    "edities": [
     {
+     "id": "2.1958960",
      "titel": "De kennismaking",
      "type": "Boek",
      "info": "Nederlands | september 2019",
@@ -3107,7 +3172,7 @@
     }
    ],
    "nieuw_sinds": null,
-   "gecontroleerd": "2026-10-07T18:02:27+00:00"
+   "gecontroleerd": "2026-10-07T18:30:09+00:00"
   },
   {
    "id": "59120150",
@@ -3119,6 +3184,7 @@
    "toegevoegd": "2021-10-03",
    "edities": [
     {
+     "id": "2.2039350",
      "titel": "Verzamelde werken",
      "type": "Boek",
      "info": "Nederlands | 2021",
@@ -3144,7 +3210,7 @@
     }
    ],
    "nieuw_sinds": null,
-   "gecontroleerd": "2026-10-07T18:02:27+00:00"
+   "gecontroleerd": "2026-10-07T18:30:09+00:00"
   },
   {
    "id": "29630960",
@@ -3156,6 +3222,7 @@
    "toegevoegd": "2021-10-01",
    "edities": [
     {
+     "id": "2.2259659",
      "titel": "Een klein leven",
      "type": "Boek",
      "info": "Nederlands | 2023",
@@ -3197,6 +3264,7 @@
      ]
     },
     {
+     "id": "2.1870829",
      "titel": "Een klein leven",
      "type": "Dwarsligger",
      "info": "Nederlands | juni 2017",
@@ -3230,7 +3298,7 @@
     }
    ],
    "nieuw_sinds": null,
-   "gecontroleerd": "2026-10-07T18:02:29+00:00"
+   "gecontroleerd": "2026-10-07T18:30:11+00:00"
   },
   {
    "id": "41456850",
@@ -3242,6 +3310,7 @@
    "toegevoegd": "2021-09-08",
    "edities": [
     {
+     "id": "2.1915399",
      "titel": "Grand Hotel Europa",
      "type": "Boek",
      "info": "Nederlands | [2018]",
@@ -3299,7 +3368,7 @@
     }
    ],
    "nieuw_sinds": null,
-   "gecontroleerd": "2026-10-07T18:02:30+00:00"
+   "gecontroleerd": "2026-10-07T18:30:12+00:00"
   },
   {
    "id": "55042186",
@@ -3311,6 +3380,7 @@
    "toegevoegd": "2021-08-22",
    "edities": [
     {
+     "id": "2.1992521",
      "titel": "De vrouw en de weduwe",
      "type": "Boek",
      "info": "Nederlands | [2020]",
@@ -3336,7 +3406,7 @@
     }
    ],
    "nieuw_sinds": null,
-   "gecontroleerd": "2026-10-07T18:02:32+00:00"
+   "gecontroleerd": "2026-10-07T18:30:14+00:00"
   },
   {
    "id": "54441362",
@@ -3348,6 +3418,7 @@
    "toegevoegd": "2021-08-22",
    "edities": [
     {
+     "id": "2.1999101",
      "titel": "Geworteld in het kwaad",
      "type": "Boek",
      "info": "Nederlands | september 2020",
@@ -3381,7 +3452,7 @@
     }
    ],
    "nieuw_sinds": null,
-   "gecontroleerd": "2026-10-07T18:02:34+00:00"
+   "gecontroleerd": "2026-10-07T18:30:15+00:00"
   },
   {
    "id": "55202144",
@@ -3393,6 +3464,7 @@
    "toegevoegd": "2021-08-22",
    "edities": [
     {
+     "id": "2.1995846",
      "titel": "Ruimte",
      "type": "Boek",
      "info": "Nederlands | 2020",
@@ -3418,7 +3490,7 @@
     }
    ],
    "nieuw_sinds": null,
-   "gecontroleerd": "2026-10-07T18:02:35+00:00"
+   "gecontroleerd": "2026-10-07T18:30:16+00:00"
   },
   {
    "id": "60318890",
@@ -3437,7 +3509,7 @@
     }
    ],
    "nieuw_sinds": null,
-   "gecontroleerd": "2026-10-07T18:02:52+00:00"
+   "gecontroleerd": "2026-10-07T18:30:31+00:00"
   },
   {
    "id": "41136614",
@@ -3456,7 +3528,7 @@
     }
    ],
    "nieuw_sinds": null,
-   "gecontroleerd": "2026-10-07T18:03:16+00:00"
+   "gecontroleerd": "2026-10-07T18:30:53+00:00"
   },
   {
    "id": "13413970",
@@ -3468,6 +3540,7 @@
    "toegevoegd": "2021-04-28",
    "edities": [
     {
+     "id": "2.2387463",
      "titel": "Op weg",
      "type": "Boek",
      "info": "Nederlands | 1978",
@@ -3493,7 +3566,7 @@
     }
    ],
    "nieuw_sinds": null,
-   "gecontroleerd": "2026-10-07T18:03:17+00:00"
+   "gecontroleerd": "2026-10-07T18:30:54+00:00"
   },
   {
    "id": "23690388",
@@ -3505,6 +3578,7 @@
    "toegevoegd": "2021-03-18",
    "edities": [
     {
+     "id": "2.1204800",
      "titel": "Hard-boiled wonderland en het einde van de wereld",
      "type": "Boek",
      "info": "Nederlands | juli 2017",
@@ -3530,7 +3604,7 @@
     }
    ],
    "nieuw_sinds": null,
-   "gecontroleerd": "2026-10-07T18:03:18+00:00"
+   "gecontroleerd": "2026-10-07T18:30:55+00:00"
   },
   {
    "id": "21413662",
@@ -3549,7 +3623,7 @@
     }
    ],
    "nieuw_sinds": null,
-   "gecontroleerd": "2026-10-07T18:03:35+00:00"
+   "gecontroleerd": "2026-10-07T18:31:11+00:00"
   },
   {
    "id": "33380938",
@@ -3561,6 +3635,7 @@
    "toegevoegd": "2021-03-15",
    "edities": [
     {
+     "id": "2.2042242",
      "titel": "Een jongen met de naam Kerstmis",
      "type": "Boek",
      "info": "Nederlands | 2021",
@@ -3586,7 +3661,7 @@
     }
    ],
    "nieuw_sinds": null,
-   "gecontroleerd": "2026-10-07T18:03:37+00:00"
+   "gecontroleerd": "2026-10-07T18:31:13+00:00"
   },
   {
    "id": "49127718",
@@ -3605,7 +3680,7 @@
     }
    ],
    "nieuw_sinds": null,
-   "gecontroleerd": "2026-10-07T18:03:58+00:00"
+   "gecontroleerd": "2026-10-07T18:31:33+00:00"
   },
   {
    "id": "56028895",
@@ -3617,6 +3692,7 @@
    "toegevoegd": "2021-03-15",
    "edities": [
     {
+     "id": "2.2007875",
      "titel": "Ik ben er niet",
      "type": "Boek",
      "info": "Nederlands | december 2020",
@@ -3642,7 +3718,7 @@
     }
    ],
    "nieuw_sinds": null,
-   "gecontroleerd": "2026-10-07T18:03:59+00:00"
+   "gecontroleerd": "2026-10-07T18:31:34+00:00"
   },
   {
    "id": "51653194",
@@ -3654,6 +3730,7 @@
    "toegevoegd": "2021-03-15",
    "edities": [
     {
+     "id": "2.1981665",
      "titel": "Confettiregen",
      "type": "Boek",
      "info": "Nederlands | 2020",
@@ -3687,7 +3764,7 @@
     }
    ],
    "nieuw_sinds": null,
-   "gecontroleerd": "2026-10-07T18:04:00+00:00"
+   "gecontroleerd": "2026-10-07T18:31:34+00:00"
   },
   {
    "id": "43625681",
@@ -3699,6 +3776,7 @@
    "toegevoegd": "2021-03-15",
    "edities": [
     {
+     "id": "2.1935873",
      "titel": "Façade",
      "type": "Boek",
      "info": "Nederlands | 2019",
@@ -3764,7 +3842,7 @@
     }
    ],
    "nieuw_sinds": null,
-   "gecontroleerd": "2026-10-07T18:04:01+00:00"
+   "gecontroleerd": "2026-10-07T18:31:35+00:00"
   },
   {
    "id": "30194212",
@@ -3776,6 +3854,7 @@
    "toegevoegd": "2021-03-15",
    "edities": [
     {
+     "id": "2.1298569",
      "titel": "Ufo's bestaan gewoon",
      "type": "Boek",
      "info": "Nederlands | cop. 2013",
@@ -3801,7 +3880,7 @@
     }
    ],
    "nieuw_sinds": null,
-   "gecontroleerd": "2026-10-07T18:04:03+00:00"
+   "gecontroleerd": "2026-10-07T18:31:37+00:00"
   }
  ]
 }
