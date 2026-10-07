@@ -29,6 +29,7 @@ const BOEKLINNEN = [
   ["#4A5A30", "#F0F2E4"], ["#B9A27E", "#2A2114"], ["#3B4E63", "#E3E8EE"], ["#8E3B54", "#F8E8EE"],
 ];
 const BLZ_MAX = 800;
+const CATALOGUS = "https://www.sambis.nl/iguana/www.main.cls?surl=search&p=5f70b4fe-5f5f-11e9-a84f-0050568697e6#recordId=";
 const MAAND = new Intl.DateTimeFormat("nl-NL", { day: "numeric", month: "short" });
 const MAAND_JAAR = new Intl.DateTimeFormat("nl-NL", { month: "short", year: "numeric" });
 const DAG_TIJD = new Intl.DateTimeFormat("nl-NL", { day: "numeric", month: "short", hour: "2-digit", minute: "2-digit" });
@@ -71,6 +72,11 @@ function verrijk(b) {
     terug: b.status === "westervoort_uitgeleend" ? terugWes || terug : terug,
     aanwezigIn,
     omslag: ed.find((e) => e.omslag)?.omslag || null,
+    catalogus: (() => {
+      const e = ed.find((e) => e.exemplaren.some((x) => x.westervoort && x.aanwezig))
+        || ed.find((e) => e.exemplaren.some((x) => x.aanwezig)) || ed[0];
+      return e?.id ? CATALOGUS + e.id : null;
+    })(),
     nieuw: !!b.nieuw_sinds,
     zoektekst: plat([b.titel, b.auteur, ...ed.map((e) => e.titel)].join(" ")),
   };
@@ -163,6 +169,7 @@ function kaart(b) {
     </div>
     ${stempel(b)}
     ${exemplaren(b)}
+    ${b.catalogus ? `<a class="reserveer" href="${esc(b.catalogus)}" target="_blank" rel="noopener">${b.status === "westervoort" ? "Bekijk in de catalogus" : "Reserveren in de catalogus"}<svg aria-hidden="true" viewBox="0 0 24 24" width="14" height="14"><path d="M14 4h6v6M20 4l-9 9M18 14v5a1 1 0 0 1-1 1H5a1 1 0 0 1-1-1V7a1 1 0 0 1 1-1h5" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></svg></a>` : ""}
   </article>`;
 }
 

@@ -78,6 +78,7 @@ def edities(records):
         if not ex:
             continue
         uit.append({
+            "id": r["id"],  # catalogusnummer, voor de link naar de titelpagina
             "titel": r["titel"], "type": r["type"], "info": r["info"],
             "omslag": r.get("omslag") or None,
             "vertaling_van": r.get("vertaling_van") or None,

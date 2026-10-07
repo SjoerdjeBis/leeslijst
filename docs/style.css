@@ -225,6 +225,12 @@ main { max-width: 1180px; margin: 0 auto; padding: 18px 16px 40px; }
 .ex .plek { font: 700 10px/1 var(--mono); background: var(--papier); border: 1px solid var(--lijn); padding: 3px 5px; border-radius: 2px; color: var(--inkt-2); white-space: nowrap; }
 .ex .meer { grid-template-columns: 1fr; }
 .ex .meer button { justify-self: start; }
+.reserveer {
+  grid-column: 1 / -1; justify-self: start; display: inline-flex; align-items: center; gap: 6px;
+  margin-top: 2px; padding: 7px 12px; border-radius: 8px; border: 1px solid var(--lijn);
+  font-size: 14px; font-weight: 700; color: var(--inkt); text-decoration: none; transition: border-color .15s, background .15s;
+}
+.reserveer:hover { border-color: var(--inkt); background: var(--papier); }
 .geen { grid-column: 1 / -1; margin: 0; padding-top: 10px; border-top: 1px dashed var(--lijn); font-size: 14px; color: var(--inkt-3); }
 
 .leeg { grid-column: 1 / -1; text-align: center; padding: 60px 16px; color: var(--inkt-2); }
