@@ -1,5 +1,5 @@
 {
- "bijgewerkt": "2026-10-13T10:44:06+00:00",
+ "bijgewerkt": "2026-10-14T08:50:26+00:00",
  "export": "2026-10-07",
  "boeken": [
   {
@@ -38,7 +38,7 @@
      ]
     }
    ],
-   "gecontroleerd": "2026-10-13T10:30:21+00:00",
+   "gecontroleerd": "2026-10-14T08:38:47+00:00",
    "historie": [
     {
      "datum": "2026-10-07",
@@ -86,7 +86,7 @@
      ]
     }
    ],
-   "gecontroleerd": "2026-10-13T10:30:22+00:00",
+   "gecontroleerd": "2026-10-14T08:38:48+00:00",
    "historie": [
     {
      "datum": "2026-10-07",
@@ -112,7 +112,7 @@
     }
    ],
    "nieuw_sinds": null,
-   "gecontroleerd": "2026-10-13T10:30:32+00:00"
+   "gecontroleerd": "2026-10-14T08:38:56+00:00"
   },
   {
    "id": "18194507",
@@ -150,7 +150,7 @@
     }
    ],
    "nieuw_sinds": null,
-   "gecontroleerd": "2026-10-13T10:30:34+00:00"
+   "gecontroleerd": "2026-10-14T08:38:58+00:00"
   },
   {
    "id": "244991366",
@@ -188,7 +188,7 @@
     }
    ],
    "nieuw_sinds": null,
-   "gecontroleerd": "2026-10-13T10:30:35+00:00"
+   "gecontroleerd": "2026-10-14T08:38:59+00:00"
   },
   {
    "id": "213870083",
@@ -207,7 +207,7 @@
     }
    ],
    "nieuw_sinds": null,
-   "gecontroleerd": "2026-10-13T10:30:49+00:00"
+   "gecontroleerd": "2026-10-14T08:39:15+00:00"
   },
   {
    "id": "247970449",
@@ -226,7 +226,7 @@
     }
    ],
    "nieuw_sinds": null,
-   "gecontroleerd": "2026-10-13T10:31:23+00:00"
+   "gecontroleerd": "2026-10-14T08:39:43+00:00"
   },
   {
    "id": "54870256",
@@ -245,7 +245,7 @@
     }
    ],
    "nieuw_sinds": null,
-   "gecontroleerd": "2026-10-13T10:31:30+00:00"
+   "gecontroleerd": "2026-10-14T08:39:50+00:00"
   },
   {
    "id": "252544111",
@@ -264,7 +264,7 @@
     }
    ],
    "nieuw_sinds": null,
-   "gecontroleerd": "2026-10-13T10:31:49+00:00"
+   "gecontroleerd": "2026-10-14T08:40:05+00:00"
   },
   {
    "id": "246655250",
@@ -283,7 +283,7 @@
     }
    ],
    "nieuw_sinds": null,
-   "gecontroleerd": "2026-10-13T10:32:05+00:00"
+   "gecontroleerd": "2026-10-14T08:40:19+00:00"
   },
   {
    "id": "251286424",
@@ -321,7 +321,7 @@
     }
    ],
    "nieuw_sinds": null,
-   "gecontroleerd": "2026-10-13T10:32:07+00:00"
+   "gecontroleerd": "2026-10-14T08:40:20+00:00"
   },
   {
    "id": "251437359",
@@ -367,7 +367,7 @@
     }
    ],
    "nieuw_sinds": null,
-   "gecontroleerd": "2026-10-13T10:32:08+00:00"
+   "gecontroleerd": "2026-10-14T08:40:21+00:00"
   },
   {
    "id": "248237688",
@@ -409,7 +409,7 @@
     }
    ],
    "nieuw_sinds": null,
-   "gecontroleerd": "2026-10-13T10:32:10+00:00"
+   "gecontroleerd": "2026-10-14T08:40:22+00:00"
   },
   {
    "id": "231183649",
@@ -428,7 +428,7 @@
     }
    ],
    "nieuw_sinds": null,
-   "gecontroleerd": "2026-10-13T10:32:35+00:00"
+   "gecontroleerd": "2026-10-14T08:40:43+00:00"
   },
   {
    "id": "9744267",
@@ -466,7 +466,7 @@
     }
    ],
    "nieuw_sinds": null,
-   "gecontroleerd": "2026-10-13T10:32:36+00:00"
+   "gecontroleerd": "2026-10-14T08:40:45+00:00"
   },
   {
    "id": "248312672",
@@ -508,7 +508,7 @@
     }
    ],
    "nieuw_sinds": null,
-   "gecontroleerd": "2026-10-13T10:32:37+00:00"
+   "gecontroleerd": "2026-10-14T08:40:45+00:00"
   },
   {
    "id": "236762685",
@@ -530,8 +530,8 @@
       {
        "vestiging": "Zevenaar",
        "westervoort": false,
-       "status": "Aanwezig",
-       "aanwezig": true,
+       "status": "Uitgeleend",
+       "aanwezig": false,
        "terug": null,
        "plek": "Romans Literatuur ARNO"
       },
@@ -546,7 +546,7 @@
      ]
     }
    ],
-   "status": "elders",
+   "status": "elders_uitgeleend",
    "historie": [
     {
      "datum": "2026-10-07",
@@ -555,10 +555,14 @@
     {
      "datum": "2026-10-13",
      "status": "elders"
+    },
+    {
+     "datum": "2026-10-14",
+     "status": "elders_uitgeleend"
     }
    ],
    "nieuw_sinds": null,
-   "gecontroleerd": "2026-10-13T10:32:39+00:00"
+   "gecontroleerd": "2026-10-14T08:40:47+00:00"
   },
   {
    "id": "12338137",
@@ -580,9 +584,9 @@
       {
        "vestiging": "Provinciaal depot",
        "westervoort": false,
-       "status": "Uitgeleend",
+       "status": "Uitgeleend tot",
        "aanwezig": false,
-       "terug": null,
+       "terug": "2026-11-10",
        "plek": "V fictie DIJKS"
       }
      ]
@@ -614,7 +618,7 @@
     }
    ],
    "nieuw_sinds": null,
-   "gecontroleerd": "2026-10-13T10:32:41+00:00"
+   "gecontroleerd": "2026-10-14T08:40:49+00:00"
   },
   {
    "id": "236863665",
@@ -633,7 +637,7 @@
     }
    ],
    "nieuw_sinds": null,
-   "gecontroleerd": "2026-10-13T10:33:20+00:00"
+   "gecontroleerd": "2026-10-14T08:41:21+00:00"
   },
   {
    "id": "61675059",
@@ -671,7 +675,7 @@
     }
    ],
    "nieuw_sinds": null,
-   "gecontroleerd": "2026-10-13T10:33:22+00:00"
+   "gecontroleerd": "2026-10-14T08:41:23+00:00"
   },
   {
    "id": "238214677",
@@ -690,7 +694,7 @@
     }
    ],
    "nieuw_sinds": null,
-   "gecontroleerd": "2026-10-13T10:33:44+00:00"
+   "gecontroleerd": "2026-10-14T08:41:44+00:00"
   },
   {
    "id": "229071922",
@@ -709,7 +713,7 @@
     }
    ],
    "nieuw_sinds": null,
-   "gecontroleerd": "2026-10-13T10:34:12+00:00"
+   "gecontroleerd": "2026-10-14T08:42:07+00:00"
   },
   {
    "id": "59947696",
@@ -747,7 +751,7 @@
     }
    ],
    "nieuw_sinds": null,
-   "gecontroleerd": "2026-10-13T10:34:15+00:00"
+   "gecontroleerd": "2026-10-14T08:42:09+00:00"
   },
   {
    "id": "231862231",
@@ -793,7 +797,7 @@
     }
    ],
    "nieuw_sinds": null,
-   "gecontroleerd": "2026-10-13T10:34:16+00:00"
+   "gecontroleerd": "2026-10-14T08:42:11+00:00"
   },
   {
    "id": "222077951",
@@ -831,7 +835,7 @@
     }
    ],
    "nieuw_sinds": null,
-   "gecontroleerd": "2026-10-13T10:34:17+00:00"
+   "gecontroleerd": "2026-10-14T08:42:11+00:00"
   },
   {
    "id": "214906792",
@@ -869,7 +873,7 @@
     }
    ],
    "nieuw_sinds": null,
-   "gecontroleerd": "2026-10-13T10:34:19+00:00"
+   "gecontroleerd": "2026-10-14T08:42:13+00:00"
   },
   {
    "id": "15710299",
@@ -888,7 +892,7 @@
     }
    ],
    "nieuw_sinds": null,
-   "gecontroleerd": "2026-10-13T10:34:32+00:00"
+   "gecontroleerd": "2026-10-14T08:42:23+00:00"
   },
   {
    "id": "70897",
@@ -934,7 +938,7 @@
     }
    ],
    "nieuw_sinds": null,
-   "gecontroleerd": "2026-10-13T10:34:34+00:00"
+   "gecontroleerd": "2026-10-14T08:42:25+00:00"
   },
   {
    "id": "215511692",
@@ -972,7 +976,7 @@
     }
    ],
    "nieuw_sinds": null,
-   "gecontroleerd": "2026-10-13T10:34:36+00:00"
+   "gecontroleerd": "2026-10-14T08:42:27+00:00"
   },
   {
    "id": "26101",
@@ -1010,7 +1014,7 @@
     }
    ],
    "nieuw_sinds": null,
-   "gecontroleerd": "2026-10-13T10:34:59+00:00"
+   "gecontroleerd": "2026-10-14T08:42:44+00:00"
   },
   {
    "id": "28634",
@@ -1066,7 +1070,7 @@
     }
    ],
    "nieuw_sinds": null,
-   "gecontroleerd": "2026-10-13T10:35:18+00:00"
+   "gecontroleerd": "2026-10-14T08:42:59+00:00"
   },
   {
    "id": "123136728",
@@ -1088,15 +1092,15 @@
       {
        "vestiging": "Zevenaar",
        "westervoort": false,
-       "status": "Aanwezig",
-       "aanwezig": true,
+       "status": "Uitgeleend",
+       "aanwezig": false,
        "terug": null,
        "plek": "Romans Literatuur HARV"
       }
      ]
     }
    ],
-   "status": "elders",
+   "status": "elders_uitgeleend",
    "historie": [
     {
      "datum": "2026-10-07",
@@ -1105,10 +1109,14 @@
     {
      "datum": "2026-10-13",
      "status": "elders"
+    },
+    {
+     "datum": "2026-10-14",
+     "status": "elders_uitgeleend"
     }
    ],
    "nieuw_sinds": null,
-   "gecontroleerd": "2026-10-13T10:35:21+00:00"
+   "gecontroleerd": "2026-10-14T08:43:01+00:00"
   },
   {
    "id": "59412935",
@@ -1146,7 +1154,7 @@
     }
    ],
    "nieuw_sinds": null,
-   "gecontroleerd": "2026-10-13T10:35:22+00:00"
+   "gecontroleerd": "2026-10-14T08:43:02+00:00"
   },
   {
    "id": "231797240",
@@ -1165,7 +1173,7 @@
     }
    ],
    "nieuw_sinds": null,
-   "gecontroleerd": "2026-10-13T10:35:58+00:00"
+   "gecontroleerd": "2026-10-14T08:43:31+00:00"
   },
   {
    "id": "3679",
@@ -1184,7 +1192,7 @@
     }
    ],
    "nieuw_sinds": null,
-   "gecontroleerd": "2026-10-13T10:36:31+00:00"
+   "gecontroleerd": "2026-10-14T08:43:59+00:00"
   },
   {
    "id": "3170060",
@@ -1203,7 +1211,7 @@
     }
    ],
    "nieuw_sinds": null,
-   "gecontroleerd": "2026-10-13T10:36:51+00:00"
+   "gecontroleerd": "2026-10-14T08:44:15+00:00"
   },
   {
    "id": "229039552",
@@ -1225,9 +1233,9 @@
       {
        "vestiging": "Zevenaar",
        "westervoort": false,
-       "status": "Uitgeleend tot",
+       "status": "Uitgeleend",
        "aanwezig": false,
-       "terug": "2026-10-14",
+       "terug": null,
        "plek": "Romans Literatuur MOOR"
       }
      ]
@@ -1241,7 +1249,7 @@
     }
    ],
    "nieuw_sinds": null,
-   "gecontroleerd": "2026-10-13T10:36:53+00:00"
+   "gecontroleerd": "2026-10-14T08:44:16+00:00"
   },
   {
    "id": "227857492",
@@ -1260,7 +1268,7 @@
     }
    ],
    "nieuw_sinds": null,
-   "gecontroleerd": "2026-10-13T10:37:28+00:00"
+   "gecontroleerd": "2026-10-14T08:44:45+00:00"
   },
   {
    "id": "5107",
@@ -1279,7 +1287,7 @@
     }
    ],
    "nieuw_sinds": null,
-   "gecontroleerd": "2026-10-13T10:37:42+00:00"
+   "gecontroleerd": "2026-10-14T08:44:56+00:00"
   },
   {
    "id": "44468805",
@@ -1333,7 +1341,7 @@
     }
    ],
    "nieuw_sinds": null,
-   "gecontroleerd": "2026-10-13T10:37:43+00:00"
+   "gecontroleerd": "2026-10-14T08:44:58+00:00"
   },
   {
    "id": "209761993",
@@ -1352,7 +1360,7 @@
     }
    ],
    "nieuw_sinds": null,
-   "gecontroleerd": "2026-10-13T10:38:05+00:00"
+   "gecontroleerd": "2026-10-14T08:45:17+00:00"
   },
   {
    "id": "209017293",
@@ -1390,7 +1398,7 @@
     }
    ],
    "nieuw_sinds": null,
-   "gecontroleerd": "2026-10-13T10:38:05+00:00"
+   "gecontroleerd": "2026-10-14T08:45:18+00:00"
   },
   {
    "id": "219299241",
@@ -1428,7 +1436,7 @@
     }
    ],
    "nieuw_sinds": null,
-   "gecontroleerd": "2026-10-13T10:38:08+00:00"
+   "gecontroleerd": "2026-10-14T08:45:20+00:00"
   },
   {
    "id": "63891719",
@@ -1466,7 +1474,7 @@
     }
    ],
    "nieuw_sinds": null,
-   "gecontroleerd": "2026-10-13T10:38:10+00:00"
+   "gecontroleerd": "2026-10-14T08:45:21+00:00"
   },
   {
    "id": "28396549",
@@ -1485,7 +1493,7 @@
     }
    ],
    "nieuw_sinds": null,
-   "gecontroleerd": "2026-10-13T10:38:31+00:00"
+   "gecontroleerd": "2026-10-14T08:45:40+00:00"
   },
   {
    "id": "206828258",
@@ -1504,7 +1512,7 @@
     }
    ],
    "nieuw_sinds": null,
-   "gecontroleerd": "2026-10-13T10:38:51+00:00"
+   "gecontroleerd": "2026-10-14T08:45:58+00:00"
   },
   {
    "id": "215800969",
@@ -1523,7 +1531,7 @@
     }
    ],
    "nieuw_sinds": null,
-   "gecontroleerd": "2026-10-13T10:39:03+00:00"
+   "gecontroleerd": "2026-10-14T08:46:07+00:00"
   },
   {
    "id": "199333629",
@@ -1542,7 +1550,7 @@
     }
    ],
    "nieuw_sinds": null,
-   "gecontroleerd": "2026-10-13T10:39:12+00:00"
+   "gecontroleerd": "2026-10-14T08:46:15+00:00"
   },
   {
    "id": "9658390",
@@ -1598,7 +1606,7 @@
     }
    ],
    "nieuw_sinds": null,
-   "gecontroleerd": "2026-10-13T10:39:17+00:00"
+   "gecontroleerd": "2026-10-14T08:46:18+00:00"
   },
   {
    "id": "770754",
@@ -1644,7 +1652,7 @@
     }
    ],
    "nieuw_sinds": null,
-   "gecontroleerd": "2026-10-13T10:39:19+00:00"
+   "gecontroleerd": "2026-10-14T08:46:20+00:00"
   },
   {
    "id": "211052285",
@@ -1682,7 +1690,7 @@
     }
    ],
    "nieuw_sinds": null,
-   "gecontroleerd": "2026-10-13T10:39:21+00:00"
+   "gecontroleerd": "2026-10-14T08:46:21+00:00"
   },
   {
    "id": "49249766",
@@ -1720,7 +1728,7 @@
     }
    ],
    "nieuw_sinds": null,
-   "gecontroleerd": "2026-10-13T10:39:22+00:00"
+   "gecontroleerd": "2026-10-14T08:46:22+00:00"
   },
   {
    "id": "59808603",
@@ -1739,7 +1747,7 @@
     }
    ],
    "nieuw_sinds": null,
-   "gecontroleerd": "2026-10-13T10:39:32+00:00"
+   "gecontroleerd": "2026-10-14T08:46:31+00:00"
   },
   {
    "id": "33253215",
@@ -1793,7 +1801,7 @@
     }
    ],
    "nieuw_sinds": null,
-   "gecontroleerd": "2026-10-13T10:39:34+00:00"
+   "gecontroleerd": "2026-10-14T08:46:32+00:00"
   },
   {
    "id": "18378023",
@@ -1831,7 +1839,7 @@
     }
    ],
    "nieuw_sinds": null,
-   "gecontroleerd": "2026-10-13T10:39:40+00:00"
+   "gecontroleerd": "2026-10-14T08:46:38+00:00"
   },
   {
    "id": "13002528",
@@ -1877,7 +1885,7 @@
     }
    ],
    "nieuw_sinds": null,
-   "gecontroleerd": "2026-10-13T10:39:41+00:00"
+   "gecontroleerd": "2026-10-14T08:46:38+00:00"
   },
   {
    "id": "63269510",
@@ -1915,7 +1923,7 @@
     }
    ],
    "nieuw_sinds": null,
-   "gecontroleerd": "2026-10-13T10:39:42+00:00"
+   "gecontroleerd": "2026-10-14T08:46:39+00:00"
   },
   {
    "id": "32620332",
@@ -1953,7 +1961,7 @@
     }
    ],
    "nieuw_sinds": null,
-   "gecontroleerd": "2026-10-13T10:39:44+00:00"
+   "gecontroleerd": "2026-10-14T08:46:41+00:00"
   },
   {
    "id": "36587351",
@@ -2007,7 +2015,7 @@
     }
    ],
    "nieuw_sinds": null,
-   "gecontroleerd": "2026-10-13T10:39:47+00:00"
+   "gecontroleerd": "2026-10-14T08:46:43+00:00"
   },
   {
    "id": "175194515",
@@ -2053,7 +2061,7 @@
     }
    ],
    "nieuw_sinds": null,
-   "gecontroleerd": "2026-10-13T10:39:49+00:00"
+   "gecontroleerd": "2026-10-14T08:46:45+00:00"
   },
   {
    "id": "96177629",
@@ -2091,7 +2099,7 @@
     }
    ],
    "nieuw_sinds": null,
-   "gecontroleerd": "2026-10-13T10:39:51+00:00"
+   "gecontroleerd": "2026-10-14T08:46:46+00:00"
   },
   {
    "id": "52191015",
@@ -2145,7 +2153,7 @@
     }
    ],
    "nieuw_sinds": null,
-   "gecontroleerd": "2026-10-13T10:39:51+00:00"
+   "gecontroleerd": "2026-10-14T08:46:47+00:00"
   },
   {
    "id": "63192053",
@@ -2183,7 +2191,7 @@
     }
    ],
    "nieuw_sinds": null,
-   "gecontroleerd": "2026-10-13T10:39:52+00:00"
+   "gecontroleerd": "2026-10-14T08:46:48+00:00"
   },
   {
    "id": "61314161",
@@ -2221,7 +2229,7 @@
     }
    ],
    "nieuw_sinds": null,
-   "gecontroleerd": "2026-10-13T10:39:53+00:00"
+   "gecontroleerd": "2026-10-14T08:46:48+00:00"
   },
   {
    "id": "36180421",
@@ -2267,7 +2275,7 @@
     }
    ],
    "nieuw_sinds": null,
-   "gecontroleerd": "2026-10-13T10:39:54+00:00"
+   "gecontroleerd": "2026-10-14T08:46:49+00:00"
   },
   {
    "id": "39723057",
@@ -2329,7 +2337,7 @@
     }
    ],
    "nieuw_sinds": null,
-   "gecontroleerd": "2026-10-13T10:39:55+00:00"
+   "gecontroleerd": "2026-10-14T08:46:50+00:00"
   },
   {
    "id": "3316995",
@@ -2351,9 +2359,9 @@
       {
        "vestiging": "Provinciaal depot",
        "westervoort": false,
-       "status": "Uitgeleend tot",
+       "status": "Uitgeleend",
        "aanwezig": false,
-       "terug": "2026-10-01",
+       "terug": null,
        "plek": "V studie 640.5 SMIT"
       }
      ]
@@ -2367,7 +2375,7 @@
     }
    ],
    "nieuw_sinds": null,
-   "gecontroleerd": "2026-10-13T10:39:56+00:00"
+   "gecontroleerd": "2026-10-14T08:46:51+00:00"
   },
   {
    "id": "7848758",
@@ -2405,7 +2413,7 @@
     }
    ],
    "nieuw_sinds": null,
-   "gecontroleerd": "2026-10-13T10:39:57+00:00"
+   "gecontroleerd": "2026-10-14T08:46:51+00:00"
   },
   {
    "id": "123996873",
@@ -2459,7 +2467,7 @@
     }
    ],
    "nieuw_sinds": null,
-   "gecontroleerd": "2026-10-13T10:39:59+00:00"
+   "gecontroleerd": "2026-10-14T08:46:53+00:00"
   },
   {
    "id": "122988667",
@@ -2497,7 +2505,7 @@
     }
    ],
    "nieuw_sinds": null,
-   "gecontroleerd": "2026-10-13T10:40:01+00:00"
+   "gecontroleerd": "2026-10-14T08:46:54+00:00"
   },
   {
    "id": "61157639",
@@ -2516,7 +2524,7 @@
     }
    ],
    "nieuw_sinds": null,
-   "gecontroleerd": "2026-10-13T10:40:17+00:00"
+   "gecontroleerd": "2026-10-14T08:47:10+00:00"
   },
   {
    "id": "63105991",
@@ -2535,7 +2543,7 @@
     }
    ],
    "nieuw_sinds": null,
-   "gecontroleerd": "2026-10-13T10:40:46+00:00"
+   "gecontroleerd": "2026-10-14T08:47:35+00:00"
   },
   {
    "id": "61174603",
@@ -2573,7 +2581,7 @@
     }
    ],
    "nieuw_sinds": null,
-   "gecontroleerd": "2026-10-13T10:40:47+00:00"
+   "gecontroleerd": "2026-10-14T08:47:36+00:00"
   },
   {
    "id": "63096631",
@@ -2592,7 +2600,7 @@
     }
    ],
    "nieuw_sinds": null,
-   "gecontroleerd": "2026-10-13T10:40:55+00:00"
+   "gecontroleerd": "2026-10-14T08:47:43+00:00"
   },
   {
    "id": "62207301",
@@ -2630,7 +2638,7 @@
     }
    ],
    "nieuw_sinds": null,
-   "gecontroleerd": "2026-10-13T10:40:56+00:00"
+   "gecontroleerd": "2026-10-14T08:47:43+00:00"
   },
   {
    "id": "223380",
@@ -2649,7 +2657,7 @@
     }
    ],
    "nieuw_sinds": null,
-   "gecontroleerd": "2026-10-13T10:41:18+00:00"
+   "gecontroleerd": "2026-10-14T08:48:04+00:00"
   },
   {
    "id": "12164300",
@@ -2668,7 +2676,7 @@
     }
    ],
    "nieuw_sinds": null,
-   "gecontroleerd": "2026-10-13T10:41:35+00:00"
+   "gecontroleerd": "2026-10-14T08:48:18+00:00"
   },
   {
    "id": "466518",
@@ -2758,7 +2766,7 @@
     }
    ],
    "nieuw_sinds": null,
-   "gecontroleerd": "2026-10-13T10:41:37+00:00"
+   "gecontroleerd": "2026-10-14T08:48:19+00:00"
   },
   {
    "id": "50998056",
@@ -2777,7 +2785,7 @@
     }
    ],
    "nieuw_sinds": null,
-   "gecontroleerd": "2026-10-13T10:42:09+00:00"
+   "gecontroleerd": "2026-10-14T08:48:47+00:00"
   },
   {
    "id": "50625669",
@@ -2865,7 +2873,7 @@
     }
    ],
    "nieuw_sinds": null,
-   "gecontroleerd": "2026-10-13T10:42:11+00:00"
+   "gecontroleerd": "2026-10-14T08:48:49+00:00"
   },
   {
    "id": "9530",
@@ -2884,7 +2892,7 @@
     }
    ],
    "nieuw_sinds": null,
-   "gecontroleerd": "2026-10-13T10:42:24+00:00"
+   "gecontroleerd": "2026-10-14T08:49:00+00:00"
   },
   {
    "id": "50911074",
@@ -2946,7 +2954,7 @@
     }
    ],
    "nieuw_sinds": null,
-   "gecontroleerd": "2026-10-13T10:42:24+00:00"
+   "gecontroleerd": "2026-10-14T08:49:00+00:00"
   },
   {
    "id": "59484492",
@@ -2965,7 +2973,7 @@
     }
    ],
    "nieuw_sinds": null,
-   "gecontroleerd": "2026-10-13T10:42:35+00:00"
+   "gecontroleerd": "2026-10-14T08:49:09+00:00"
   },
   {
    "id": "57328903",
@@ -3003,7 +3011,7 @@
     }
    ],
    "nieuw_sinds": null,
-   "gecontroleerd": "2026-10-13T10:42:37+00:00"
+   "gecontroleerd": "2026-10-14T08:49:10+00:00"
   },
   {
    "id": "27422401",
@@ -3057,7 +3065,7 @@
     }
    ],
    "nieuw_sinds": null,
-   "gecontroleerd": "2026-10-13T10:42:38+00:00"
+   "gecontroleerd": "2026-10-14T08:49:11+00:00"
   },
   {
    "id": "54985743",
@@ -3095,7 +3103,7 @@
     }
    ],
    "nieuw_sinds": null,
-   "gecontroleerd": "2026-10-13T10:42:40+00:00"
+   "gecontroleerd": "2026-10-14T08:49:13+00:00"
   },
   {
    "id": "56597885",
@@ -3141,7 +3149,7 @@
     }
    ],
    "nieuw_sinds": null,
-   "gecontroleerd": "2026-10-13T10:42:42+00:00"
+   "gecontroleerd": "2026-10-14T08:49:15+00:00"
   },
   {
    "id": "58274159",
@@ -3201,7 +3209,7 @@
     }
    ],
    "nieuw_sinds": null,
-   "gecontroleerd": "2026-10-13T10:42:44+00:00"
+   "gecontroleerd": "2026-10-14T08:49:16+00:00"
   },
   {
    "id": "36217837",
@@ -3247,7 +3255,7 @@
     }
    ],
    "nieuw_sinds": null,
-   "gecontroleerd": "2026-10-13T10:42:46+00:00"
+   "gecontroleerd": "2026-10-14T08:49:18+00:00"
   },
   {
    "id": "59120150",
@@ -3285,7 +3293,7 @@
     }
    ],
    "nieuw_sinds": null,
-   "gecontroleerd": "2026-10-13T10:42:47+00:00"
+   "gecontroleerd": "2026-10-14T08:49:18+00:00"
   },
   {
    "id": "29630960",
@@ -3331,9 +3339,9 @@
       {
        "vestiging": "Provinciaal depot",
        "westervoort": false,
-       "status": "Uitgeleend tot",
-       "aanwezig": false,
-       "terug": "2026-10-21",
+       "status": "Aanwezig",
+       "aanwezig": true,
+       "terug": null,
        "plek": "V fictie YANA"
       }
      ]
@@ -3373,7 +3381,7 @@
     }
    ],
    "nieuw_sinds": null,
-   "gecontroleerd": "2026-10-13T10:42:49+00:00"
+   "gecontroleerd": "2026-10-14T08:49:20+00:00"
   },
   {
    "id": "41456850",
@@ -3443,7 +3451,7 @@
     }
    ],
    "nieuw_sinds": null,
-   "gecontroleerd": "2026-10-13T10:42:50+00:00"
+   "gecontroleerd": "2026-10-14T08:49:20+00:00"
   },
   {
    "id": "55042186",
@@ -3481,7 +3489,7 @@
     }
    ],
    "nieuw_sinds": null,
-   "gecontroleerd": "2026-10-13T10:42:53+00:00"
+   "gecontroleerd": "2026-10-14T08:49:22+00:00"
   },
   {
    "id": "54441362",
@@ -3527,7 +3535,7 @@
     }
    ],
    "nieuw_sinds": null,
-   "gecontroleerd": "2026-10-13T10:42:55+00:00"
+   "gecontroleerd": "2026-10-14T08:49:24+00:00"
   },
   {
    "id": "55202144",
@@ -3565,7 +3573,7 @@
     }
    ],
    "nieuw_sinds": null,
-   "gecontroleerd": "2026-10-13T10:42:56+00:00"
+   "gecontroleerd": "2026-10-14T08:49:24+00:00"
   },
   {
    "id": "41136614",
@@ -3584,7 +3592,7 @@
     }
    ],
    "nieuw_sinds": null,
-   "gecontroleerd": "2026-10-13T10:43:20+00:00"
+   "gecontroleerd": "2026-10-14T08:49:46+00:00"
   },
   {
    "id": "13413970",
@@ -3622,7 +3630,7 @@
     }
    ],
    "nieuw_sinds": null,
-   "gecontroleerd": "2026-10-13T10:43:21+00:00"
+   "gecontroleerd": "2026-10-14T08:49:47+00:00"
   },
   {
    "id": "23690388",
@@ -3660,7 +3668,7 @@
     }
    ],
    "nieuw_sinds": null,
-   "gecontroleerd": "2026-10-13T10:43:21+00:00"
+   "gecontroleerd": "2026-10-14T08:49:47+00:00"
   },
   {
    "id": "21413662",
@@ -3679,7 +3687,7 @@
     }
    ],
    "nieuw_sinds": null,
-   "gecontroleerd": "2026-10-13T10:43:39+00:00"
+   "gecontroleerd": "2026-10-14T08:50:03+00:00"
   },
   {
    "id": "33380938",
@@ -3717,7 +3725,7 @@
     }
    ],
    "nieuw_sinds": null,
-   "gecontroleerd": "2026-10-13T10:43:41+00:00"
+   "gecontroleerd": "2026-10-14T08:50:05+00:00"
   },
   {
    "id": "49127718",
@@ -3736,7 +3744,7 @@
     }
    ],
    "nieuw_sinds": null,
-   "gecontroleerd": "2026-10-13T10:44:02+00:00"
+   "gecontroleerd": "2026-10-14T08:50:23+00:00"
   },
   {
    "id": "56028895",
@@ -3774,7 +3782,7 @@
     }
    ],
    "nieuw_sinds": null,
-   "gecontroleerd": "2026-10-13T10:44:03+00:00"
+   "gecontroleerd": "2026-10-14T08:50:24+00:00"
   },
   {
    "id": "43625681",
@@ -3852,7 +3860,7 @@
     }
    ],
    "nieuw_sinds": null,
-   "gecontroleerd": "2026-10-13T10:44:04+00:00"
+   "gecontroleerd": "2026-10-14T08:50:24+00:00"
   },
   {
    "id": "30194212",
@@ -3890,7 +3898,7 @@
     }
    ],
    "nieuw_sinds": null,
-   "gecontroleerd": "2026-10-13T10:44:06+00:00"
+   "gecontroleerd": "2026-10-14T08:50:26+00:00"
   }
  ]
 }
