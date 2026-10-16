@@ -43,23 +43,32 @@ button, input, select { font: inherit; color: inherit; }
 mark { background: var(--stift); color: var(--stift-inkt); border-radius: 2px; padding: 0 1px; }
 
 /* ---------- kop + plank ---------- */
-.kop { max-width: 1180px; margin: 0 auto; padding: 28px 16px 0; }
-.kop-rij { display: flex; justify-content: space-between; align-items: center; gap: 12px; flex-wrap: wrap; }
-.eyebrow { margin: 0; font: 700 12px/1 var(--mono); letter-spacing: .08em; text-transform: uppercase; color: var(--inkt-2); }
-.vernieuw { display: flex; align-items: center; gap: 12px; flex-wrap: wrap; }
-.kop-titel {
-  font-family: var(--display); font-weight: 700; font-variation-settings: "wdth" 80;
-  font-size: clamp(30px, 5.4vw, 64px); line-height: .98; letter-spacing: -.02em;
-  margin: 22px 0 26px; max-width: 15ch; text-wrap: balance;
+.kop { background: #1E5F66; color: #F4ECDD; }
+.kop-binnen {
+  max-width: 1180px; margin: 0 auto; padding: 10px 16px; min-height: 60px;
+  display: flex; justify-content: space-between; align-items: center; gap: 12px;
 }
-.kop-titel .getal { color: var(--groen); font-variation-settings: "wdth" 75; }
+.merk { margin: 0; display: flex; align-items: center; gap: 12px; }
+.merk img { height: 26px; width: auto; display: block; }
+.merk span {
+  font: 700 22px/1 var(--display); font-variation-settings: "wdth" 85; letter-spacing: -.01em;
+  color: #F0B23F; padding-left: 12px; border-left: 2px solid rgb(244 236 221 / .25);
+}
+.gecontroleerd { font-size: 13px; color: rgb(244 236 221 / .78); }
+.kop .knop-kop { background: #F4ECDD; color: #1E5F66; border-color: #F4ECDD; height: 36px; }
+.kop .knop-kop:hover { background: #FFF8EC; }
+.knop-kop > span { white-space: nowrap; overflow: hidden; text-overflow: ellipsis; max-width: 46vw; }
 
-.held { display: grid; grid-template-columns: minmax(0, 1fr) minmax(0, 1.15fr); gap: 40px; align-items: end; margin-top: 26px; }
-.held .kop-titel { margin: 0 0 22px; }
+.plank-sectie { max-width: 1180px; margin: 0 auto; padding: 18px 16px 0; }
+.plank-titel {
+  margin: 0 0 4px; display: flex; align-items: baseline; gap: 8px;
+  font: 700 13px/1 var(--mono); letter-spacing: .08em; text-transform: uppercase; color: var(--inkt-2);
+}
+.plank-titel .getal { color: var(--groen); }
 .plank-wrap { position: relative; min-width: 0; }
 .plank {
-  display: flex; align-items: flex-end; gap: 3px; min-height: 230px;
-  overflow-x: auto; overflow-y: hidden; padding: 24px 2px 0; scrollbar-width: thin;
+  display: flex; align-items: flex-end; gap: 3px; min-height: 150px;
+  overflow-x: auto; overflow-y: hidden; padding: 16px 2px 0; scrollbar-width: thin;
 }
 .plankrand { height: 12px; background: var(--inkt); border-radius: 2px; }
 .rug {
@@ -86,13 +95,13 @@ mark { background: var(--stift); color: var(--stift-inkt); border-radius: 2px; p
   content: ""; position: absolute; top: -9px; left: 50%; width: 10px; height: 14px; margin-left: -5px;
   background: var(--stift); clip-path: polygon(0 0, 100% 0, 100% 100%, 50% 72%, 0 100%);
 }
-.steun { flex: 0 0 auto; width: 26px; height: 92px; margin-left: 2px; background: var(--inkt); clip-path: polygon(0 0, 7px 0, 7px calc(100% - 7px), 100% calc(100% - 7px), 100% 100%, 0 100%); }
+.steun { flex: 0 0 auto; width: 24px; height: 70px; margin-left: 2px; background: var(--inkt); clip-path: polygon(0 0, 7px 0, 7px calc(100% - 7px), 100% calc(100% - 7px), 100% 100%, 0 100%); }
 .plank-leeg { align-self: center; color: var(--inkt-2); font-style: italic; padding-bottom: 40px; }
 @keyframes rugIn { from { transform: translateY(40px); opacity: 0; } }
 
 /* ---------- sticky balk ---------- */
 .balk {
-  position: sticky; top: 0; z-index: 5; margin-top: 28px;
+  position: sticky; top: 0; z-index: 5; margin-top: 20px;
   background: var(--papier); border-bottom: 1px solid var(--lijn);
 }
 .balk.vast { box-shadow: 0 6px 18px -12px rgb(0 0 0 / .35); }
@@ -263,9 +272,9 @@ main { max-width: 1180px; margin: 0 auto; padding: 18px 16px 40px; }
 @media (max-width: 760px) {
   .filters { grid-template-columns: 1fr; }
   .sorteer .klein { display: none; }
-  .held { grid-template-columns: 1fr; gap: 8px; }
-  .held .kop-titel { margin: 0; }
-  .plank { min-height: 180px; }
+  .gecontroleerd, .knop-kop .lang { display: none; }
+  .merk img { height: 22px; }
+  .merk span { font-size: 19px; padding-left: 10px; }
 }
 @media (prefers-reduced-motion: reduce) {
   *, ::before, ::after { animation: none !important; transition: none !important; }

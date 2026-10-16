@@ -3,10 +3,13 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>Leeslijst Westervoort</title>
+<title>Bis Leeslijst</title>
 <meta name="description" content="Mijn Goodreads-leeslijst naast de collectie van Bibliotheek Liemers, vestiging Westervoort.">
 <meta name="color-scheme" content="light dark">
-<link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'%3E%3Crect x='5' y='6' width='6' height='21' rx='1' fill='%232F5D50'/%3E%3Crect x='12' y='3' width='5' height='24' rx='1' fill='%237A2E2E'/%3E%3Crect x='18' y='8' width='8' height='19' rx='1' fill='%23C49A3A'/%3E%3Crect x='3' y='27' width='26' height='3' fill='%2318212B'/%3E%3C/svg%3E">
+<link rel="icon" href="favicon.svg" type="image/svg+xml">
+<link rel="icon" href="favicon.ico" sizes="16x16 32x32 48x48">
+<link rel="apple-touch-icon" href="img/logo-180.png">
+<meta name="theme-color" content="#1E5F66">
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Atkinson+Hyperlegible:ital,wght@0,400;0,700;1,400&family=Bricolage+Grotesque:opsz,wdth,wght@12..96,75..100,400..800&family=Courier+Prime:wght@400;700&display=swap" rel="stylesheet">
@@ -14,24 +17,25 @@
 </head>
 <body>
 <header class="kop">
-  <div class="kop-rij">
-    <p class="eyebrow">Bibliotheek Liemers · vestiging Westervoort</p>
+  <div class="kop-binnen">
+    <h1 class="merk"><img src="img/woordmerk.svg" alt="Bis" width="60" height="29"><span>Leeslijst</span></h1>
     <div class="vernieuw">
-      <span id="gecontroleerd" class="klein"></span>
-      <button id="vernieuw-knop" class="knop" type="button">
+      <span id="gecontroleerd" class="gecontroleerd"></span>
+      <button id="vernieuw-knop" class="knop knop-kop" type="button">
         <svg aria-hidden="true" viewBox="0 0 24 24" width="16" height="16"><path d="M20 11A8 8 0 0 0 5.6 6.6L4 8M4 4v4h4M4 13a8 8 0 0 0 14.4 4.4L20 16m0 4v-4h-4" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></svg>
-        <span>Vernieuw beschikbaarheid</span>
+        <span>Vernieuw<span class="lang"> beschikbaarheid</span></span>
       </button>
     </div>
   </div>
-  <div class="held">
-  <h1 id="kop-titel" class="kop-titel"><span class="getal">…</span> boeken van je leeslijst staan nu in&nbsp;Westervoort</h1>
+</header>
+
+<section class="plank-sectie" aria-labelledby="plank-titel">
+  <h2 id="plank-titel" class="plank-titel">Nu in Westervoort</h2>
   <div class="plank-wrap">
     <div id="plank" class="plank" role="list" aria-label="Boeken die nu in Westervoort aanwezig zijn"></div>
     <div class="plankrand" aria-hidden="true"></div>
   </div>
-  </div>
-</header>
+</section>
 
 <div class="balk" id="balk">
   <div class="balk-binnen">

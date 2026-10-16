@@ -176,13 +176,11 @@ function kaart(b) {
 function renderPlank() {
   const op = boeken.filter((b) => b.status === "westervoort")
     .sort((a, b) => (b.nieuw - a.nieuw) || (a.toegevoegd || "").localeCompare(b.toegevoegd || ""));
-  $("#kop-titel").innerHTML = op.length === 1
-    ? `<span class="getal">1</span> boek van je leeslijst staat nu in&nbsp;Westervoort`
-    : `<span class="getal">${op.length || "Geen"}</span> boeken van je leeslijst staan nu in&nbsp;Westervoort`;
+  $("#plank-titel").innerHTML = `Nu in Westervoort <span class="getal">${op.length}</span>`;
   $("#plank").innerHTML = op.length ? op.map((b, i) => {
     const [k, o] = linnen(b);
     const breed = Math.round(Math.min(56, Math.max(22, (b.paginas || 300) / 13)));
-    const hoog = 150 + (hash(b.id + "h") % 46);
+    const hoog = 112 + (hash(b.id + "h") % 30);
     const plek = (b.ex.find((x) => x.westervoort)?.plek || "").replace(/^\[.*?\]\s*/, "").split(" ").pop().slice(0, 5);
     return `<button class="rug ${b.nieuw ? "nieuw" : ""}" role="listitem" data-naar="b${b.id}" style="--kleur:${k};--op:${o};--i:${i};width:${breed}px;height:${hoog}px" title="${esc(b.toonTitel)} — ${esc(b.auteur)}${b.paginas ? ` (${b.paginas} blz)` : ""}">
       <span class="rt">${esc(b.toonTitel)}</span><span class="etiket">${esc(plek)}</span></button>`;
@@ -341,7 +339,8 @@ function toast(tekst, ms = 4500) {
 
 function knopStatus(tekst, bezig) {
   const k = $("#vernieuw-knop");
-  k.querySelector("span").textContent = tekst;
+  k.querySelector("span").innerHTML = tekst === "Vernieuw beschikbaarheid"
+    ? 'Vernieuw<span class="lang"> beschikbaarheid</span>' : esc(tekst);
   k.classList.toggle("bezig", bezig);
 }
 

@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32">
+  <!-- Bis Leeslijst favicon: alleen de boekrug, crème op petrol. -->
+  <rect width="32" height="32" rx="7" fill="#1E5F66"/>
+  <g fill="#F4ECDD" transform="translate(16 16) scale(0.93) translate(-54.25 -53.25)">
+    <g transform="rotate(-6 54.25 67)"><path fill-rule="evenodd" d="M50.65,39.5h7.2a1.2,1.2 0 0 1 1.2,1.2v25.1a1.2,1.2 0 0 1 -1.2,1.2h-7.2a1.2,1.2 0 0 1 -1.2,-1.2v-25.1a1.2,1.2 0 0 1 1.2,-1.2zM50.85,43.2h6.8v1.3h-6.8zM50.85,61.6h6.8v1.3h-6.8zM51.75,48.6h5v5.6h-5z"/></g>
+  </g>
+</svg>
