@@ -367,7 +367,7 @@ async function vernieuw() {
     return;
   }
   knopStatus("Bibliotheek wordt gecontroleerd…", true);
-  toast("Gestart. Dit duurt ongeveer 10 minuten; je kunt deze pagina open laten.", 6000);
+  toast("Gestart. Dit duurt een paar minuten; je kunt deze pagina open laten.", 6000);
   const vorige = data.bijgewerkt;
   // eerst wachten tot de run klaar is, daarna tot de nieuwe data online staat
   for (let i = 0; i < 120; i++) {
