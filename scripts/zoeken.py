@@ -14,6 +14,10 @@ LIEMERS = {"LIE/ZEV": "Zevenaar", "LIE/DUI": "Duiven", "LIE/GIE": "Giesbeek",
            "BSG/BSA": "Provinciaal depot", "BA/ALT": "Rozet Arnhem"}
 
 
+# catalogusrecord -> originele titel ("" als het geen vertaling is); gevuld door update.py
+ORIGINELE_TITELS = {}
+
+
 def plat(s):
     s = unicodedata.normalize("NFKD", s)
     return "".join(c for c in s if not unicodedata.combining(c)).lower()
@@ -43,10 +47,12 @@ def zelfde_titel(a, b):
 def vertaald_uit(cat, r):
     """Originele titel volgens de catalogus ('Vertaling van: ...'), of ''."""
     if "_orig" not in r:
-        noot = cat.details(r["id"]).get("FullNote", "")
-        m = re.search(r"Vertaling van: ?(.+?)(?: [-/.] |\.$|$)", noot)
-        r["_orig"] = m.group(1).strip(" .") if m else ""
-        time.sleep(0.2)
+        if r["id"] not in ORIGINELE_TITELS:  # verandert nooit, dus één keer opvragen
+            noot = cat.details(r["id"]).get("FullNote", "")
+            m = re.search(r"Vertaling van: ?(.+?)(?: [-/.] |\.$|$)", noot)
+            ORIGINELE_TITELS[r["id"]] = m.group(1).strip(" .") if m else ""
+            time.sleep(0.2)
+        r["_orig"] = ORIGINELE_TITELS[r["id"]]
     return r["_orig"]
 
 

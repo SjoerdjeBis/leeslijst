@@ -1,7 +1,25 @@
 {
- "bijgewerkt": "2026-10-19T13:44:37+00:00",
- "export": "2026-10-07",
+ "bijgewerkt": "2026-10-19T13:57:15+00:00",
+ "export": "2026-10-19",
  "boeken": [
+  {
+   "id": "256697917",
+   "titel": "De avondschool (Morgenstjernen, #4)",
+   "auteur": "Karl Ove Knausgård",
+   "isbn": "9789044550290",
+   "paginas": 520,
+   "jaar": 2023,
+   "toegevoegd": "2026-10-12",
+   "edities": [],
+   "gecontroleerd": "2026-10-19T13:57:15+00:00",
+   "historie": [
+    {
+     "datum": "2026-10-19",
+     "status": "niet"
+    }
+   ],
+   "status": "niet"
+  },
   {
    "id": "1761223",
    "titel": "Schaduwkind",
@@ -3403,76 +3421,6 @@
    ],
    "nieuw_sinds": null,
    "gecontroleerd": "2026-10-19T13:43:17+00:00"
-  },
-  {
-   "id": "41456850",
-   "titel": "Grand Hotel Europa",
-   "auteur": "Ilja Leonard Pfeijffer",
-   "isbn": "9789029526227",
-   "paginas": 547,
-   "jaar": 2018,
-   "toegevoegd": "2021-09-08",
-   "edities": [
-    {
-     "id": "2.1915399",
-     "titel": "Grand Hotel Europa",
-     "type": "Boek",
-     "info": "Nederlands | [2018]",
-     "omslag": "https://www.sambis.nl/iguana/KB.AZB.cls?ppn=418840474&ExternalProfile=InforAll!!!###!!!MATTYPE=BKVF!!!###!!!PUBTYPE=1",
-     "vertaling_van": null,
-     "exemplaren": [
-      {
-       "vestiging": "Westervoort",
-       "westervoort": true,
-       "status": "Aanwezig",
-       "aanwezig": true,
-       "terug": null,
-       "plek": "[VRO] PFEI"
-      },
-      {
-       "vestiging": "Zevenaar",
-       "westervoort": false,
-       "status": "Aanwezig",
-       "aanwezig": true,
-       "terug": null,
-       "plek": "Romans Literatuur PFEI"
-      },
-      {
-       "vestiging": "Duiven",
-       "westervoort": false,
-       "status": "Aanwezig",
-       "aanwezig": true,
-       "terug": null,
-       "plek": "Romans Literatuur PFEI"
-      },
-      {
-       "vestiging": "Lobith",
-       "westervoort": false,
-       "status": "Aanwezig",
-       "aanwezig": true,
-       "terug": null,
-       "plek": "[VRO] PFEI"
-      },
-      {
-       "vestiging": "Provinciaal depot",
-       "westervoort": false,
-       "status": "Uitgeleend tot",
-       "aanwezig": false,
-       "terug": "2026-11-09",
-       "plek": "V fictie PFEIJ"
-      }
-     ]
-    }
-   ],
-   "status": "westervoort",
-   "historie": [
-    {
-     "datum": "2026-10-07",
-     "status": "westervoort"
-    }
-   ],
-   "nieuw_sinds": null,
-   "gecontroleerd": "2026-10-19T13:43:18+00:00"
   },
   {
    "id": "55042186",

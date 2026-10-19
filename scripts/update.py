@@ -12,14 +12,19 @@ import csv
 import json
 import re
 import sys
+import threading
+from concurrent.futures import ThreadPoolExecutor, as_completed
 from datetime import date, datetime, timezone
 from pathlib import Path
 
 from bieb import Catalogus
+import zoeken
 from zoeken import LIEMERS, WESTERVOORT, samenvatting, zoek_boek
 
 DATA = Path(__file__).parent.parent / "docs/data/boeken.json"
 NIEUW_DAGEN = 30  # zo lang blijft "nieuw in de collectie" zichtbaar
+ORIG_CACHE = DATA.parent / "originele_titels.json"
+TEGELIJK = 5  # zoveel boeken tegelijk opzoeken; elk met een eigen catalogussessie
 
 
 def nu():
@@ -41,9 +46,24 @@ def _int(s):
     return int(s) if s and s.strip().isdigit() else None
 
 
+def _export_regels(pad):
+    """Regels van de export. Herstelt het formaat dat Excel/Numbers maakt na opslaan:
+    elke regel tussen aanhalingstekens met een ';' erachter."""
+    regels = open(pad, encoding="utf-8-sig").read().splitlines()
+    if regels and regels[0].rstrip().endswith(";"):
+        hersteld = []
+        for r in regels:
+            r = r.rstrip().removesuffix(";")
+            if len(r) >= 2 and r[0] == '"' and r[-1] == '"':
+                r = r[1:-1].replace('""', '"')
+            hersteld.append(r)
+        regels = hersteld
+    return regels
+
+
 def lees_export(pad):
     boeken = []
-    for r in csv.DictReader(open(pad, encoding="utf-8")):
+    for r in csv.DictReader(_export_regels(pad)):
         if r["Exclusive Shelf"] != "to-read":
             continue
         boeken.append({
@@ -109,20 +129,34 @@ def controleer(cat, boek, vandaag):
 
 
 def run_beschikbaarheid(data, alleen=None):
-    cat = Catalogus()
     vandaag = date.today().isoformat()
     boeken = [b for b in data["boeken"] if alleen is None or b["id"] in alleen]
-    wijzigingen = []
-    for i, b in enumerate(boeken, 1):
-        oud, nieuw = controleer(cat, b, vandaag)
-        teken = " " if oud == nieuw else "*"
-        print(f"[{i}/{len(boeken)}]{teken}{nieuw:24} {b['titel'][:60]}", flush=True)
-        if oud and oud != nieuw:
-            wijzigingen.append(f"{b['titel']}: {oud} -> {nieuw}")
-        if i % 10 == 0:
-            bewaar(data)  # tussentijds, zodat een afgebroken run niet alles kwijt is
+    try:
+        zoeken.ORIGINELE_TITELS.update(json.loads(ORIG_CACHE.read_text()))
+    except (OSError, ValueError):
+        pass
+    sessie = threading.local()
+    slot = threading.Lock()
+    wijzigingen, klaar = [], 0
+
+    def een(b):
+        if not hasattr(sessie, "cat"):
+            sessie.cat = Catalogus()
+        return b, *controleer(sessie.cat, b, vandaag)
+
+    with ThreadPoolExecutor(TEGELIJK) as pool:
+        for f in as_completed([pool.submit(een, b) for b in boeken]):
+            b, oud, nieuw = f.result()
+            with slot:
+                klaar += 1
+                teken = " " if oud == nieuw else "*"
+                print(f"[{klaar}/{len(boeken)}]{teken}{nieuw:24} {b['titel'][:60]}", flush=True)
+                if oud and oud != nieuw:
+                    wijzigingen.append(f"{b['titel']}: {oud} -> {nieuw}")
     data["bijgewerkt"] = nu()
     bewaar(data)
+    ORIG_CACHE.write_text(json.dumps(dict(sorted(zoeken.ORIGINELE_TITELS.items())),
+                                     ensure_ascii=False, indent=1) + "\n")
     print(f"\n{len(wijzigingen)} wijziging(en)")
     for w in wijzigingen:
         print("  " + w)
@@ -130,6 +164,10 @@ def run_beschikbaarheid(data, alleen=None):
 
 def run_export(data, pad):
     nieuwe_lijst = lees_export(pad)
+    # vangnet: een kapotte of verkeerde export mag de lijst niet leegmaken
+    if data["boeken"] and len(nieuwe_lijst) < len(data["boeken"]) / 2:
+        sys.exit(f"Export bevat maar {len(nieuwe_lijst)} to-read-boeken (nu {len(data['boeken'])}). "
+                 "Klopt het bestand wel? Er is niets aangepast.")
     oud = {b["id"]: b for b in data["boeken"]}
     nieuw_ids = {b["id"] for b in nieuwe_lijst}
     weg = [b["titel"] for b in data["boeken"] if b["id"] not in nieuw_ids]

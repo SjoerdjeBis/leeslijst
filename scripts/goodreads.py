@@ -2,10 +2,12 @@
 import html
 import json
 import re
+import threading
 import time
 import urllib.request
 from pathlib import Path
 
+_SLOT = threading.Lock()
 CACHE = Path(__file__).parent.parent / "docs/data/goodreads_cache.json"
 UA = ("Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 "
       "(KHTML, like Gecko) Chrome/130 Safari/537.36")
@@ -53,6 +55,8 @@ def nederlandse_edities(book_id):
                 "isbn": isbn.group(1) if isbn else "",
             })
         time.sleep(1)
-    cache[book_id] = edities
-    CACHE.write_text(json.dumps(cache, ensure_ascii=False, indent=1))
+    with _SLOT:
+        cache = _laad()
+        cache[book_id] = edities
+        CACHE.write_text(json.dumps(cache, ensure_ascii=False, indent=1))
     return edities
