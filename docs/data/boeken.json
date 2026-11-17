@@ -1,7 +1,61 @@
 {
- "bijgewerkt": "2026-11-17T14:40:15+00:00",
- "export": "2026-10-19",
+ "bijgewerkt": "2026-11-17T14:50:45+00:00",
+ "export": "2026-11-17",
  "boeken": [
+  {
+   "id": "259758724",
+   "titel": "Zwemmen in het geld: Zo voorkom je dat je slapend arm wordt (Dutch Edition)",
+   "auteur": "Milou Brand",
+   "isbn": "9789465520551",
+   "paginas": 259,
+   "jaar": 2026,
+   "toegevoegd": "2026-11-17",
+   "edities": [],
+   "gecontroleerd": "2026-11-17T14:50:45+00:00",
+   "historie": [
+    {
+     "datum": "2026-11-17",
+     "status": "niet"
+    }
+   ],
+   "status": "niet"
+  },
+  {
+   "id": "250252723",
+   "titel": "Hollywood, Ending",
+   "auteur": "John Green",
+   "isbn": "9798217422227",
+   "paginas": 416,
+   "jaar": 2026,
+   "toegevoegd": "2026-11-04",
+   "edities": [],
+   "gecontroleerd": "2026-11-17T14:50:40+00:00",
+   "historie": [
+    {
+     "datum": "2026-11-17",
+     "status": "niet"
+    }
+   ],
+   "status": "niet"
+  },
+  {
+   "id": "260705701",
+   "titel": "Als Europa verliest: Hoe de slag om AI de wereldorde verandert (Dutch Edition)",
+   "auteur": "Daan Juijn",
+   "isbn": "9789465520834",
+   "paginas": 118,
+   "jaar": 2026,
+   "toegevoegd": "2026-11-04",
+   "edities": [],
+   "gecontroleerd": "2026-11-17T14:50:43+00:00",
+   "historie": [
+    {
+     "datum": "2026-11-17",
+     "status": "niet"
+    }
+   ],
+   "status": "niet"
+  },
   {
    "id": "256697917",
    "titel": "De avondschool (Morgenstjernen, #4)",
@@ -557,52 +611,6 @@
     {
      "datum": "2026-10-30",
      "status": "elders_uitgeleend"
-    }
-   ],
-   "nieuw_sinds": null,
-   "gecontroleerd": "2026-11-17T14:38:44+00:00"
-  },
-  {
-   "id": "248312672",
-   "titel": "Een woord voor",
-   "auteur": "Eva Meijer",
-   "isbn": "9789464522600",
-   "paginas": 314,
-   "jaar": 2026,
-   "toegevoegd": "2026-02-27",
-   "edities": [
-    {
-     "id": "2.2570527",
-     "titel": "Een woord voor",
-     "type": "Boek",
-     "info": "Nederlands | [2026]",
-     "omslag": "https://www.sambis.nl/iguana/KB.AZB.cls?ppn=456063331&ExternalProfile=InforAll!!!###!!!MATTYPE=BKVF!!!###!!!PUBTYPE=1",
-     "vertaling_van": null,
-     "exemplaren": [
-      {
-       "vestiging": "Zevenaar",
-       "westervoort": false,
-       "status": "Aanwezig",
-       "aanwezig": true,
-       "terug": null,
-       "plek": "Romans Literatuur MEIJ"
-      }
-     ]
-    }
-   ],
-   "status": "elders",
-   "historie": [
-    {
-     "datum": "2026-10-07",
-     "status": "elders"
-    },
-    {
-     "datum": "2026-10-08",
-     "status": "elders_uitgeleend"
-    },
-    {
-     "datum": "2026-11-13",
-     "status": "elders"
     }
    ],
    "nieuw_sinds": null,
@@ -2344,52 +2352,6 @@
        "aanwezig": true,
        "terug": null,
        "plek": "Romans Literatuur WORT"
-      }
-     ]
-    }
-   ],
-   "status": "elders",
-   "historie": [
-    {
-     "datum": "2026-10-07",
-     "status": "elders"
-    }
-   ],
-   "nieuw_sinds": null,
-   "gecontroleerd": "2026-11-17T14:39:35+00:00"
-  },
-  {
-   "id": "36180421",
-   "titel": "De zweetvoetenman: Over rechtszaken & regels [en een hoop gedoe]",
-   "auteur": "Annet Huizing",
-   "isbn": "9789047708261",
-   "paginas": 247,
-   "jaar": 2017,
-   "toegevoegd": "2023-07-31",
-   "edities": [
-    {
-     "id": "2.1876019",
-     "titel": "De zweetvoetenman",
-     "type": "Boek",
-     "info": "Nederlands | [2017]",
-     "omslag": "https://www.sambis.nl/iguana/KB.AZB.cls?ppn=412593602&ExternalProfile=InforAll!!!###!!!MATTYPE=BKJF!!!###!!!PUBTYPE=1",
-     "vertaling_van": null,
-     "exemplaren": [
-      {
-       "vestiging": "Zevenaar",
-       "westervoort": false,
-       "status": "Aanwezig",
-       "aanwezig": true,
-       "terug": null,
-       "plek": "Jeugd 8-12 Mens en Maatschappij  J RECHTSPRAAK HUIZ"
-      },
-      {
-       "vestiging": "Giesbeek",
-       "westervoort": false,
-       "status": "Aanwezig",
-       "aanwezig": true,
-       "terug": null,
-       "plek": "Jeugd 8-12 Mens en Maatschappij J RECHTSPRAAK HUIZ"
       }
      ]
     }
